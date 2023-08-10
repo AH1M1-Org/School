@@ -83,25 +83,23 @@ FROM Versicherungsvertrag INNER JOIN Fahrzeug ON Fahrzeug_ID = Fahrzeug.ID;
 - SELECT VersNr, Kennzeichen, Kasko
 FROM Versicherungsvertrag, Fahrzeug Fahrzeug
 WHERE Fahrzeug_ID = Fahrzeug.ID;
-
 ---
-
-- SELECT  Kennzeichen, Hersteller, Bezeichnung 
+![Picture](https://media.discordapp.net/attachments/1139161006761857024/1139299615842254919/image.png?width=1442&height=99)
+```SQL
+SELECT  Kennzeichen, Hersteller, Bezeichnung 
 FROM fahrzeug INNER JOIN fahrzeugmodell ON Fahrzeugmodell_ID = fahrzeugmodell.ID 
 WHERE Hersteller = "VW"
 ORDER BY Bezeichnung DESC
+```
 
-- SELECT  Kennzeichen, Hersteller, Bezeichnung 
+```SQL
+SELECT  Kennzeichen, Hersteller, Bezeichnung 
 FROM fahrzeug, fahrzeugmodell
 WHERE Hersteller = "VW" AND Fahrzeugmodell_ID = fahrzeugmodell.ID
 ORDER BY Bezeichnung DESC
-
-- > in der Tabelle Fahrzeuge gibt es eine Spalte namens Fahrzeugmodell_ID diese ID gehört dann zu einer ID in der Tabelle Fahrzeugmodel in der Spalte ID
-
+```
+> in der Tabelle Fahrzeuge gibt es eine Spalte namens Fahrzeugmodell_ID diese ID gehört dann zu einer ID in der Tabelle Fahrzeugmodel in der Spalte ID
 ---
-
-
-
 - SELECT Datum, Kosten, Kennzeichen, Anschaffungsdatum
 FROM Instandhaltung INNER JOIN Fahrzeug ON Fahrzeug_ID = Fahrzeug.ID
 WHERE Kosten BETWEEN 300 AND 500
