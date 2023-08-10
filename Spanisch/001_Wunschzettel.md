@@ -20,3 +20,13 @@
 - Nachhängen im Unterricht -> Erstmal gut aufpassen damit das Problem nicht entsteht und wenn ich merke es gibt Lücken am selben Tag nacharbeiten
 
 ## Was tue ich um meine Ziele zu erreichen:
+- Mich beteiligen um eine 3+ / 2- zu erreichen
+
+- Aussreichend lernen für Klausuren
+
+## Wie werde ich meinen Fortschritt überprüfen?
+- Anhand der Noten von Klausuren
+
+- Anhand von Quartals Noten
+
+- Rückmeldung der lehrperson gut/schlecht
