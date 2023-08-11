@@ -41,3 +41,22 @@ b) $m = 5$
 |3|3|
 |4|4|
 |0|5|
+
+## Aufgabe 3
+Entscheide, ob die Zahlen kongruent oder nicht kongruent sind.
+1. $5 \equiv 2 \mod 5$<br>
+2. $-3 \equiv 39 \mod 7$<br>
+3. $981273 \not\equiv 48276 \mod 2$<br>
+4. $846 \equiv 14322 \mod 3$
+
+## Aufgabe 4
+$4 \equiv 6 \mod 2 \Leftrightarrow m | 4 - 6$<br>
+$3 \equiv 9 \mod 3 \Leftrightarrow m | 3 - 9$<br>
+$10 \equiv 20 \mod 5 \Leftrightarrow m | 10 - 20$<br>
+
+$\Rrightarrow$ Der Abstand zwischen zwei kongruenten Zahlen ist immer ein vielfaches von $m$.
+
+## Aufgabe 5
+1. $120 \equiv 248 \mod 4$
+2. $80 \equiv 116 \mod 4$
+> $\Leftrightarrow 200 \equiv 364 \mod 4$
