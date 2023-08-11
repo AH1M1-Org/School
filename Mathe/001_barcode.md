@@ -1,14 +1,12 @@
 # **Operationen mit Modulo**
-
-### Barcodes 
-- Barcode 1 ist false
-- Barcode 2 ist true
-
-### Beispeiele
-- Barcode: 6554566789128 -> false
-- Barcode: 1524566789128 -> true
-
-## *Code*
+### **Barcodes** 
+####
+Barcode 1 $\rightarrow$ ```false```\
+Barcode 2  $\rightarrow$ ```true```
+### **Beispeiele**
+$Barcode \rightarrow 655 456 678 912 8 \rightarrow false$\
+$Barcode \rightarrow 152 456 678 912 8 \rightarrow true$
+### **Code**
 ```java
 public class Main {
     public static void main(String[] args) {

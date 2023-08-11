@@ -1,48 +1,29 @@
 # **Modulo**
-
-### Aufgabe 1
-1. $4 \mid -24$
-2. $-5 \mid 20$
-3. $6 \nmid -3$
+## **Aufgabe 1**
+1. $ 4 \mid -24$
+2. $-5 \mid  20$
+3. $ 6 \nmid -3$
 4. $-3 \mid -15$
-5. $2 \mid 0$
+5. $ 2 \mid   0$
 
-$\Rrightarrow$ Restklasse $0 \mod 3$ ist z.B. $\{-9, -6, -3, 0, 3, 6, 9\}$
-
-$\Rrightarrow$ Restklasse $1 \mod 3$ ist z.B. $\{-8, -5, -2, 1, 4\}$
-
-## Aufgabe 2
-a) $m = 2$
-|mod|n|
-|-----|--|
-|1|-5|
-|0|-4|
-|1|-3|
-|0|-2|
-|1|-1|
-|0|0|
-|1|1|
-|0|2|
-|1|3|
-|0|4|
-|1|5|
-
-b) $m = 5$
-|mod|n|
-|-----|--|
-|0|-5|
-|1|-4|
-|2|-3|
-|3|-2|
-|4|-1|
-|0|0|
-|1|1|
-|2|2|
-|3|3|
-|4|4|
-|0|5|
-
-## Aufgabe 3
+$\Rrightarrow$ Restklasse $0 \mod 3$ ist z.B. $\{-9, -6, -3, 0, 3, 6\}$\
+$\Rrightarrow$ Restklasse $1 \mod 3$ ist z.B. $\{-8, -5, -2, 1, 4, 7\}$
+## **Aufgabe 2**
+|       |  |Rest |Rest |
+|-------|:-|:---:|:---:|
+|**mod**|  |**2**|**5**|
+|       |-5|    1|    0|
+|       |-4|    0|    1|
+|       |-3|    1|    2|
+|       |-2|    0|    3|
+|       |-1|    1|    4|
+|       |+0|    0|    0|
+|       |+1|    1|    1|
+|       |+2|    0|    2|
+|       |+3|    1|    3|
+|       |+4|    0|    4|
+|       |+5|    1|    0|
+## **Aufgabe 3**
 Entscheide, ob die Zahlen kongruent oder nicht kongruent sind.
 1. $5 \equiv 2 \mod 5$<br>
 2. $-3 \equiv 39 \mod 7$<br>
