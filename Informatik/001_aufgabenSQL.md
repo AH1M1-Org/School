@@ -109,3 +109,6 @@ ORDER BY Kosten ASC;
 FROM Instandhaltung, Fahrzeug 
 WHERE Fahrzeug_ID = Fahrzeug.ID AND Kosten BETWEEN 300 AND 500
 ORDER BY Kosten ASC;
+
+> Bei der Between bedingung gehören die äußeren Werte mit dazu 
+300 Between 500 -> 300 <= x <= 500
