@@ -1,4 +1,5 @@
-## **Select**
+# **Select Distinct Order by Where**
+### 3-1
 #### a
 ```SQL
 SELECT Kennzeichen, Anschaffungskosten FROM fahrzeug
@@ -11,8 +12,8 @@ SELECT * FROM fahrzeug
 ```SQL
 SELECT Beginn, Ende, Zweck FROM reservierung
 ```
-
 ## **DISTINCT**
+### 3-2
 #### a
 ```SQL
 SELECT DISTINCT Hersteller FROM fahrzeugmodell
@@ -22,6 +23,7 @@ SELECT DISTINCT Hersteller FROM fahrzeugmodell
 SELECT DISTINCT Zweck FROM reservierung
 ```
 ## **ORDERD BY**
+### 3-3
 #### a
 ```SQL
 SELECT ID, Beitrag FROM versicherungsvertrag
@@ -97,7 +99,7 @@ WHERE Kennzeichen LIKE "TBB%73%";
 ```
 
 ## **JOIN**
-### **3-10**
+### **3-9**
 #### a
 ```SQL
 SELECT Beginn, Ende, PersNr, Nachname FROM reservierung

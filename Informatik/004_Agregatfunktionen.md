@@ -4,3 +4,16 @@
 ```SQL
 SELECT SUM(Kosten) AS Gesamtkosten FROM instandhaltung
 ```
+#### b
+```SQL
+SELECT MAX(Anschaffungskosten) AS Max_Kosten FROM fahrzeug
+```
+#### c
+```SQL
+SELECT MIN(Beitrag) AS min_Beitrag FROM versicherungsvertrag
+```
+#### d
+```
+SELECT COUNT(*) AS mit FROM mitarbeiter
+//oder count ID
+```
