@@ -8,7 +8,7 @@ $ 2 \mid   0$\
 $\Rrightarrow$ Restklasse $0 \mod 3$ ist z.B. $\{-9, -6, -3, 0, 3, 6\}$\
 $\Rrightarrow$ Restklasse $1 \mod 3$ ist z.B. $\{-8, -5, -2, 1, 4, 7\}$
 
-## **Konguenz**
+## **Kongruenz**
 |       |N |R    |R    |
 |-------|-:|:---:|:----|
 |**mod**|  |**2**|**5**|
@@ -24,14 +24,15 @@ $\Rrightarrow$ Restklasse $1 \mod 3$ ist z.B. $\{-8, -5, -2, 1, 4, 7\}$
 |       | 4|    0|    4|
 |       | 5|    1|    0|
 
-## **Aufgabe 3**
+## **Kongruent oder nicht Kongruent**
 *Entscheide, ob die Zahlen kongruent oder nicht kongruent sind.*\
 $27 \equiv 42 \mod 5$ Rest = 2\
 $-3 \equiv 39 \mod 7$ Rest = 4\
 $981273 \not\equiv 48276 \mod 2$ Rest $\neq$ Rest\
 $846 \equiv 14322 \mod 3$ Rest $= 0$
 
-## Aufgabe 4
+## Äquivalent Aussagen
+$a \equiv b \mod m \Leftrightarrow m| a - b$\
 $4 \equiv 6 \mod 2 \Leftrightarrow m $ | $ 4 - 6$\
 $3 \equiv 9 \mod 3 \Leftrightarrow m $ | $ 3 - 9$\
 $10 \equiv 20 \mod 5 \Leftrightarrow m $ | $ 10 - 20$
