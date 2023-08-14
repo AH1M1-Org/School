@@ -10,4 +10,4 @@
 7. **Exekutive, Legislative, Judikative**
 8. **1939 - 1945** 
 9. Hendrik Wüst $\rightarrow$ CDU
-10. Bismark 
+10. Bismark, Kaiser Willhelm
