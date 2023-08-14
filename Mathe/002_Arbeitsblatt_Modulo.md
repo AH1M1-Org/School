@@ -4,9 +4,12 @@ $ 4 \mid -24$\
 $-5 \mid  20$\
 $ 6 \nmid -3$\
 $-3 \mid -15$\
-$ 2 \mid   0$\
-$\Rrightarrow$ Restklasse $0 \mod 3$ ist z.B. $\{-9, -6, -3, 0, 3, 6\}$\
-$\Rrightarrow$ Restklasse $1 \mod 3$ ist z.B. $\{-8, -5, -2, 1, 4, 7\}$
+$ 2 \mid   0$
+
+$\Rrightarrow Restklasse ~ 0 \mod 3 ~ ist ~ z.B. ~ \{-9, -6, -3, 0, 3, 6\}$\
+$\Rrightarrow Restklasse ~ 1 \mod 3 ~ ist ~ z.B. ~ \{-8, -5, -2, 1, 4, 7\}$\
+$\Rrightarrow ...$\
+*"Restklassen sind Zahlen die beim Teilen den selben Rest ergeben"*
 
 ## **Kongruenz**
 |       |N |R    |R    |
@@ -25,36 +28,66 @@ $\Rrightarrow$ Restklasse $1 \mod 3$ ist z.B. $\{-8, -5, -2, 1, 4, 7\}$
 |       | 5|    1|    0|
 
 ## **Kongruent oder nicht Kongruent**
-*Entscheide, ob die Zahlen kongruent oder nicht kongruent sind.*\
-$27 \equiv 42 \mod 5$ Rest = 2\
-$-3 \equiv 39 \mod 7$ Rest = 4\
-$981273 \not\equiv 48276 \mod 2$ Rest $\neq$ Rest\
-$846 \equiv 14322 \mod 3$ Rest $= 0$
+$27 \equiv 42 \mod 5 ~ Rest = 2$\
+$-3 \equiv 39 \mod 7 ~ Rest = 4$\
+$981273 \not\equiv 48276 \mod 2 ~ Rest \neq Rest$\
+$846 \equiv 14322 \mod 3 ~ Rest = 0$
 
 ## Äquivalent Aussagen
-$a \equiv b \mod m \Leftrightarrow m| a - b$\
-$4 \equiv 6 \mod 2 \Leftrightarrow m $ | $ 4 - 6$\
-$3 \equiv 9 \mod 3 \Leftrightarrow m $ | $ 3 - 9$\
-$10 \equiv 20 \mod 5 \Leftrightarrow m $ | $ 10 - 20$
+#### $a \equiv b \mod m \Leftrightarrow m| a - b$
+#### *"a und b sind dann kongruent zueinander wenn das Ergebniss aus a - b teilbar durch den Modulo m ist"*
 #### *"Der Abstand zwischen zwei konguenten Zahlen ist immer ein vielfaches von $m$."*
+$4 \equiv 6 \mod 2 \Leftrightarrow m ~ | ~ 4 - 6 = 2 \mid 2$\
+$3 \equiv 9 \mod 3 \Leftrightarrow m ~ | ~ 3 - 9 = 3 \mid 3$\
+$20 \equiv 10 \mod 5 \Leftrightarrow m ~ | ~ 10 - 20 = 10 \mid 5$
 
-## Aufgabe 5
-$120 \equiv 248 \mod 4$
-$80 \equiv 116 \mod 4$
-$\Leftrightarrow 200 \equiv 364 \mod 4$
 
-## Aufgabe 6
+## Rechenregeln fuer Kongruenz  
+$a_1 \equiv b_1 \mod m $\
+$a_2 \equiv b_2 \mod m $\
+$\Longrightarrow a_1 + a_2 \equiv a_2 + b_2 \mod m$
+
+$a_1 = 120 ~ a_2 = 80 ~ b_1 = 248 ~ b_2 = 116$
+
+$120 \equiv 248 \mod 4 ~ Rest = 0$\
+$80 \equiv 116 \mod 4 ~ Rest = 0$\
+$\Leftrightarrow 120 + 80 \equiv 248 + 116 \mod 4 ~ Rest = 0$
+#### *"Wir duerfen zwei Kongruenzen modulo m addieren"*
+---
+$a \equiv b \mod m \Longrightarrow a \cdot c \equiv b \cdot c \mod m$
+
+$a = 6 ~ b = 9 ~ c = 2 \mod 3$\
+$6 \equiv 9 \mod 3 ~ Rest = 0$\
+$\Leftrightarrow 6 \cdot 2 \equiv 9 \cdot 2 \mod 3 ~ Rest = 0$
+#### *"Wir duerfen beide Seiten einer Kongruenz mit der gleichen ganzen Zahl multiplizieren"* 
+---
+$a_1 \equiv b_1 \mod m $\
+$a_2 \equiv b_2 \mod m $\
+$\Longrightarrow a_1 \cdot a_2 \equiv a_2 \cdot b_2 \mod m$
+
+$a_1 = 3 ~ a_2 = 9 ~ b_1 = 6 ~ b_2 = 12$
+
+$3 \equiv 6 \mod 3 ~ Rest = 0$\
+$9 \equiv 12 \mod 3 ~ Rest = 0$\
+$\Leftrightarrow 3 \cdot 9 \equiv 6 \cdot 12 \mod 3 ~ Rest = 0$
+#### *"Wir duerfen zwei Kongruenzen modulo m multiplizieren"*
+
+## Division mit Rest
+*"Man sucht die Zahl r fuer die $z \equiv r ~ gilt \mod m$"*
+
+$z = 208 ~ m = 12 ~ r = ?$\
 $208 \mod 12 $\
-$208 \equiv (17 \cdot 12 + 4) \mod 12$\
-$\equiv (0 + 4) \mod 12$
+$208 \div 12 = 17 + \frac{4}{12} ~ teilen ~ durch ~ m$\
+$208 = 17 \cdot 12 + 4 ~ ergebniss ~ multiplizieren ~ mit ~ m ~ + Rest$\
+$208 = 17 \cdot 12 + 4 \Longrightarrow 208 \equiv 4 \mod 12$
 
-## Aufgabe 7
+### Division mit Rest
 $42 = 5 \cdot 8 + 2 \Rightarrow 42 \equiv 1 \mod 8$\
 $96 = 13 \cdot 7 + 5 \Rightarrow 96 \equiv 5 \mod 7$\
 $129 = 64 \cdot 2 + 1 \Rightarrow 129 \equiv 1 \mod 2$\
 $358 = 59 \cdot 6 + 4 \Rightarrow 358 \equiv 4 \mod 6$
 
-## Aufgabe 8
+## Einerziffer entscheidet
 #### *"Alle Stellen außer der Einerstelle ist durch 10 Teilbar"*
 $4723 = 4 \cdot 200 \cdot 5 + 7 \cdot 20 \cdot 5 + 2 \cdot 2 \cdot 5 + 3 \cdot 1 \mod 5$\
 $\equiv 0 \mod 5 \equiv 0 \mod 5 \equiv 0 \mod 5 \equiv 3 \mod 5 $
@@ -62,9 +95,14 @@ $\equiv 0 \mod 5 \equiv 0 \mod 5 \equiv 0 \mod 5 \equiv 3 \mod 5 $
 $4723 = 4 \cdot 500 \cdot 2 + 7 \cdot 50 \cdot 2 + 2 \cdot  5 \cdot 2 + 2 \cdot 1 \cdot 1 \mod 2$\
 $\equiv 0 \mod 5 \equiv 0 \mod 5 \equiv 0 \mod 5 \equiv  3 \mod 5$
 
-$4723 = 4 \cdot 3 \cdot 333 + 4 + 3 \cdot 33 + 7 + 2 \cdot 3 \cdot 3 + 2 + 3 \cdot 1 \mod 3$
+## Ziffernsummer entscheidet
+#### *"Eine natuerliche Zahl liget immer in der selben Restklasse wie ihre Ziffernsumme"*
+$4723 = 4 \cdot (999 + 1) + 4 + 7 \cdot (99 + 1) + 7 + 2 \cdot (9 + 1) + 2 + 3 \cdot 1$\
+$4723 = 4 \cdot 3 \cdot 333 + 4 + 7 \cdot 3 \cdot 33 + 7 + 2 \cdot 3 \cdot 3 + 2 + 3 \cdot 1 \equiv 4 + 7 + 2 + 3 \mod 3$
+#### *"Eine natuerliche Zahl ist dann immer durch 3 oder 9 teilbar wenn ihre Ziffernsumme durch 3 oder 9 teilbar ist"*
 
-## Aufgabe 9
+## Addition und Multiplikation Modulo 4
+### 1)
 Rest von $(x \cdot x) \div 4$
 |+|0|1|2|3|
 |-|-|-|-|-|
@@ -82,9 +120,68 @@ Rest von $(x \cdot x) \div 4$
 |3|0|3|2|1|
 
 #### *"Multiplikation von Factoren $\neq$ 0 kann 0 sein $\rightarrow$ Division nicht möglich"*
-
-## Aufgabe 10
+### 2)
 $23 = 5 \cdot 4 + 3 \Rightarrow 23 \equiv 3 \mod 4$\
 $42 = 10 \cdot 4 + 2 \Rightarrow 42 \equiv 2 \mod 4$\
+### 3)
 $23 + 42 = 65 \equiv 3 + 2 \equiv 1 \mod 4$\
 $23 \cdot 42 = 966 \equiv 3 \cdot 2 \equiv 2 \mod 4$
+> $23 \equiv 3$ liegen in der selben Restklasse sowie $42 \equiv 2$ heisst bei selben $\mod 4$ und laut der zweiten Rechenregel fuer Konguenzz liegen 966 und 6 in der selben Restklasse
+### 4)
+#### Es gibt drei Loesungen bei einer Grundmnege von {0, 1, 2, 3}
+$2 \cdot x \equiv 2 \mod 4$\
+$2 \cdot 0 \equiv 2 \mod 4$\
+$2 \cdot 1 \equiv 2 \mod 4$\
+$2 \cdot 3 \equiv 2 \mod 4$
+
+#### Es gibt keine Loesungen bei einer Grundmnege von {0, 1, 2, 3}
+$2 \cdot x \equiv 1 \mod 4$
+
+## Addition und Multiplikation Modulo 5
+### 1)
+Rest von $(x \cdot x) \div 5$
+|+|0|1|2|3|4|
+|-|-|-|-|-|-|
+|0|0|1|2|3|4|
+|1|1|2|3|4|0|
+|2|2|3|4|0|1|
+|3|3|4|0|1|2|
+|4|4|0|1|2|3|
+
+Rest von $(x \cdot x) \div 5$
+|$\cdot$|0|1|2|3|4|
+|-|-|-|-|-|-|
+|0|0|0|0|0|0|
+|1|0|1|2|3|4|
+|2|0|2|4|1|3|
+|3|0|3|1|4|2|
+|4|0|4|3|2|1|
+
+### 2)
+Es faellt auf das es es keinen Rest 0 mehr gibt und sich die zwei verschiebt. Ausserdem gilt fuer den Faktor $\neq 0$.
+### 3)
+???
+## Addition und Multiplikation Modulo 6
+### 1)
+Rest von $(x \cdot x) \div 6$
+|+|0|1|2|3|4|5|
+|-|-|-|-|-|-|-|
+|0|0|1|2|3|4|
+|1|1|2|3|4|0|
+|2|2|3|4|0|1|
+|3|3|4|0|1|2|
+|4|4|0|1|2|3|
+|5|0|1|2|3|4|
+
+Rest von $(x \cdot x) \div 6$
+|$\cdot$|0|1|2|3|4|5|
+|-|-|-|-|-|-|-|
+|0|0|0|0|0|0|0|
+|1|0|1|2|3|4|5
+|2|0|2|4|1|3|4|
+|3|0|3|1|4|2|3|
+|4|0|4|3|2|1|2|
+|5|0|5|4|3|2|1|
+### 2)
+Die Zeile 1 und die Zeile 5 enthalten alle Zahlen {0, 1, 2, 3, 4, 5} genau einmal
+## Kuerzungsregelen fuer Kongruenz
