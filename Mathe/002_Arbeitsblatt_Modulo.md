@@ -183,5 +183,5 @@ Rest von $(x \cdot x) \div 6$
 |4|0|4|3|2|1|2|
 |5|0|5|4|3|2|1|
 ### 2)
-Die Zeile 1 und die Zeile 5 enthalten alle Zahlen {0, 1, 2, 3, 4, 5} genau einmal
+Die Zeile 1 und die Zeile 5 enthalten alle Zahlen {0, 1, 2, 3, 4, 5} genau einmal, heisst die vier auesseren spalten haben bei jeder zahl {0, 1, 2, 3, 4, 5} genau einmal
 ## Kuerzungsregelen fuer Kongruenz
