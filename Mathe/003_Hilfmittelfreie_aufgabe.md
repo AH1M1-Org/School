@@ -16,3 +16,11 @@ $2 \cdot \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$ | $- 2 \cdot \pi \cdot r^2
 $-(2\cdot \pi \cdot r^2) = 2 \cdot \pi \cdot r \cdot h | \div 2 \cdot \pi \cdot r$\
 $\frac{O-2 \cdot \pi \cdot r^2}{2 \cdot \pi \cdot r} = h$
 #### *"Zylinder"*
+
+### Nach wie vielen Minuten treffen sich die Autos
+
+$f(x) = 50 \cdot x + 50$\
+$g(x) = 90 \cdot x$\
+$\Leftrightarrow f(x) = g(x)$\
+$50 \cdot x + 50 = 90 \cdot x ~ | - 50 \cdot x$\
+$50 = 40 \cdot x ~ | - 50 \cdot x$

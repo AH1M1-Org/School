@@ -130,7 +130,6 @@ $23 \cdot 42 = 966 \equiv 3 \cdot 2 \equiv 2 \mod 4$
 ### 4)
 #### Es gibt drei Loesungen bei einer Grundmnege von {0, 1, 2, 3}
 $2 \cdot x \equiv 2 \mod 4$\
-$2 \cdot 0 \equiv 2 \mod 4$\
 $2 \cdot 1 \equiv 2 \mod 4$\
 $2 \cdot 3 \equiv 2 \mod 4$
 
@@ -139,7 +138,7 @@ $2 \cdot x \equiv 1 \mod 4$
 
 ## Addition und Multiplikation Modulo 5
 ### 1)
-Rest von $(x \cdot x) \div 5$
+Rest von $(x + x) \div 5$
 |+|0|1|2|3|4|
 |-|-|-|-|-|-|
 |0|0|1|2|3|4|
@@ -159,29 +158,58 @@ Rest von $(x \cdot x) \div 5$
 
 ### 2)
 Es faellt auf das es es keinen Rest 0 mehr gibt und sich die zwei verschiebt. Ausserdem gilt fuer den Faktor $\neq 0$.
+
 ### 3)
 ???
 ## Addition und Multiplikation Modulo 6
 ### 1)
-Rest von $(x \cdot x) \div 6$
+Rest von $(x + x) \div 6$
 |+|0|1|2|3|4|5|
 |-|-|-|-|-|-|-|
-|0|0|1|2|3|4|
-|1|1|2|3|4|0|
-|2|2|3|4|0|1|
-|3|3|4|0|1|2|
-|4|4|0|1|2|3|
-|5|0|1|2|3|4|
+|0|0|1|2|3|4|5|
+|1|1|2|3|4|5|0|
+|2|2|3|4|5|0|1|
+|3|3|4|5|0|1|2|
+|4|4|5|0|1|2|3|
+|5|5|0|1|2|3|4|
 
 Rest von $(x \cdot x) \div 6$
 |$\cdot$|0|1|2|3|4|5|
 |-|-|-|-|-|-|-|
 |0|0|0|0|0|0|0|
-|1|0|1|2|3|4|5
-|2|0|2|4|1|3|4|
-|3|0|3|1|4|2|3|
-|4|0|4|3|2|1|2|
+|1|0|1|2|3|4|5|
+|2|0|2|4|0|2|4|
+|3|0|3|0|3|0|3|
+|4|0|4|2|0|4|2|
 |5|0|5|4|3|2|1|
 ### 2)
 Die Zeile 1 und die Zeile 5 enthalten alle Zahlen {0, 1, 2, 3, 4, 5} genau einmal, heisst die vier auesseren spalten haben bei jeder zahl {0, 1, 2, 3, 4, 5} genau einmal
+
 ## Kuerzungsregelen fuer Kongruenz
+Rest von $(x + x) \div 7$
+|$\cdot$|0|1|2|3|4|5|6|
+|-|-|-|-|-|-|-|-|
+|0|0|1|2|3|4|5|6|
+|1|1|2|3|4|5|6|0|
+|2|2|3|4|5|6|0|1|
+|3|3|4|5|6|0|1|2|
+|4|4|5|6|0|1|2|3|
+|5|5|6|0|1|2|3|4|
+|6|6|0|1|2|3|4|5|
+
+Rest von $(x \cdot x) \div 7$
+|$\cdot$|0|1|2|3|4|5|6|
+|-|-|-|-|-|-|-|-|
+|0|0|0|0|0|0|0|0|
+|1|0|1|2|3|4|5|6|
+|2|0|2|4|0|1|3|5|
+|3|0|3|6|2|5|1|4|
+|4|0|4|1|5|2|6|3|
+|5|0|5|3|1|6|4|2|
+|6|0|6|5|4|3|2|1|
+
+
+Diese darstellung dient fuer Primzahlen, die regelmaessigkeit weisst sich dann auf wenn du Zahl nur durch sich selbst und eins Teilbar ist, z.B. ist die 7 nur durch sich selbst und eins Teilbar bei der 4 hingegen ist die Zahl noch zusaetzlich durch 2 teilbar und somit entsteht keine Zyklus.
+
+Primzahlen: 
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227.
