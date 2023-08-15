@@ -19,3 +19,14 @@ GROUP BY Hersteller, Bezeichnung
 HAVING COUNT(*) >= 2
 ```
 #### c)
+```SQL
+SELECT Firma, SUM(Beitrag) AS kosten FROM versicherungsgesellschaft
+INNER JOIN versicherungsvertrag ON Gesellschaft_ID = versicherungsgesellschaft.ID
+GROUP BY Firm
+HAVING SUM(Beitrag) > 3000
+
+SELECT Firma, SUM(Beitrag) AS kosten FROM versicherungsgesellschaft, versicherungsvertrag
+WHERE Gesellschaft_ID = versicherungsgesellschaft.ID
+GROUP BY Firm
+HAVING SUM(Beitrag) > 3000
+```

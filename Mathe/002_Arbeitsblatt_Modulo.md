@@ -211,5 +211,7 @@ Rest von $(x \cdot x) \div 7$
 
 Diese darstellung dient fuer Primzahlen, die regelmaessigkeit weisst sich dann auf wenn du Zahl nur durch sich selbst und eins Teilbar ist, z.B. ist die 7 nur durch sich selbst und eins Teilbar bei der 4 hingegen ist die Zahl noch zusaetzlich durch 2 teilbar und somit entsteht keine Zyklus.
 
+Diese Rechenregel folgt fuer die division da es eine Primzahl ist heisst der Rest kann nur dann 0 sein wenn die Zahl druch sich selbst teilbar ist somit tritt jede Zahl in jeder spalte einmal auf.
+
 Primzahlen: 
 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227.
