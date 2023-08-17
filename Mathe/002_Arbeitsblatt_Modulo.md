@@ -122,7 +122,7 @@ Rest von $(x \cdot x) \div 4$
 #### *"Multiplikation von Factoren $\neq$ 0 kann 0 sein $\rightarrow$ Division nicht möglich"*
 ### 2)
 $23 = 5 \cdot 4 + 3 \Rightarrow 23 \equiv 3 \mod 4$\
-$42 = 10 \cdot 4 + 2 \Rightarrow 42 \equiv 2 \mod 4$\
+$42 = 10 \cdot 4 + 2 \Rightarrow 42 \equiv 2 \mod 4$
 ### 3)
 $23 + 42 = 65 \equiv 3 + 2 \equiv 1 \mod 4$\
 $23 \cdot 42 = 966 \equiv 3 \cdot 2 \equiv 2 \mod 4$
@@ -207,7 +207,6 @@ Rest von $(x \cdot x) \div 7$
 |4|0|4|1|5|2|6|3|
 |5|0|5|3|1|6|4|2|
 |6|0|6|5|4|3|2|1|
-
 
 Diese darstellung dient fuer Primzahlen, die regelmaessigkeit weisst sich dann auf wenn du Zahl nur durch sich selbst und eins Teilbar ist, z.B. ist die 7 nur durch sich selbst und eins Teilbar bei der 4 hingegen ist die Zahl noch zusaetzlich durch 2 teilbar und somit entsteht keine Zyklus.
 
