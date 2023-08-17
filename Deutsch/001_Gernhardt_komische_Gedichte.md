@@ -2,7 +2,7 @@
 
 ### I. Es gibt ernste und komische Gedichte
 > Es stimmt das es ernste und komische Gedichte gibt, bei manchen erkennt man klar worauf sie abzielen und welches Appell diese Gedichte an den Leser geben soll oder manche Gedichte sind so komisch geschrieben das man nicht genau weiss worauf sie abzielen. Dennoch wuerde ich nicht sagen das beides nicht vereint sein kann es kann komische Gedichte geben mit einem tieferen Sinn. *"Humor ist eine Art um ernste Themen anzusprechen."* 
-#### **Stimme zum Teil zu**
+#### **Stimme zu**
 
 ### II. Das komische Gedicht zielt auf das lachen ab
 > Ich wuerde sagen das ein komisches Gedicht auf das Lachen abzielt aber dies heisst nicht das es keine ernsten Themen ansprechen kann.
