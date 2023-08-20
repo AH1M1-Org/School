@@ -54,3 +54,11 @@ Es una festividad como *Valentienstag* solo con libros.
 2. la cocina adirada (die bewundernswerte Küche)
 3. la originalidad (Originalität)
 4. la riquza (die Reichhaltigkeit)
+
+# 8. La diada
+> Se celebra la derrota en la Guerra de Sucesión (1714)
+
+1. la derota (die Niederlage)
+2. la guerra (der Krieg)
+3. la sucesión (die Nachfolge)
+4. recorbar (erinnern)

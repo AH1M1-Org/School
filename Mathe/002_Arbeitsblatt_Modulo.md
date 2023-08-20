@@ -103,7 +103,7 @@ $4723 = 4 \cdot 3 \cdot 333 + 4 + 7 \cdot 3 \cdot 33 + 7 + 2 \cdot 3 \cdot 3 + 2
 
 ## Addition und Multiplikation Modulo 4
 ### 1)
-Rest von $(x \cdot x) \div 4$
+Rest von $(x + x) \div 4$
 |+|0|1|2|3|
 |-|-|-|-|-|
 |0|0|1|2|3|
