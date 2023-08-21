@@ -52,7 +52,26 @@ GROUP BY Nation
 #### 10
 ```SQL
 SELECT SUM(Nationssiege) FROM  09_BiathletenSchueler_OPP
-WHERE Nation IN (GER, FRA, AUT, NOR)
-GROUP BY Geschlecht
+GROUP BY Geschlecht, Nation
+HAVING Nation IN (GER, FRA, AUT, NOR)
 ORDER BY Nationsiege DESC
+```
+### Aufgaben geschachtelten Anweisung
+#### 1
+```SQL
+SELECT Nachname, Vorname, Weltcupsiege, MAX(Preisgeld) FROM  09_BiathletenSchueler_OPP
+```
+#### 2
+```SQL
+SELECT Nachname, Vorname, MIN(Weltcupsiege), Preisgeld FROM 09_BiathletenSchueler_OPP
+```
+#### 3
+```SQL
+
+```
+#### 4
+```SQL
+```
+#### 5
+```SQL
 ```
