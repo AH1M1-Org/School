@@ -59,33 +59,45 @@ ORDER BY Nationsiege DESC
 ### Aufgaben geschachtelten Anweisung
 #### 1
 ```SQL
-// alle daten der Frau ausgeben
-SELECT Nachname, Vorname, Weltcupsiege, Preisgeld FROM  09_BiathletenSchueler_OPP
+SELECT Max(Preisgeld) FROM Biathleten
+WHERE Geschlecht = "w" 
 
-// max preisgeld der Frau
-SELECT MAX(Preisgeld) FROM  09_BiathletenSchueler_OPP
+SELECT Nachname, Vorname, Weltcupsiege, Geschlecht, Preisgeld FROM Biathleten
+WHERE Geschlecht = "w"
+AND Preisgeld = 750000 
 
-// kombination
-SELECT Nachname, Vorname, Weltcupsiege, MAX(Preisgeld) FROM  09_BiathletenSchueler_OPP
+SELECT Nachname, Vorname, Weltcupsiege, Geschlecht, Preisgeld FROM Biathleten
+WHERE Geschlecht = "w" AND Preisgeld = (SELECT Max(Preisgeld) FROM Biathleten
+WHERE Geschlecht = "w") 
 ```
 #### 2
 ```SQL
-// name der Personen ausgaben
-SELECT Nachname, Vorname, Weltcupsiege, Preisgeld FROM 09_BiathletenSchueler_OPP
-
-// min siege ausgaben
-SELECT MIN(Weltcupsiege) FROM 09_BiathletenSchueler_OPP
-
-// kombination
-SELECT Nachname, Vorname, MIN(Weltcupsiege), Preisgeld FROM 09_BiathletenSchueler_OPP
+SELECT Nachname, Vorname, Weltcupsiege FROM Biathleten
+WHERE Weltcupsiege = (SELECT MIN(Weltcupsiege) FROM Biathleten) 
 ```
 #### 3
 ```SQL
-
+SELECT Nachname, Vorname, Geschlecht, Geburtsdatum, Weltcupsiege, Preisgeld FROM Biathleten
+WHERE Geburtsdatum = (SELECT MAX(Geburtsdatum) FROM Biathleten
+WHERE Geb.dat <= #1976/04/08#)
 ```
 #### 4
 ```SQL
+SELECT Nachname, Vorname, Geschlecht, Quote FROM Biathleten
+WHERE Geschlecht="w" AND Quote=(SELECT Max(Quote) FROM Biathleten
+WHERE Geschlecht="w") OR Geschlecht="m" AND Quote=(SELECT Max(Quote) FROM Biathleten
+WHERE Geschlecht="m") 
 ```
 #### 5
 ```SQL
+SELECT Nachname, Vorname, Quote, Weltcupsiege, Aktiv, Preisgeld FROM Biathleten
+WHERE Aktiv = TRUE AND Weltcupsiege = 0 AND Preisgeld = (SELECT Max(Preisgeld) FROM Biathleten
+WHERE aktiv = TRUE AND Weltcupsiege = 0); 
+```
+#### 6
+```SQL
+SELECT Nachname, Vorname, Nation, Weltcupsiege, Geschlecht, Preisgeld FROM Biathleten
+WHERE Geschlecht = "w" AND (Geburtsdatum = (SELECT MAX(Geburtsdatum) FROM Biathleten
+WHERE Nation ="GER" AND Geschlecht = "w") OR Geburtsdatum = (SELECT MIN(Geburtsdatum) FROM Biathleten
+WHERE Nation = "NOR")) AND Geschlecht = "w")
 ```
