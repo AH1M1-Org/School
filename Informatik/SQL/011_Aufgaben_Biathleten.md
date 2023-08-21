@@ -59,10 +59,24 @@ ORDER BY Nationsiege DESC
 ### Aufgaben geschachtelten Anweisung
 #### 1
 ```SQL
+// alle daten der Frau ausgeben
+SELECT Nachname, Vorname, Weltcupsiege, Preisgeld FROM  09_BiathletenSchueler_OPP
+
+// max preisgeld der Frau
+SELECT MAX(Preisgeld) FROM  09_BiathletenSchueler_OPP
+
+// kombination
 SELECT Nachname, Vorname, Weltcupsiege, MAX(Preisgeld) FROM  09_BiathletenSchueler_OPP
 ```
 #### 2
 ```SQL
+// name der Personen ausgaben
+SELECT Nachname, Vorname, Weltcupsiege, Preisgeld FROM 09_BiathletenSchueler_OPP
+
+// min siege ausgaben
+SELECT MIN(Weltcupsiege) FROM 09_BiathletenSchueler_OPP
+
+// kombination
 SELECT Nachname, Vorname, MIN(Weltcupsiege), Preisgeld FROM 09_BiathletenSchueler_OPP
 ```
 #### 3
