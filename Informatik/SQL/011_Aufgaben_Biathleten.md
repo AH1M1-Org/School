@@ -23,13 +23,12 @@ WHERE Vorname LIKE "%Sch%"
 #### 5
 ```SQL
 SELECT * FROM 09_BiathletenSchueler_OPP
-WHERE Geschlecht = "w"
-AND Nation IN (FIN, DAN, SWE, NOR)
+WHERE Geschlecht = "w" AND Nation IN (FIN, DAN, SWE, NOR)
 GROUP BY Nation
 ```
 #### 6
 ```SQL
-SELECT COUNT(*) AS Anzahl FROM 09_BiathletenSchueler_OPP
+SELECT Nation, COUNT(*) AS Anzahl FROM 09_BiathletenSchueler_OPP
 GROUP BY Nation
 ```
 #### 7
@@ -54,7 +53,7 @@ GROUP BY Nation
 SELECT SUM(Nationssiege) FROM  09_BiathletenSchueler_OPP
 GROUP BY Geschlecht, Nation
 HAVING Nation IN (GER, FRA, AUT, NOR)
-ORDER BY Nationsiege DESC
+ORDER BY Geschlecht ASC Nationsiege DESC
 ```
 ### Aufgaben geschachtelten Anweisung
 #### 1
@@ -79,7 +78,7 @@ WHERE Weltcupsiege = (SELECT MIN(Weltcupsiege) FROM Biathleten)
 ```SQL
 SELECT Nachname, Vorname, Geschlecht, Geburtsdatum, Weltcupsiege, Preisgeld FROM Biathleten
 WHERE Geburtsdatum = (SELECT MAX(Geburtsdatum) FROM Biathleten
-WHERE Geb.dat <= #1976/04/08#)
+WHERE Geburtsdatum <= 1976.04.08)
 ```
 #### 4
 ```SQL

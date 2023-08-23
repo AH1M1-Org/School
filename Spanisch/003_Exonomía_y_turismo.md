@@ -21,7 +21,7 @@
 9. 
 - Se ve un paseo marítimo y una playa larga. Hay bancos para sentrase. Al fondo hay un edificio con una cúpula grande que parece (scheint zu sein) una fábrica o una planta de energía nuclear. 
 
-### No. c
+#### No. c
 1. c
 2. a
 3. f
@@ -32,7 +32,7 @@
 8. g
 9. h 
 
-### No. d
+#### No. d
 |Agricultura|Industria|Turismo|
 |:---------:|:-------:|:-----:|
 |b          |c        |a      |
