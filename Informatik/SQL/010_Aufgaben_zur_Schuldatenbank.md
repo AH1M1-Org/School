@@ -44,7 +44,7 @@ SELECT MAX(Geburt) AS Jüngester, SchülerName, SchülerVorname FROM schülerdat
 ```
 #### 9
 ```SQL
-SELECT MAX(SELECT count(schülername) AS Klassenstärke FROM schülerdaten)
+SELECT MAX(SELECT COUNT(schülername) AS Klassenstärke FROM schülerdaten)
 GROUP BY Klasse
 
 SELECT Klasse, COUNT(Klasse) AS Klassenstärke FROM schülerdaten
