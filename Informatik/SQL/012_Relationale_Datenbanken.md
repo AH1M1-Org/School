@@ -23,11 +23,10 @@ Natürliche Schlüssel $\rightarrow$ ein aus der echten Welt abgeleiteter Schlü
 Küstlicher Schlüssel $\rightarrow$ ein Schlüssel der künstlich erstellt wurde z.B. ein ```int``` der immer ein deutig ist und bleibt 
 
 Kardinalität $\rightarrow$ 
-- c 1
-- 1
-- n (bzw. m) $\rightarrow$
-- nc (bzw. mc) $\rightarrow$
+- c $\rightarrow$ keiner oder einer
+- 1 $\rightarrow$ genau einer
+- n (bzw. m) $\rightarrow$ einer oder mehrere
+- nc (bzw. mc) $\rightarrow$ keiner einer oder mehrere
 
 muss Beziehungen: n bzw. 1
 kann Beziehung: nc bzw c
-
