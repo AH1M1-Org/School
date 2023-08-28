@@ -14,4 +14,3 @@ Wahlen $\rightarrow$ intressen des Volkes kann man so vertreten und neue wählen
 Medien $\rightarrow$ teilen neuigkeiten der Politik und können wahlen *beinflussen* durch aufgedeckter Skandale von Regierungen
 
 Deutschergerichtshof $\rightarrow$ trifft unabhängige entscheidungen zum urteilen
-
