@@ -1,6 +1,6 @@
 # Rassistisches Überlegenheitsgefühlt 
 
-Zusammenfassung:
+#### Zusammenfassung:
 
 - Die expandierenden Staaten glaubten, dass sie kulturell und rassisch besser waren.
 - Sie sahen ihre Ausbreitung als einen Wettkampf, bei dem der Stärkere gewinnt, inspiriert von der Evolotionstheorie des Biologen Charles Darwin.
