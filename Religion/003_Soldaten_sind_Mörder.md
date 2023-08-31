@@ -1,4 +1,0 @@
-# Soldaten sind Mörder
-
-
-
