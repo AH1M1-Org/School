@@ -16,8 +16,8 @@ AND Gebdatum >= "1957-05-01"
 
 1.8
 ```SQL
-SELECT KKID FROM Patient
+SELECT KKID, COUNT(*) AS Anzahl FROM Patient
 WHERE Wohnort = "Duesseldorf"
 INNER JOIN Krankenkasse ON Patient.KID = Krankenkasse.KID
-HAVING 10 < (SELECT COUNT(*) AS Anzahl FROM Patient)
+WHERE 10 < (SELECT COUNT(*) AS Anzahl FROM Patient)
 ```
