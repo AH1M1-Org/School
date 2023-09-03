@@ -21,3 +21,16 @@ Zum Beispiel die Giraffe, sie benutzt ihren hals immer wieder um an die Blätter
 #### **Unterschiede und Gemeinsamkeiten von Darwins und Lamarcks Theorie**
 |Unterschiede|Gemeinsamkeiten|
 |------------|---------------|
+|Lamarck - entwicklung durch gebrauch|Beide Theorien bassieren auf der Anpassung der Arten|
+|Darwin - entwicklung durch Slection, Mutation, Isolation|akzeptierten die Biologische evolotion|
+|Bei darwin konnten Arten aussterben bei Lamarck nicht||
+|Bei Darwin dauerte die Entwicklung über mehrere Generation bei Lamarck ging es schon in der ersten||
+|Bei Lamark wurden alle nützlichen Dinge vererbt||
+
+#### **Was ist eine Art?**
+
+Angehörige einer Art stimmen in Ihren westentlichen Merkmalen überein und können mit einanden **Fruchtbare** nachkommen zeugen. 
+
+Gen $\rightarrow$ abschnitt auf der DNA der ein bestimmtes Merkmal codiert
+
+Allel $\rightarrow$ variantion eines Gens/ausprägung z.B. Augenfarbe
