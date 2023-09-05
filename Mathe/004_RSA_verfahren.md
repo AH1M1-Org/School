@@ -102,18 +102,3 @@ public class Main {
   }
 }
 ```
-
-# Berechnung von Privat und Fremdschlüssel
-Erzeuge den öffentlichen und den privaten RSA-Schliisscl mit $p = 7, q = 13$ und $e = 11$.
-
-$n = p \cdot q$\
-$\varphi(n) = (p - 1)(q - 1)$
-
-$n = 7 \cdot 13 = 91$\
-$\varphi(n) = (7 - 1)(13 - 1) = 72$
-
-1. Euklidischer Algorithmus 
-2. Umstellen
-3. Erweiterter Euklidischer Algorithmus
-4. Berechnung mit kongruenz
-5. Bestimmen des öffentlichen & privatem schlüssels
