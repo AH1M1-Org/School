@@ -1,0 +1,12 @@
+\documentclass{article}
+\usepackage{tikz}
+\usepackage{amsmath}
+\begin{document}
+\begin{tikzpicture}
+  \draw[thin,gray!40] (-2,-2) grid (2,2);
+  \draw[<->] (-2,0)--(2,0) node[right]{$x$};
+  \draw[<->] (0,-2)--(0,2) node[above]{$y$};
+  \draw[line width=2pt,blue,-stealth](0,0)--(1,1) node[anchor=south west]{$\boldsymbol{u}$};
+  \draw[line width=2pt,red,-stealth](0,0)--(-1,-1) node[anchor=north east]{$\boldsymbol{-u}$};
+\end{tikzpicture}
+\end{document}
