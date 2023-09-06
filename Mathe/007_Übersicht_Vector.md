@@ -1,1 +1,0 @@
-$$\begin{document} \usepackage{tikz} \begin{tikzpicture} \draw (5,0) -- (-5, 0) \end{tikzpicture} \end{document}$$ 
