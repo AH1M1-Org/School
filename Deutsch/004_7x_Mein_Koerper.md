@@ -36,11 +36,14 @@ Ich leb ein Leben lang für ihn.\
 Er bringt mich langsam um.
 
 ## 3 Thesen
-Das Gedicht "7x Mein Körper" von Erich Fried verdeutlicht eindrucksvoll die Vielschichtigkeit von Gedichten und die Tatsache, dass es sowohl ernste als auch komische Gedichte gibt. In diesem Gedicht wird die Beziehung des Ich-Erzählers zu seinem eigenen Körper behandelt. Auf den ersten Blick mag es ernst erscheinen, da es die Abhängigkeit und Verletzlichkeit des Körpers betont, indem es ihn als "schutzlos Ding" beschreibt. Dies weist darauf hin, dass Gedichte ernsthafte Themen behandeln können und nicht ausschließlich auf humorvolle Unterhaltung abzielen.
+Das Gedicht "7x Mein Körper" von Robert Gerhardt verdeutlicht eindrucksvoll die Vielschichtigkeit von Gedichten und die Tatsache, dass es sowohl ernste als auch komische Gedichte gibt. In diesem Gedicht wird die Beziehung des Ich-Erzählers zu seinem eigenen Körper behandelt. Auf den ersten Blick mag es ernst erscheinen, da es die Abhängigkeit und Verletzlichkeit des Körpers betont, indem es ihn als "schutzlos Ding" beschreibt. Dies weist darauf hin, dass Gedichte ernsthafte Themen behandeln können und nicht ausschließlich auf humorvolle Unterhaltung abzielen.
+
 > These 1: Es gibt ernste und komische Gedichte
 
 Dennoch wird im Gedicht auch Humor und Ironie verwendet, insbesondere wenn der Körper als "unsozial" bezeichnet wird. Dies zeigt, dass das komische Gedicht nicht allein darauf abzielt, Lachen auszulösen, sondern auch Ironie und humorvolle Elemente nutzen kann, um ernsthafte Themen zu vermitteln. Das Gedicht verdeutlicht somit, dass Gedichte eine Vielzahl von Emotionen und Bedeutungsebenen miteinander kombinieren können.
+
 > These 3: Das komische Gedicht erschöpft sich nicht im Lachen
 
 Das Gedicht zeigt auch, dass ein Dichter in der Lage ist, komische Gedichte zu verfassen, ohne notwendigerweise als "komischer Dichter" klassifiziert zu werden. Robert Gernhardt behandelt ernste Themen auf humorvolle Weise und betont damit die Vielseitigkeit und kreative Freiheit von Dichtern. Diese Vielseitigkeit ermöglicht es den Dichtern, verschiedene Stile und Töne in ihrer Arbeit zu nutzen.
+
 > These 6: Es gibt komische Gedichte, aber keine komischen Dichter
