@@ -62,7 +62,7 @@ Solve[f[t] == {0,x}]
 t -> 
 ```
 #### **zweier Vektoren**
-Man stellt zwei Geradengleichungen gleich.\
+Man stellt zwei Geradengleichungen gleich.
 
 $g: \vec a =\begin{pmatrix}x\\y\end{pmatrix} + t \cdot \begin{pmatrix}x\\y\end{pmatrix}$
 
@@ -77,14 +77,14 @@ g[t_]: = {x,y} + t * {x,y}
 Solve[f[t] == g[t]]
 t -> 
 ```
-#### Berechnung von t
+#### **Berechnung von t**
 $g: \vec a =\begin{pmatrix}x\\y\end{pmatrix} + t \cdot \begin{pmatrix}x\\y\end{pmatrix}$
 
 Gegebender Punkt $(x|y)$
 
 Loesung mit LGS
 
-##### **Beispiel**
+#### **Beispiel**
 $g: \vec a =\begin{pmatrix}6\\12\end{pmatrix} + t \cdot \begin{pmatrix}-2\\2\end{pmatrix}$
 
 Punkt $(0|y)$
