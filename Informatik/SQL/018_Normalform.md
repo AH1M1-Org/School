@@ -1,6 +1,6 @@
 # Normalisierung von Datenbanken
 
-1. Normalform $\rightarrow$ Eine Relation befindet sich in der ersten Normalform, wenn alle Atribute nur einfache Attributswerte aufweisen(Bezeichnung: atomar $\rightarrow$ nicht teilbar). (alles muss einzeld stehen)
+1. Normalform $\rightarrow$ Eine Relation befindet sich in der ersten Normalform, wenn alle Atribute nur einfache Attributswerte aufweisen(Bezeichnung: atomar $\rightarrow$ nicht teilbar). (alles muss einzeld stehen)\
 Der Primärschlüssel wird nicht mehr eindeutig also muss einer Zusammengesetzt werden muss aus zwei oder meht teilen
 ---
 2. Normalform Eine Relation befindet sich in der zweiten Normalform, wenn: 
