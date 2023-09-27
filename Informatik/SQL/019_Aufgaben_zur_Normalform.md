@@ -51,7 +51,7 @@ Orte
 Raeume
 |$\underline{Raum}$|Station|
 |------------------|-------|
----
+---                                                                             
 ### Aufgabe 2
 ### Aufgabe 3
 Eigentuemer(Vorname, Name, Geburtsdatum, PLZ, Strasse, Ort)\
