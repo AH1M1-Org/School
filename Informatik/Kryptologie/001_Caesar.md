@@ -19,11 +19,11 @@ public class Main {
         char[] encryptText = new char[text.length()];
 
         for (int i = 0; i < text.length(); i++) {
-            int hex;
-            if (operator == '+') hex = ((text.charAt(i) + key) - 96) % 26;
-            else hex = ((text.charAt(i) - key) - 96) % 26;
-            if (hex == 0) hex = 26;
-            encryptText[i] = (char) (hex + 96);
+            int ascii;
+            if (operator == '+') ascii = ((text.charAt(i) + key) - 96) % 26;
+            else ascii = ((text.charAt(i) - key) - 96) % 26;
+            if (ascii == 0) ascii = 26;
+            encryptText[i] = (char) (ascii + 96);
         }
         return new String(encryptText);
     }
