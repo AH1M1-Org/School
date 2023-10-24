@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "1c09a248977520c1",
+    "id": "a60dd6d51ef39891",
     "type": "split",
     "children": [
       {
-        "id": "58ad8a8a97721a20",
+        "id": "dafd79d56a07de1f",
         "type": "tabs",
         "children": [
           {
-            "id": "e2be9b68e6437d11",
+            "id": "fafb6e1440ac97ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Kryptologie/2 Vigenère.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4abf5e3755ebc206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "41d04702b558eb23",
+    "id": "f826e40e786ac3a2",
     "type": "split",
     "children": [
       {
-        "id": "bb955aa121e3679b",
+        "id": "403aa83e8ab46bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "22f04b52e0bd4fef",
+            "id": "78929dcfaa3eff90",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "01a0dabec5f87656",
+            "id": "2c6f1a8ca9e3083c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "2807a68cd9d3b60c",
+            "id": "ad384842c1469a5a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,44 +68,42 @@
     "width": 300
   },
   "right": {
-    "id": "3f10871e8055bdb0",
+    "id": "de4f104f99d0f0ff",
     "type": "split",
     "children": [
       {
-        "id": "e3b7ddef09dc1855",
+        "id": "9d08972a47a38fed",
         "type": "tabs",
         "children": [
           {
-            "id": "b701e2175b50ff13",
+            "id": "af028ef371cccbe5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ed8b39aa1bdc77e6",
+            "id": "4b22302e1445be98",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6180671ea68d3227",
+            "id": "6158062c925365bb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,80 +114,70 @@
             }
           },
           {
-            "id": "2a7ffef8bed809e2",
+            "id": "7f566f1b8f29f3ed",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md"
-              }
-            }
-          },
-          {
-            "id": "f3822bbc828cbf28",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4abf5e3755ebc206",
+  "active": "fafb6e1440ac97ca",
   "lastOpenFiles": [
-    "Mathe/Vektoren/2 Uebungen.md",
-    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
-    "Mathe/Vektoren/4 Ebenen.md",
-    "Mathe/Vektoren/3 Spurpunkte.md",
-    "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
-    "To do List.md",
-    "Informatik/Kryptologie/2 Vigenère.md",
-    "Biologie/4 Praesentation - Fossilien.md",
-    "Excalidraw/Drawing 2023-10-24 20.34.52.excalidraw.md",
-    "Unbenannt.canvas",
-    "Excalidraw/Drawing 2023-10-24 20.13.59.excalidraw.md",
-    "Informatik/Kryptologie/1 Caesar Verfahren.md",
-    "Informatik/SQL/21 Abitur Übungen.md",
-    "Excalidraw/Drawing 2023-10-24 16.47.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.47.29.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.46.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.35.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.35.40.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.34.16.excalidraw.md",
-    "Mathe/Vektoren/5 Winkel.md",
-    "To do list.md",
-    "Religion/test.md",
-    "1.md",
-    "Mathe/Vektoren/1_Lernzettel_Vektoren.md",
-    "Mathe/Vektoren/1.md",
-    "Mathe/Vektoren.md",
-    "Mathe/1.md",
-    "Unbenannt",
-    "Excalidraw",
-    "Unbenannt 1.canvas",
+    "Informatik/Dia/1 Relationaledatenbanken/Diagramm1.dia",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe2.dia",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.dia",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.4.dia",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.2.dia",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.1.dia",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 2.png",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 2.png",
-    "Mathe/Zahlentheorie",
-    "Mathe/Vektoren",
-    "Gesellschaftslehre/Praesentation/001_Gesellschaftlehre_Wochenbericht.pptx",
-    "Gesellschaftslehre/Praesentation"
+    "Informatik/Dia/1 Relationaledatenbanken",
+    "Spanisch/9 Resumen de la Boqueria.md",
+    "Spanisch/8 El rescate de la Boqueria.md",
+    "Spanisch/7 Analizar estadisticas.md",
+    "Spanisch/6 El texto catalan.md",
+    "Spanisch/5 Pretérito perfecto de indicativo.md",
+    "Spanisch/3 Exonomía y turismo.md",
+    "Spanisch/2 Acercarse a Cataluna.md",
+    "Spanisch/11 Resumen de Snow World.md",
+    "Spanisch/10 Dialog.md",
+    "Spanisch/1 Wunschzettel.md",
+    "Religion/4 Gerechter Krieg.md",
+    "Religion/3 Christen pazifistisch.md",
+    "Religion/2 Wurzel des Krieges.md",
+    "Religion/1 Einstieg Ethik.md",
+    "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
+    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
+    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
+    "Mathe/Zahlentheorie/4 RSA verfahren.md",
+    "Mathe/Zahlentheorie/3 Hilfmittelfreieaufgabe.md",
+    "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
+    "Mathe/Zahlentheorie/1 Barcode.md",
+    "Mathe/Vektoren/5 Winkel.md",
+    "Mathe/Vektoren/4 Ebenen.md",
+    "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/2 Uebungen.md",
+    "Betriebwirtschaftslhere",
+    "Biologie"
   ]
 }
