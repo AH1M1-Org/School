@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9be2c025dfbeb06b",
+            "id": "e2be9b68e6437d11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Kryptologie/2 Vigenère.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4abf5e3755ebc206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-24 16.47.29.excalidraw.md"
+                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md"
               }
             }
           }
@@ -141,8 +160,16 @@
       "canvas:Neuen Canvas erstellen": false
     }
   },
-  "active": "22f04b52e0bd4fef",
+  "active": "4abf5e3755ebc206",
   "lastOpenFiles": [
+    "Informatik/Kryptologie/2 Vigenère.md",
+    "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+    "Biologie/4 Praesentation - Fossilien.md",
+    "Excalidraw/Drawing 2023-10-24 20.34.52.excalidraw.md",
+    "Unbenannt.canvas",
+    "Excalidraw/Drawing 2023-10-24 20.13.59.excalidraw.md",
+    "Informatik/Kryptologie/1 Caesar Verfahren.md",
+    "Informatik/SQL/21 Abitur Übungen.md",
     "Excalidraw/Drawing 2023-10-24 16.47.10.excalidraw.md",
     "Excalidraw/Drawing 2023-10-24 16.47.29.excalidraw.md",
     "Excalidraw/Drawing 2023-10-24 16.46.50.excalidraw.md",
@@ -162,15 +189,7 @@
     "Mathe/1.md",
     "1LernzettelVektoren.md",
     "1_Lernzettel_Vektoren.md",
-    "To.md",
     "Unbenannt",
-    "Deutsch/5 Otto Reime.md",
-    "Klausuren.md",
-    "Untitled note.md",
-    "Klausur.md",
-    "Mathe.md",
-    "Unbenannt.canvas",
-    "Mathe/Vektoren/3 Spurpunkte.md",
     "Excalidraw",
     "Unbenannt 1.canvas",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
