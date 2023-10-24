@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,17 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md"
+                "file": "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md"
               }
+            }
+          },
+          {
+            "id": "f3822bbc828cbf28",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +170,13 @@
   },
   "active": "4abf5e3755ebc206",
   "lastOpenFiles": [
-    "Informatik/Kryptologie/2 Vigenère.md",
+    "Mathe/Vektoren/2 Uebungen.md",
+    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
+    "Mathe/Vektoren/4 Ebenen.md",
+    "Mathe/Vektoren/3 Spurpunkte.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+    "To do List.md",
+    "Informatik/Kryptologie/2 Vigenère.md",
     "Biologie/4 Praesentation - Fossilien.md",
     "Excalidraw/Drawing 2023-10-24 20.34.52.excalidraw.md",
     "Unbenannt.canvas",
@@ -178,18 +190,13 @@
     "Excalidraw/Drawing 2023-10-24 16.35.40.excalidraw.md",
     "Excalidraw/Drawing 2023-10-24 16.34.16.excalidraw.md",
     "Mathe/Vektoren/5 Winkel.md",
-    "Mathe/Vektoren/4 Ebenen.md",
-    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
     "To do list.md",
     "Religion/test.md",
     "1.md",
-    "Mathe/Vektoren/2 Uebungen.md",
     "Mathe/Vektoren/1_Lernzettel_Vektoren.md",
     "Mathe/Vektoren/1.md",
     "Mathe/Vektoren.md",
     "Mathe/1.md",
-    "1LernzettelVektoren.md",
-    "1_Lernzettel_Vektoren.md",
     "Unbenannt",
     "Excalidraw",
     "Unbenannt 1.canvas",
