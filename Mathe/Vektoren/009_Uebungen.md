@@ -92,5 +92,3 @@ $m` = 32$
 $32^5 \mod 35$
 
 $m = 2$
-
-## Vektor rechnung
