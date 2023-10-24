@@ -69,16 +69,17 @@ $d_{13} = a_1 + 3 \cdot a_2 + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \c
 ---
 - wenn $a_1$ und $a_2 \equiv 0 \mod 5$ sind, dann wird eine Vertauschung nicht erkannt!
 
-**Begruendung**\
-**I.** $= \bold{\underline{a_1}} + 3 \cdot \bold{\underline{a_2}} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13} \mod 10 \equiv  0$
+### **Begruendung**
+**I.** 
+$= \underline{a_1} + 3 \cdot \underline{a_2} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13} \mod 10 \equiv 0$
 
-**II.** $= \bold{\underline{a_2}} + 3 \cdot \bold{\underline{a_1}} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13} \mod 10 \equiv 0$
+**II.** $= \underline{a_2} + 3 \cdot \underline{a_1} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13} \mod 10 \equiv 0$
 
 #### **LGS**
-**II-I**\
-$(\bold{\underline{a_2}} + 3 \cdot \bold{\underline{a_1}} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13})  - (\bold{\underline{a_1}} + 3 \cdot \bold{\underline{a_2}} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13})  \equiv  0 \mod 10 ~ | ~ Formel ~ kuerzt ~ sich ~ weg, ~ weil ~ identisch$
+**II-I**
+$$\underline{a_2} + 3 \cdot \underline{a_1} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13})  - (\underline{a_1} + 3 \cdot \underline{a_2} + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13})  \equiv  0 \mod 10 ~ | ~ Formel ~ kuerzt ~ sich ~ weg, ~ weil ~ identisch$$
 
-$(\bold{\underline{a_2}} + 3 \cdot \bold{\underline{a_1}})-(\bold{\underline{a_1}} + 3 \cdot \bold{\underline{a_2}}) \equiv 0 \mod 10 ~ | ~ aus multiplizieren$
+$(\underline{a_2} + 3 \cdot \underline{a_1})-(\underline{a_1} + 3 \cdot \underline{a_2}) \equiv 0 \mod 10 ~ | ~ aus multiplizieren$
 
 $a_2 + 3 \cdot a_1 - a_1 - 3 \cdot a_2 \equiv 0 \mod 10 ~ | ~ Zusammenfassen$
 

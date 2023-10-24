@@ -35,18 +35,18 @@ $ggt(302, 128) = 2$
 #### Erweiterter Euklidischer Algorithmus
 |                                        |                                                                    |                      |
 |----------------------------------------|--------------------------------------------------------------------|----------------------|
-|$2 = 6 - \textbf{\underline{4}} \cdot 1$|$= 6 - \textbf{\underline{(10 - 6 ⋅ 1)}} \cdot 1$                    | vereinfachen        |
+|$2 = 6 - \underline{4} \cdot 1$|$= 6 - \underline{(10 - 6 ⋅ 1)} \cdot 1$                    | vereinfachen        |
 |                                        |$= 6 - 10 + 6$                                                      |zusammenfassen       |
-|                                        |$= 2 \cdot \textbf{\underline{6}} - 10$                             |**fuer 6 einsetzen** |
-|                                        |$= 2 \cdot \textbf{\underline{(36 - 10 ⋅ 3)}} - 10$                  |vereinfachen         |
+|                                        |$= 2 \cdot \underline{6} - 10$                             |**fuer 6 einsetzen** |
+|                                        |$= 2 \cdot \underline{(36 - 10 ⋅ 3)} - 10$                  |vereinfachen         |
 |                                        |$= 2 \cdot 36 - 10 \cdot 6 - 10$                                    |zusammenfassen       |
-|                                        |$= 2 \cdot 36 - \textbf{\underline{10}} \cdot 7$                    |**fuer 10 einsetzen**|
-|                                        |$= 2 \cdot 36 - 7 \cdot \textbf{\underline{(46 - 36 ⋅ 1)}}$          |vereinfachen         |
+|                                        |$= 2 \cdot 36 - \underline{10} \cdot 7$                    |**fuer 10 einsetzen**|
+|                                        |$= 2 \cdot 36 - 7 \cdot \underline{(46 - 36 ⋅ 1)}$          |vereinfachen         |
 |                                        |$= 2 \cdot 36 - 7 \cdot 46 + 7 \cdot 36$                            |zusammenfassen       |
-|                                        |$= 9 \cdot \textbf{\underline{36}} - 7 \cdot 46$                    |**fuer 36 einsetzen**|
-|                                        |$= 9 \cdot \textbf{\underline{(128 - 2 ⋅ 46)}} - 7\cdot 46$          |vereinfachen         |
-|                                        |$= 9 \cdot 128 - 18 \cdot 46 - 7 \cdot 46 $                         |zusammenfassen       |
-|                                        |$= 9 \cdot 128 - 25 \cdot \textbf{\underline{46}}$                  |**fuer 46 einsetzen**|
-|                                        |$= 9 \cdot 128 - 25 \cdot \textbf{\underline{(302 - 128 ⋅ 2)}} $     |vereinfachen         |
+|                                        |$= 9 \cdot \underline{36} - 7 \cdot 46$                    |**fuer 36 einsetzen**|
+|                                        |$= 9 \cdot \underline{(128 - 2 ⋅ 46)} - 7\cdot 46$          |vereinfachen         |
+|                                        |$= 9 \cdot 128 - 18 \cdot 46 - 7 \cdot 46$                         |zusammenfassen       |
+|                                        |$= 9 \cdot 128 - 25 \cdot \underline{46}$                  |**fuer 46 einsetzen**|
+|                                        |$= 9 \cdot 128 - 25 \cdot \underline{(302 - 128 ⋅ 2)}$     |vereinfachen         |
 |                                        |$= 9 \cdot 128 - 25\cdot 302 + 50 \cdot 128$                        |zusammenfassen       |
 |                                        |$= - 25 \cdot 302 + 59 \cdot 128$                                   |BITTERES ENDE        |

@@ -1,20 +1,20 @@
 ### Zahlentheorie
 ### Rechenregeln
 
-$a_1 \equiv b_1 \mod m$\
+$a_1 \equiv b_1 \mod m$
 $a_2 \equiv b_2 \mod m$
 
-$a_1 + a_2 \equiv b_1 + b_2 \mod m$\
+$a_1 + a_2 \equiv b_1 + b_2 \mod m$
 *Zwei kongruenzen duerfen miteinader addiert werden*
 
-$a_1 \equiv b_2 \mod m$\
-$a_1 \cdot c \equiv b_2 \cdot c \mod m$\
+$a_1 \equiv b_2 \mod m$
+$a_1 \cdot c \equiv b_2 \cdot c \mod m$
 *Eine kongruenz darf mit einer beliebiegen Zahl auf beiden Seiten multipliziert werden*
 
-$a_1 \equiv b_1 \mod m$\
+$a_1 \equiv b_1 \mod m$
 $a_2 \equiv b_2 \mod m$
 
-$a_1 \cdot a_2 \equiv b_1 \cdot b_2 \mod m$\
+$a_1 \cdot a_2 \equiv b_1 \cdot b_2 \mod m$
 *Zwei kongruenzen duerfen miteinader multiplziert werden*
 
 ### Teilbarkeitsregeln
