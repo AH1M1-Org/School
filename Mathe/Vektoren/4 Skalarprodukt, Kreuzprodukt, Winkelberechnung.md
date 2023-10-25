@@ -20,4 +20,3 @@ $$\sqrt{x^2 + y^2 + z^2} = Laenge$$
 ---
 ### Berechnung ~ Schnittwinkelgerade und Ebene
 ---
-Test
