@@ -11,8 +11,13 @@
             "id": "c765640289d86d90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spanisch/7 El rescate de la Boqueria.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spanisch/7 El rescate de la Boqueria.md"
+              }
             }
           },
           {
@@ -82,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spanisch/7 El rescate de la Boqueria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +106,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spanisch/7 El rescate de la Boqueria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "4007b747441bd72e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -121,6 +139,18 @@
   },
   "active": "c765640289d86d90",
   "lastOpenFiles": [
+    "Spanisch/8 Resumen de la Boqueria.md",
+    "Spanisch/9 Dialog.md",
+    "Spanisch/10 Resumen de Snow World.md",
+    "Religion/5 Die fuenf Verteidigungskonzepte.md",
+    "Religion/6 Zwei Reiche Lehre.excalidraw.md",
+    "Religion/2 Wurzel des Krieges.md",
+    "Religion/1 Einstieg Ethik.md",
+    "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Betriebwirtschaftslhere/1 Investitionsberechnung.md",
+    "Excalidraw/Drawing 2023-10-25 17.18.29.excalidraw.md",
+    "Religion/4 Gerechter Krieg.md",
     "Unbenannt.canvas",
     "Deutsch/7 Setzen Stellen Legen.md",
     "Deutsch/6 Hausaufgaben.md",
@@ -134,19 +164,8 @@
     "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
     "Mathe/Zahlentheorie/1 Barcode.md",
     "Spanisch/6 Analizar estadisticas.md",
-    "Spanisch/8 Resumen de la Boqueria.md",
-    "Spanisch/10 Resumen de Snow World.md",
     "Spanisch/5 El texto catalan.md",
     "Spanisch/3 Exonomía y turismo.md",
-    "Spanisch/2 Acercarse a Cataluna.md",
-    "Spanisch/1 Wunschzettel.md",
-    "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
-    "Mathe/Vektoren/2 Uebungen.md",
-    "Mathe/Vektoren/3 Spurpunkte.md",
-    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
-    "Religion/5 Die fuenf Verteidigungskonzepte.md",
-    "Religion/6 Zwei Reiche Lehre.excalidraw.md",
-    "Religion/1 Einstieg Ethik.md",
     "Excalidraw",
     "Unbenannt",
     "Unbenannt 1.canvas",
