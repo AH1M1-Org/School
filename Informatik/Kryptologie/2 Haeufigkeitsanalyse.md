@@ -70,11 +70,8 @@ public class Main {
             }
         }
 
-        double percent;
-
         for (int i = 0; i < countLetters.length; i++) {
-            percent = countLetters[i] / text.length() * 100;
-            countLetters[i] = percent;
+            countLetters[i] = countLetters[i] / text.length() * 100;
 
             int temp = (int) (countLetters[i] * 100);
             countLetters[i] = ((double) temp / 100);
