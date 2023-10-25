@@ -1,12 +1,12 @@
 ### **Rechenregeln**
-$a_1 \equiv b_1 \mod m $\
-$a_2 \equiv b_2 \mod m $\
+$a_1 \equiv b_1 \mod m$
+$a_2 \equiv b_2 \mod m$
 $\Longrightarrow a_1 + a_2 \equiv a_2 + b_2 \mod m$
 
 $a_1 = 120 ~ a_2 = 80 ~ b_1 = 248 ~ b_2 = 116$
 
-$120 \equiv 248 \mod 4 ~ Rest = 0$\
-$80 \equiv 116 \mod 4 ~ Rest = 0$\
+$120 \equiv 248 \mod 4 ~ Rest = 0$
+$80 \equiv 116 \mod 4 ~ Rest = 0$
 $\Leftrightarrow 120 + 80 \equiv 248 + 116 \mod 4 ~ Rest = 0$
 #### *"Wir duerfen zwei Kongruenzen modulo m addieren"*
 ---
@@ -17,8 +17,8 @@ $6 \equiv 9 \mod 3 ~ Rest = 0$
 $\Leftrightarrow 6 \cdot 2 \equiv 9 \cdot 2 \mod 3 ~ Rest = 0$
 #### *"Wir duerfen beide Seiten einer Kongruenz mit der gleichen ganzen Zahl multiplizieren"* 
 ---
-$a_1 \equiv b_1 \mod m $
-$a_2 \equiv b_2 \mod m $
+$a_1 \equiv b_1 \mod m$
+$a_2 \equiv b_2 \mod m$
 $\Longrightarrow a_1 \cdot a_2 \equiv a_2 \cdot b_2 \mod m$
 
 $a_1 = 3 ~ a_2 = 9 ~ b_1 = 6 ~ b_2 = 12$
