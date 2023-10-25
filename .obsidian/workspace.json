@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md"
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "fafb6e1440ac97ca",
   "lastOpenFiles": [
+    "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/4 Ebenen.md",
+    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
     "Deutsch/3 Das Fräulein stand am Meere.md",
     "Deutsch/2 Schnauz und Miez.md",
     "Deutsch/1 Die 10 Thesen.md",
@@ -182,10 +186,6 @@
     "Religion/4 Gerechter Krieg.md",
     "Religion/3 Christen pazifistisch.md",
     "Religion/2 Wurzel des Krieges.md",
-    "Religion/1 Einstieg Ethik.md",
-    "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
-    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
-    "Mathe/Zahlentheorie/4 RSA verfahren.md",
     "Betriebwirtschaftslhere",
     "Biologie"
   ]
