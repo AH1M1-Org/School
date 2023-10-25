@@ -8,6 +8,4 @@ $$\begin{pmatrix} x_1 \\ y_1 \\ z_1 \end{pmatrix} \cdot \begin{pmatrix} x_2 \\ y
 ```mathematica
 Cross[]
 ```
-
-Test Test
-Aenderungkldfjsfjkdsfsdjhfsdjkhfsdjkfh
+Test

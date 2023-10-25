@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58ad8a8a97721a20",
+        "id": "e1907d6f77e30ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "4abf5e3755ebc206",
+            "id": "87f88949fc9e8208",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,15 +155,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4abf5e3755ebc206",
+  "active": "87f88949fc9e8208",
   "lastOpenFiles": [
+    "Religion/4 Gerechter Krieg.md",
+    "Religion/1 Einstieg Ethik.md",
     "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/2 Uebungen.md",
     "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
     "Mathe/Vektoren/4 Ebenen.md",
     "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
     "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
-    "Mathe/Vektoren/2 Uebungen.md",
     "Mathe/Vektoren/1 Lernzettel Vektoren.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
     "To do List.md",
@@ -182,8 +184,6 @@
     "Excalidraw/Drawing 2023-10-24 16.34.16.excalidraw.md",
     "Mathe/Vektoren/5 Winkel.md",
     "To do list.md",
-    "Religion/test.md",
-    "1.md",
     "Unbenannt",
     "Excalidraw",
     "Unbenannt 1.canvas",
