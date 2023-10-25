@@ -12,21 +12,21 @@ $\Leftrightarrow 120 + 80 \equiv 248 + 116 \mod 4 ~ Rest = 0$
 ---
 $a \equiv b \mod m \Longrightarrow a \cdot c \equiv b \cdot c \mod m$
 
-$a = 6 ~ b = 9 ~ c = 2 \mod 3$\
-$6 \equiv 9 \mod 3 ~ Rest = 0$\
+$a = 6 ~ b = 9 ~ c = 2 \mod 3$
+$6 \equiv 9 \mod 3 ~ Rest = 0$
 $\Leftrightarrow 6 \cdot 2 \equiv 9 \cdot 2 \mod 3 ~ Rest = 0$
 #### *"Wir duerfen beide Seiten einer Kongruenz mit der gleichen ganzen Zahl multiplizieren"* 
 ---
-$a_1 \equiv b_1 \mod m $\
-$a_2 \equiv b_2 \mod m $\
+$a_1 \equiv b_1 \mod m $
+$a_2 \equiv b_2 \mod m $
 $\Longrightarrow a_1 \cdot a_2 \equiv a_2 \cdot b_2 \mod m$
 
 $a_1 = 3 ~ a_2 = 9 ~ b_1 = 6 ~ b_2 = 12$
 
-$3 \equiv 6 \mod 3 ~ Rest = 0$\
-$9 \equiv 12 \mod 3 ~ Rest = 0$\
+$3 \equiv 6 \mod 3 ~ Rest = 0$
+$9 \equiv 12 \mod 3 ~ Rest = 0$
 $\Leftrightarrow 3 \cdot 9 \equiv 6 \cdot 12 \mod 3 ~ Rest = 0$
-#### *"Wir duerfen zwei Kongruenzen modulo m multiplizieren"*
+#### *"Wir duerfen zwei Kongruenzen Modulo m multiplizieren"*
 ---
 #### *Modulo teilen*
 $8 \cdot x \equiv 0 \mod 20 ~ | \div 8$ 
@@ -41,26 +41,26 @@ $x \equiv 0 \mod 5$
 > Neuer Modulo gleich 5
 ---
 ### **Teilbarkeitsregeln**
-$2 \rightarrow$ wenn die Zahl auf ${0,2,4,6,8}$ endet.\
-$3 \rightarrow$ wenn die Quersumme durch 3 Teilbar ist. Die Quersumme von $18 \rightarrow 9$\
-$4 \rightarrow$ wenn die letzten 2 Ziffern zusammen durch 4 teilbar sind $420 \rightarrow 20$\
-$5 \rightarrow$ wenn die Zahl auf ${0,5}$ endet.\
-$6 \rightarrow$ wenn die Zahl durch 2 oder 3 teilbar ist\
-$8 \rightarrow$ wenn die letzten 3 Ziffern zusammen durch 8 teilbar sind\
+$2 \rightarrow$ wenn die Zahl auf ${0,2,4,6,8}$ endet.
+$3 \rightarrow$ wenn die Quersumme durch 3 Teilbar ist. Die Quersumme von $18 \rightarrow 9$
+$4 \rightarrow$ wenn die letzten 2 Ziffern zusammen durch 4 teilbar sind $420 \rightarrow 20$
+$5 \rightarrow$ wenn die Zahl auf ${0,5}$ endet.
+$6 \rightarrow$ wenn die Zahl durch 2 oder 3 teilbar ist
+$8 \rightarrow$ wenn die letzten 3 Ziffern zusammen durch 8 teilbar sind
 $9 \rightarrow$ wenn die Quersumme durch 9 teilbar ist Die Quersumme von $18 \rightarrow 9$
 
-$7 \rightarrow$ man nehme die letzte Ziffer und multipliziert sie mit 2, diese Zahl zieht man von der uebrigen Zahl ab. Wenn dieses Ergebnis durch 7 teilbar ist dann ist die Zahl durch 7 teilbar.\
-$532 \rightarrow 2 \cdot 2 = 4$\
-$53 - 4 = 49$\
+$7 \rightarrow$ man nehme die letzte Ziffer und multipliziert sie mit 2, diese Zahl zieht man von der uebrigen Zahl ab. Wenn dieses Ergebnis durch 7 teilbar ist dann ist die Zahl durch 7 teilbar.
+$532 \rightarrow 2 \cdot 2 = 4$
+$53 - 4 = 49$
 $49 \div 7 = 7$
 > bei hoehren Zahlen macht man das solange bis man auf kleine Zahlen kommt
 ### **Prueffziffer-Verfahren**
-![Picture](https://cdn.discordapp.com/attachments/1139161006761857024/1151908043953549342/image.png)\
-Allgemeine Formel $= a_1 + 3 \cdot a_2 + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13} \mod 10 = 0$\
+![Picture](https://cdn.discordapp.com/attachments/1139161006761857024/1151908043953549342/image.png)
+Allgemeine Formel $= a_1 + 3 \cdot a_2 + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} + a_{13} \mod 10 = 0$
 oder ISBN =
 $$10 - \bigg(\sum_{i = 1}^{12} \cdot d_i \cdot 3^{(i + 1) \mod 2}\bigg) \mod 10$$
 
-**Prueffziffer Berechnen**\
+**Prueffziffer Berechnen**
 $d_{13} = a_1 + 3 \cdot a_2 + a_3 + 3 \cdot a_4 + a_5 + 3 \cdot a_6 + a_7 + 3 \cdot a_8 + a_9 + 3 \cdot a_{10} + a_{11} + 3 \cdot a_{12} \mod 10 = 0$
 
 ### Welche Fehler lassen sich nicht erkennen?

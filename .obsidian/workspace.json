@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md"
+                "file": "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "fafb6e1440ac97ca",
   "lastOpenFiles": [
-    "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+    "Deutsch/3 Das Fräulein stand am Meere.md",
+    "Deutsch/2 Schnauz und Miez.md",
+    "Deutsch/1 Die 10 Thesen.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+    "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
     "Informatik/Kryptologie/1 Caesar Verfahren.md",
     "Informatik/Kryptologie/2 Vigenère.md",
     "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
@@ -183,9 +186,6 @@
     "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
     "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
     "Mathe/Zahlentheorie/4 RSA verfahren.md",
-    "Mathe/Zahlentheorie/3 Hilfmittelfreieaufgabe.md",
-    "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
-    "Mathe/Zahlentheorie/1 Barcode.md",
     "Betriebwirtschaftslhere",
     "Biologie"
   ]

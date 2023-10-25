@@ -6,16 +6,16 @@
 > Ich wuerde sagen das ein komisches Gedicht auf das Lachen abzielt aber dies heisst nicht das es keine ernsten Themen ansprechen kann.
 #### **Stimme zum Teil zu**
 
-### III. Das komische Gedicht erschoepft sich nicht im Lachen
-> Mit dem Satz *"Der Weg ist das Ziel"* wird meine Meinung schon ziemlich unterstuezt. Ich denke dass das Ziel ist ein ernstes Thema humorvoll rueber zu bringen das heisst die Pointe muss nicht immer klar sein wie bei einem Witz damit er funktioniert, viel mehr sollte der Witz beim denken entstehen.
+### III. Das komische Gedicht erschöpft sich nicht im Lachen
+> Mit dem Satz *"Der Weg ist das Ziel"* wird meine Meinung schon ziemlich unterstuezt. Ich denke dass das Ziel ist ein ernstes Thema humorvoll rüber zu bringen das heisst die Pointe muss nicht immer klar sein wie bei einem Witz damit er funktioniert, viel mehr sollte der Witz beim denken entstehen.
 #### **Stimme zu**
 
 ### IV. Das komische Gedicht braucht die Regel
 > Ich denke das ein komisches Gedicht keine Regel braucht, gerade das ein komisches Gedicht so unterschiedlich verfasst werden kann macht es gerade lustig und kann auf viele unterschiedliche Arten verstanden und aufgenommen werden, Humor ist schlisslich auch unterschiedlich!
 #### **Stimme zu**
 
-### V. das komische Gedicht bedarf der Insperation
-> Ja ein komisches Gedicht sollte an insperation wachsen so wie der Humor unterschiedlich ist sollen auch Komischegedichte unterschiedlich sein.
+### V. das komische Gedicht bedarf der Inspiration
+> Ja ein komisches Gedicht sollte an Inspiration wachsen so wie der Humor unterschiedlich ist sollen auch Komische Gedichte unterschiedlich sein.
 #### **Stimme zu**
 
 ### VI. Es gibt komische Gedichte, aber keine komischen Dichter
@@ -27,13 +27,13 @@
 #### **Stimme zum Teil zu**
 
 ### VIII. Das komische Gedicht ist haltbar
-> Ich denke das Intressen wie Humor sind und zwar unterschiedlich, der eine findet das besser der andere das.
+> Ich denke das Interessen wie Humor sind und zwar unterschiedlich, der eine findet das besser der andere das.
 #### **Stimme nicht zu**
 
 ### IX. Das komische Gedicht ist der Koenigsweg zum Lachen
-> Dem stimme ich nicht zu Humor kommt und geht wie er will. Humor erzwingen ist meistens kein Humor und extrem anstrengend zuhoeren.
+> Dem stimme ich nicht zu Humor kommt und geht wie er will. Humor erzwingen ist meistens kein Humor und extrem anstrengend zuhören.
 #### **Stimme nicht zu**
 
 ### X. Der deutsche Sonderweg zur Hochkomik
-> Es ist tatsaechlich der Sonderweg zum Humor, damals. Heutzutage findet man die meisten Werke wahrscheinlich auch nicht Lustig und wuerde als aussenstehender die deutschen immer noch als Humorlos bezeichnen.
+> Es ist tatsaechlich der Sonderweg zum Humor, damals. Heutzutage findet man die meisten Werke wahrscheinlich auch nicht Lustig und würde als außenstehender die deutschen immer noch als Humorlos bezeichnen.
 #### **Stimme zum Teil zu**
