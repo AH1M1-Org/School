@@ -161,11 +161,11 @@
     "hiddenItems": {
       "switcher:Schnellauswahl öffnen": false,
       "templates:Vorlage einfügen": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Befehlspalette öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false
+      "canvas:Neuen Canvas erstellen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4abf5e3755ebc206",
