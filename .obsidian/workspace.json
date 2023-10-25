@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "121139bf7a3fd397",
+        "id": "de57d8b4ca0b1b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "c765640289d86d90",
+            "id": "b901fdd8eebc6d15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanisch/7 El rescate de la Boqueria.md",
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanisch/7 El rescate de la Boqueria.md"
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanisch/7 El rescate de la Boqueria.md",
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanisch/7 El rescate de la Boqueria.md",
+                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +137,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c765640289d86d90",
+  "active": "b901fdd8eebc6d15",
   "lastOpenFiles": [
+    "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Spanisch/7 El rescate de la Boqueria.md",
     "Spanisch/8 Resumen de la Boqueria.md",
     "Spanisch/9 Dialog.md",
     "Spanisch/10 Resumen de Snow World.md",
@@ -147,7 +150,6 @@
     "Religion/2 Wurzel des Krieges.md",
     "Religion/1 Einstieg Ethik.md",
     "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
-    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Betriebwirtschaftslhere/1 Investitionsberechnung.md",
     "Excalidraw/Drawing 2023-10-25 17.18.29.excalidraw.md",
     "Religion/4 Gerechter Krieg.md",
@@ -164,8 +166,6 @@
     "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
     "Mathe/Zahlentheorie/1 Barcode.md",
     "Spanisch/6 Analizar estadisticas.md",
-    "Spanisch/5 El texto catalan.md",
-    "Spanisch/3 Exonomía y turismo.md",
     "Excalidraw",
     "Unbenannt",
     "Unbenannt 1.canvas",
