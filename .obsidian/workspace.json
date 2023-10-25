@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "a60dd6d51ef39891",
+    "id": "1c09a248977520c1",
     "type": "split",
     "children": [
       {
-        "id": "dafd79d56a07de1f",
+        "id": "58ad8a8a97721a20",
         "type": "tabs",
         "children": [
           {
-            "id": "fafb6e1440ac97ca",
+            "id": "e2be9b68e6437d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Kryptologie/2 Vigenère.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4abf5e3755ebc206",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +31,22 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f826e40e786ac3a2",
+    "id": "41d04702b558eb23",
     "type": "split",
     "children": [
       {
-        "id": "403aa83e8ab46bf9",
+        "id": "bb955aa121e3679b",
         "type": "tabs",
         "children": [
           {
-            "id": "78929dcfaa3eff90",
+            "id": "22f04b52e0bd4fef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "2c6f1a8ca9e3083c",
+            "id": "01a0dabec5f87656",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "ad384842c1469a5a",
+            "id": "2807a68cd9d3b60c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,35 +82,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "de4f104f99d0f0ff",
+    "id": "3f10871e8055bdb0",
     "type": "split",
     "children": [
       {
-        "id": "9d08972a47a38fed",
+        "id": "e3b7ddef09dc1855",
         "type": "tabs",
         "children": [
           {
-            "id": "af028ef371cccbe5",
+            "id": "b701e2175b50ff13",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "4b22302e1445be98",
+            "id": "ed8b39aa1bdc77e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +122,7 @@
             }
           },
           {
-            "id": "6158062c925365bb",
+            "id": "6180671ea68d3227",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +133,7 @@
             }
           },
           {
-            "id": "7f566f1b8f29f3ed",
+            "id": "2a7ffef8bed809e2",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,65 +141,72 @@
                 "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md"
               }
             }
+          },
+          {
+            "id": "f3822bbc828cbf28",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "templates:Vorlage einfügen": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Befehlspalette öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false
     }
   },
-  "active": "fafb6e1440ac97ca",
+  "active": "4abf5e3755ebc206",
   "lastOpenFiles": [
     "Mathe/Vektoren/3 Spurpunkte.md",
-    "Mathe/Vektoren/4 Ebenen.md",
     "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
-    "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
-    "Deutsch/3 Das Fräulein stand am Meere.md",
-    "Deutsch/2 Schnauz und Miez.md",
-    "Deutsch/1 Die 10 Thesen.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+    "Mathe/Vektoren/4 Ebenen.md",
+    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
+    "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
+    "Mathe/Vektoren/2 Uebungen.md",
+    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
-    "Informatik/Kryptologie/1 Caesar Verfahren.md",
+    "To do List.md",
     "Informatik/Kryptologie/2 Vigenère.md",
-    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
-    "Informatik/Kryptologie/3 Haeufigkeitsanalyse.md",
-    "Informatik/Dia/1 Relationaledatenbanken/Diagramm1.dia",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe2.dia",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.dia",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.4.dia",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.2.dia",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe1.1.dia",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 2.png",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
+    "Biologie/4 Praesentation - Fossilien.md",
+    "Excalidraw/Drawing 2023-10-24 20.34.52.excalidraw.md",
+    "Unbenannt.canvas",
+    "Excalidraw/Drawing 2023-10-24 20.13.59.excalidraw.md",
+    "Informatik/Kryptologie/1 Caesar Verfahren.md",
+    "Informatik/SQL/21 Abitur Übungen.md",
+    "Excalidraw/Drawing 2023-10-24 16.47.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-24 16.47.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-24 16.46.50.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-24 16.35.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-24 16.35.40.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-24 16.34.16.excalidraw.md",
+    "Mathe/Vektoren/5 Winkel.md",
+    "To do list.md",
+    "Religion/test.md",
+    "1.md",
+    "Unbenannt",
+    "Excalidraw",
+    "Unbenannt 1.canvas",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png",
-    "Informatik/Dia/1 Relationaledatenbanken",
-    "Spanisch/9 Resumen de la Boqueria.md",
-    "Spanisch/8 El rescate de la Boqueria.md",
-    "Spanisch/7 Analizar estadisticas.md",
-    "Spanisch/6 El texto catalan.md",
-    "Spanisch/5 Pretérito perfecto de indicativo.md",
-    "Spanisch/3 Exonomía y turismo.md",
-    "Spanisch/2 Acercarse a Cataluna.md",
-    "Spanisch/11 Resumen de Snow World.md",
-    "Spanisch/10 Dialog.md",
-    "Spanisch/1 Wunschzettel.md",
-    "Religion/4 Gerechter Krieg.md",
-    "Religion/3 Christen pazifistisch.md",
-    "Religion/2 Wurzel des Krieges.md",
-    "Betriebwirtschaftslhere",
-    "Biologie"
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 2.png",
+    "Mathe/Zahlentheorie",
+    "Mathe/Vektoren",
+    "Gesellschaftslehre/Praesentation/001_Gesellschaftlehre_Wochenbericht.pptx",
+    "Gesellschaftslehre/Praesentation"
   ]
 }
