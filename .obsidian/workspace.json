@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e1907d6f77e30ba8",
+        "id": "cfb028aac4ff8d00",
         "type": "tabs",
         "children": [
           {
-            "id": "87f88949fc9e8208",
+            "id": "90db8930bee3d580",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,13 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87f88949fc9e8208",
+  "active": "90db8930bee3d580",
   "lastOpenFiles": [
+    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Religion/4 Gerechter Krieg.md",
     "Religion/1 Einstieg Ethik.md",
     "Mathe/Vektoren/3 Spurpunkte.md",
     "Mathe/Vektoren/2 Uebungen.md",
-    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
     "Mathe/Vektoren/4 Ebenen.md",
     "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
