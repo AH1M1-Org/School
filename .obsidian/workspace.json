@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2be9b68e6437d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Kryptologie/2 Vigenère.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4abf5e3755ebc206",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
