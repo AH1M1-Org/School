@@ -6,6 +6,8 @@ $$y - Ebene = y + t \cdot y = 0$$
 $$z - Ebene = z + t \cdot z = 0$$
 **Merksatz**
 > Man setzt die Koordinaten der jeweiligen Ebene gleich 0 in einem LGS, die anderen Koordinaten interessieren für eine Spezifische ebene nicht.
+
+---
 ### Schnittpunkt mit Ebenen $(xy, xz,...)$
 $$xy - Ebene = z + t \cdot z = 0$$
 $$xz - Ebene = y + t \cdot y = 0$$

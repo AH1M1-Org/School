@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb028aac4ff8d00",
+        "id": "121139bf7a3fd397",
         "type": "tabs",
         "children": [
           {
-            "id": "90db8930bee3d580",
+            "id": "c765640289d86d90",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,17 +29,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22f04b52e0bd4fef",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "01a0dabec5f87656",
+            "id": "2784153f9e6b005b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,14 +44,17 @@
             }
           },
           {
-            "id": "2807a68cd9d3b60c",
+            "id": "ea7e2e176a22a497",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,23 +69,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b701e2175b50ff13",
+            "id": "db52c55055ea1b67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce2204887e85e7b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ed8b39aa1bdc77e6",
+            "id": "66f776d51ae94ab9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -101,36 +102,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "6180671ea68d3227",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2a7ffef8bed809e2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "f3822bbc828cbf28",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,45 +112,43 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Schnellauswahl öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "90db8930bee3d580",
+  "active": "c765640289d86d90",
   "lastOpenFiles": [
-    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
-    "Religion/4 Gerechter Krieg.md",
-    "Religion/1 Einstieg Ethik.md",
-    "Mathe/Vektoren/3 Spurpunkte.md",
-    "Mathe/Vektoren/2 Uebungen.md",
-    "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
-    "Mathe/Vektoren/4 Ebenen.md",
-    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
-    "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
-    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
-    "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
-    "To do List.md",
-    "Informatik/Kryptologie/2 Vigenère.md",
-    "Biologie/4 Praesentation - Fossilien.md",
-    "Excalidraw/Drawing 2023-10-24 20.34.52.excalidraw.md",
     "Unbenannt.canvas",
-    "Excalidraw/Drawing 2023-10-24 20.13.59.excalidraw.md",
-    "Informatik/Kryptologie/1 Caesar Verfahren.md",
-    "Informatik/SQL/21 Abitur Übungen.md",
-    "Excalidraw/Drawing 2023-10-24 16.47.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.47.29.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.46.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.35.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.35.40.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 16.34.16.excalidraw.md",
-    "Mathe/Vektoren/5 Winkel.md",
-    "To do list.md",
-    "Unbenannt",
+    "Deutsch/7 Setzen Stellen Legen.md",
+    "Deutsch/6 Hausaufgaben.md",
+    "Deutsch/6 Der Beweis.md",
+    "Deutsch/5 Otto Reime.md",
+    "Deutsch/3 Das Fräulein stand am Meere.md",
+    "Deutsch/2 Schnauz und Miez.md",
+    "Deutsch/1 Die 10 Thesen.md",
+    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
+    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
+    "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
+    "Mathe/Zahlentheorie/1 Barcode.md",
+    "Spanisch/6 Analizar estadisticas.md",
+    "Spanisch/8 Resumen de la Boqueria.md",
+    "Spanisch/10 Resumen de Snow World.md",
+    "Spanisch/5 El texto catalan.md",
+    "Spanisch/3 Exonomía y turismo.md",
+    "Spanisch/2 Acercarse a Cataluna.md",
+    "Spanisch/1 Wunschzettel.md",
+    "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+    "Mathe/Vektoren/2 Uebungen.md",
+    "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Religion/5 Die fuenf Verteidigungskonzepte.md",
+    "Religion/6 Zwei Reiche Lehre.excalidraw.md",
+    "Religion/1 Einstieg Ethik.md",
     "Excalidraw",
+    "Unbenannt",
     "Unbenannt 1.canvas",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png",

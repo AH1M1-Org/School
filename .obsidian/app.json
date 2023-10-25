@@ -1,4 +1,11 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "showLineNumber": false,
+  "focusNewTab": true,
+  "tabSize": 5
 }
