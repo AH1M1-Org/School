@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Englisch/6 The children of Sodom.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Englisch/6 The children of Sodom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Englisch/6 The children of Sodom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Englisch/6 The children of Sodom.md"
               }
             }
           }
@@ -129,17 +129,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "command-palette:Befehlspalette öffnen": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "44ba65dceb2d2fe1",
   "lastOpenFiles": [
+    "Religion/3 Christen pazifistisch.md",
+    "Englisch/6 The children of Sodom.md",
     "Test.md",
+    "Religion/6 Zwei Reiche Lehre.excalidraw.md",
+    "Religion/5 Die fuenf Verteidigungskonzepte.md",
     "Unbenannt"
   ]
 }
