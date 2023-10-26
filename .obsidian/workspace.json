@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e4153833f19236af",
+        "id": "f6d59b3c293d071d",
         "type": "tabs",
         "children": [
           {
-            "id": "44ba65dceb2d2fe1",
+            "id": "f2c1a214d7ce8a36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Englisch/6 The children of Sodom.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -78,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/6 The children of Sodom.md",
+                "file": "Informatik/SQL/17 Normalisierung von Datenbanken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/6 The children of Sodom.md",
+                "file": "Informatik/SQL/17 Normalisierung von Datenbanken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,16 +103,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/6 The children of Sodom.md"
+                "file": "Informatik/SQL/17 Normalisierung von Datenbanken.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -128,10 +124,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5bd9257ba6167706",
+  "active": "0444d71227d97f75",
   "lastOpenFiles": [
-    "Religion/3 Christen pazifistisch.md",
+    "Informatik/SQL/18 Aufgaben zur Normalform.md",
+    "Informatik/SQL/19 Uebungen.md",
+    "Informatik/SQL/20 VIEW.md",
+    "Informatik/SQL/17 Normalisierung von Datenbanken.md",
+    "Informatik/SQL/15 Create.md",
+    "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+    "Informatik/SQL/21 Abitur Übungen.md",
+    "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
+    "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+    "Informatik/Kryptologie/2 Vigenère.md",
+    "Informatik/Kryptologie/1 Caesar Verfahren.md",
+    "Religion/7 Heiliger Krieg (Djihad im Islam).md",
+    "Gesellschaftslehre/5 Kolonialisierung.md",
+    "Gesellschaftslehre/4 Imperialismus.md",
     "Englisch/6 The children of Sodom.md",
+    "Religion/3 Christen pazifistisch.md",
     "Test.md",
     "Religion/6 Zwei Reiche Lehre.excalidraw.md",
     "Religion/5 Die fuenf Verteidigungskonzepte.md",
