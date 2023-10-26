@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "file": "Informatik/Kryptologie/5 RSA Verfahren.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.50288009643555,
-    "collapsed": true
+    "width": 219.50288009643555
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "file": "Informatik/Kryptologie/5 RSA Verfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "file": "Informatik/Kryptologie/5 RSA Verfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md"
+                "file": "Informatik/Kryptologie/5 RSA Verfahren.md"
               }
             }
           }
@@ -122,18 +121,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "command-palette:Open command palette": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2c2465c0b9572ac6",
   "lastOpenFiles": [
-    "Informatik/SQL/17 Normalisierung von Datenbanken.md",
     "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+    "Informatik/Kryptologie/5 RSA Verfahren.md",
+    "Informatik/SQL/17 Normalisierung von Datenbanken.md",
     "Informatik/SQL/19 Uebungen.md",
     "Informatik/SQL/18 Aufgaben zur Normalform.md",
     "Informatik/SQL/13 Relationales Datenmodell.md",
