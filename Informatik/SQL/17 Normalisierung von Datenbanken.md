@@ -7,4 +7,6 @@ Der Primärschlüssel wird nicht mehr eindeutig also muss einer Zusammengesetzt 
 ---
 3. Normaleform Eine Relation befindet sich in der dritten Normalform, wenn
 - sie in der zweiten Normalform ist 
-- jedes Nichtschlüsselattribut nicht transitiv vom Primärschlüssel abhängig ist, d.h. aus keienm Nichtschlüsselattribut folgt ein anderes Nichtschlüsselattribut
+- jedes Nichtschlüsselattribut nicht transitiv vom Primärschlüssel abhängig ist.
+### Transitiv
+Transitiv bedeutet wenn Nichtschlüsselattribute abhängig von anderen Nichtschlüsselattributen sind.

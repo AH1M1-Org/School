@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d59b3c293d071d",
+        "id": "36582c8746e20d87",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c1a214d7ce8a36",
+            "id": "2c2465c0b9572ac6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 219.50288009643555,
     "collapsed": true
   },
   "right": {
@@ -74,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/SQL/17 Normalisierung von Datenbanken.md",
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/SQL/17 Normalisierung von Datenbanken.md",
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/SQL/17 Normalisierung von Datenbanken.md"
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md"
               }
             }
           }
@@ -112,26 +117,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0444d71227d97f75",
+  "active": "2c2465c0b9572ac6",
   "lastOpenFiles": [
-    "Informatik/SQL/18 Aufgaben zur Normalform.md",
-    "Informatik/SQL/19 Uebungen.md",
-    "Informatik/SQL/20 VIEW.md",
     "Informatik/SQL/17 Normalisierung von Datenbanken.md",
-    "Informatik/SQL/15 Create.md",
     "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+    "Informatik/SQL/19 Uebungen.md",
+    "Informatik/SQL/18 Aufgaben zur Normalform.md",
+    "Informatik/SQL/13 Relationales Datenmodell.md",
+    "Informatik/SQL/12 Abituraufgaben.md",
+    "Informatik/SQL/14 Relationales Datenmodell Aufgabe 1.4.md",
+    "Informatik/SQL/20 VIEW.md",
+    "Informatik/SQL/15 Create.md",
     "Informatik/SQL/21 Abitur Übungen.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
