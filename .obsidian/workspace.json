@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
-                "mode": "preview",
+                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
+                "file": "Spanisch/11 presentacion de Bilbao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
+                "file": "Spanisch/11 presentacion de Bilbao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md"
+                "file": "Spanisch/11 presentacion de Bilbao.md"
               }
             }
           }
@@ -129,8 +129,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccd60c32e25e528f",
+  "active": "2c2465c0b9572ac6",
   "lastOpenFiles": [
+    "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
+    "Spanisch/11 presentacion de Bilbao.md",
     "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
     "Informatik/Kryptologie/5 RSA Verfahren.md",
     "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
@@ -155,8 +157,6 @@
     "Englisch/6 The children of Sodom.md",
     "Religion/3 Christen pazifistisch.md",
     "Test.md",
-    "Religion/6 Zwei Reiche Lehre.excalidraw.md",
-    "Religion/5 Die fuenf Verteidigungskonzepte.md",
     "Unbenannt"
   ]
 }
