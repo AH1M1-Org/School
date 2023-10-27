@@ -11,30 +11,13 @@
             "id": "670dd5b2a75cddb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathe/Vektoren/4 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddf513fe8b7d8629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "PDF/1 Mathe Infomaterial Vektoren.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "PDF/1 Mathe Infomaterial Vektoren.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "PDF/1 Mathe Infomaterial Vektoren.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "PDF/1 Mathe Infomaterial Vektoren.pdf"
               }
             }
           }
@@ -130,27 +113,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddf513fe8b7d8629",
+  "active": "670dd5b2a75cddb7",
   "lastOpenFiles": [
-    "Mathe/Vektoren/4 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Test.md",
+    "PDF/1 Mathe Infomaterial Vektoren.pdf",
+    "PDF/Drawing 2023-10-27 18.24.14.excalidraw.md",
+    "Mathe/Vektoren/4 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md",
+    "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
     "Informatik/Kryptologie/5 RSA Verfahren.md",
-    "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md",
-    "PDF/1 Mathe Infomaterial Vektoren.pdf",
     "Informatik/SQL/17 Normalisierung von Datenbanken.md",
     "Informatik/SQL/18 Aufgaben zur Normalform.md",
     "PDF/1 Mathe Infomaterial Vektoren.pdf.md",
@@ -162,7 +146,6 @@
     "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
     "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
     "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
-    "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
     "Informatik/Kryptologie/2 Vigenère.md",
     "Informatik/SQL/19 Uebungen.md",
@@ -171,8 +154,6 @@
     "Informatik/SQL/14 Relationales Datenmodell Aufgabe 1.4.md",
     "Informatik/SQL/20 VIEW.md",
     "Informatik/SQL/15 Create.md",
-    "Informatik/SQL/21 Abitur Übungen.md",
-    "Informatik/Kryptologie/1 Caesar Verfahren.md",
-    "Religion/7 Heiliger Krieg (Djihad im Islam).md"
+    "Informatik/SQL/21 Abitur Übungen.md"
   ]
 }
