@@ -1,8 +1,7 @@
-$$Sprechstunde(\underline{Kuerzel}, Name, Tag, Stunde, Anfangszeit, Raum)$$
 ### Aufgabe
 Begründen Sie, inwieweit das Relationenschema $'Sprechstunde'$ nicht den Kriterien der dritten [Normalform](17%20Normalisierung%20von%20Datenbanken) entspricht. Geben Sie alle Gründe an.
 $$Sprechstunde(\underline{Kuerzel}, Name, Tag, Stunde, Anfangszeit, Raum)$$
-Das Relationenschema befindet sich nicht in der dritten Normalform, weil es nicht in der zweiten Normalform steht und nicht in der ersten Normalform. Die Attributswerte sind nicht Vollständig aufgeteilt (nicht Atomar) z.B. $Name = Vorname, Nachname$. Außerdem sind nicht Schlüsselattribute [transitiv](17%20Normalisierung%20von%20Datenbanken) abhängig z.B. Anfangszeit ist abhängig vom Attribut Stunde und dies sind beide keine Primärschlüssel also verstößt dies gegen die dritte [Normalform](17%20Normalisierung%20von%20Datenbanken).
+Das Relationenschema befindet sich nicht in der dritten Normalform, weil es nicht in der ersten Normalform steht. Die Attributswerte sind nicht Vollständig aufgeteilt (nicht Atomar) z.B. $Name = Vorname, Nachname$. Außerdem sind nicht Schlüsselattribute [transitiv](17%20Normalisierung%20von%20Datenbanken) abhängig z.B. Anfangszeit ist abhängig vom Attribut Stunde und dies sind beide keine Primärschlüssel also verstößt dies gegen die dritte [Normalform](17%20Normalisierung%20von%20Datenbanken).
 
 ---
 ### Aufgabe 
