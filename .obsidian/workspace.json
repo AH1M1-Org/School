@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+                "file": "Mathe/Vektoren/4 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddf513fe8b7d8629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Kryptologie/4 Ziele der Kryptologie.md"
+                "file": "Test.md"
               }
             }
           }
@@ -116,22 +130,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "670dd5b2a75cddb7",
+  "active": "ddf513fe8b7d8629",
   "lastOpenFiles": [
-    "Informatik/Kryptologie/5 RSA Verfahren.md",
     "Mathe/Vektoren/4 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Test.md",
+    "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+    "Informatik/Kryptologie/5 RSA Verfahren.md",
     "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md",
     "PDF/1 Mathe Infomaterial Vektoren.pdf",
     "Informatik/SQL/17 Normalisierung von Datenbanken.md",
@@ -148,7 +165,6 @@
     "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
     "Informatik/Kryptologie/2 Vigenère.md",
-    "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
     "Informatik/SQL/19 Uebungen.md",
     "Informatik/SQL/13 Relationales Datenmodell.md",
     "Informatik/SQL/12 Abituraufgaben.md",
