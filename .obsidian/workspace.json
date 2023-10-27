@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36582c8746e20d87",
+        "id": "f014f3711a1ec8d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2c2465c0b9572ac6",
+            "id": "95dbb18c989245d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "file": "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "file": "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "file": "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md"
+                "file": "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md"
               }
             }
           }
@@ -129,15 +129,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c2465c0b9572ac6",
+  "active": "ccd60c32e25e528f",
   "lastOpenFiles": [
-    "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
+    "Mathe/Vektoren/5 Einstahrlungswinkel Aufgabe.md",
+    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Mathe/Vektoren/5 Beispiel Aufgabe Kreuzprodukt, Winkel usw.md",
+    "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/2 Uebungen.md",
     "Spanisch/11 presentacion de Bilbao.md",
+    "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
     "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
     "Informatik/Kryptologie/5 RSA Verfahren.md",
     "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
     "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
-    "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
     "Informatik/Kryptologie/2 Vigenère.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
@@ -153,10 +157,6 @@
     "Informatik/Kryptologie/1 Caesar Verfahren.md",
     "Religion/7 Heiliger Krieg (Djihad im Islam).md",
     "Gesellschaftslehre/5 Kolonialisierung.md",
-    "Gesellschaftslehre/4 Imperialismus.md",
-    "Englisch/6 The children of Sodom.md",
-    "Religion/3 Christen pazifistisch.md",
-    "Test.md",
     "Unbenannt"
   ]
 }
