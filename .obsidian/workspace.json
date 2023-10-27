@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.50288009643555,
-    "collapsed": true
+    "width": 219.50288009643555
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md"
+                "file": "Informatik/SQL/1 Select - Distinct - Order by - Where.md"
               }
             }
           }
@@ -130,7 +129,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c2465c0b9572ac6",
+  "active": "ccd60c32e25e528f",
   "lastOpenFiles": [
     "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
     "Informatik/Kryptologie/5 RSA Verfahren.md",
