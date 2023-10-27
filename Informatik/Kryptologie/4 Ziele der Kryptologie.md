@@ -4,4 +4,3 @@
 **Anonymität** $\rightarrow$ Der Empfänger soll von dem Benutzer nicht zurück verfolgt werden können. 
 
 
-
