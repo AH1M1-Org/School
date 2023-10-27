@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Kryptologie/5 RSA Verfahren.md",
-                "mode": "preview",
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.50288009643555
+    "width": 219.50288009643555,
+    "collapsed": true
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Kryptologie/5 RSA Verfahren.md",
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Kryptologie/5 RSA Verfahren.md",
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Kryptologie/5 RSA Verfahren.md"
+                "file": "Informatik/SQL/22 Korrektur Aufgabe 2.b.md"
               }
             }
           }
@@ -131,14 +132,14 @@
   },
   "active": "2c2465c0b9572ac6",
   "lastOpenFiles": [
+    "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
+    "Informatik/Kryptologie/5 RSA Verfahren.md",
     "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
     "Mathe/Zahlentheorie/8 Lernzettel Zahlentheorie.md",
     "Mathe/Vektoren/4 Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Informatik/Kryptologie/2 Haeufigkeitsanalyse.md",
     "Informatik/Kryptologie/2 Vigenère.md",
     "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
-    "Informatik/Kryptologie/5 RSA Verfahren.md",
-    "Informatik/SQL/22 Korrektur Aufgabe 2.b.md",
     "Informatik/SQL/17 Normalisierung von Datenbanken.md",
     "Informatik/SQL/19 Uebungen.md",
     "Informatik/SQL/18 Aufgaben zur Normalform.md",
