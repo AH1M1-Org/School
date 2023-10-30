@@ -17,21 +17,21 @@ Dieses Repository dient als zentrale Ablage für all meine schulischen Unterlage
 
 Die Ordnerstruktur ist so gestaltet, dass sie die verschiedenen Fächer und Aktivitäten klar und übersichtlich trennt. Hier ist eine Übersicht über die Hauptordner:
 
-- Mathe/
-- Informatik/
-- Religion
-- Englisch/
-- Gesellschaftslehre/
-- Deutsch/
-- Biologie/
-- Spanisch/
-- Betriebwirtschaftslehre/
+- **Mathe/**
+- **Informatik/**
+- **Religion/**
+- **Englisch/**
+- **Gesellschaftslehre/**
+- **Deutsch/**
+- **Biologie/**
+- **Spanisch/**
+- **Betriebwirtschaftslehre/**
 
-- Excalidraw/ > In diesem Ordner werden sämtliche Zeichnungen, Skizzen und grafische Materialien erstellt und abgelegt. 
-- Templates/ > Hier werden verschiedene Vorlagen, wie Seitenlayouts, Matheformeln und andere schulische Vorlagen gespeichert.
-- PDF/ > Dieser Ordner dient der Ablage von Arbeitsblättern, PDF-Dokumenten und anderen schulischen Materialien im PDF-Format.
+- **Excalidraw/** - In diesem Ordner werden sämtliche Zeichnungen, Skizzen und grafische Materialien erstellt und abgelegt. 
+- **Templates/** - Hier werden verschiedene Vorlagen, wie Seitenlayouts, Matheformeln und andere schulische Vorlagen gespeichert.
+- **PDF/** - Dieser Ordner dient der Ablage von Arbeitsblättern, PDF-Dokumenten und anderen schulischen Materialien im PDF-Format.
 
-Die Unterverzeichnisse sind je nach Bedarf weiter unterteilt. Zum Beispiel könnte der Mathe -Ordner die Unterordner Zahlentheorie/, Vectoren/ usw. enthalten.
+Die Unterverzeichnisse sind je nach Bedarf weiter unterteilt. Zum Beispiel könnte der Mathe -Ordner die Unterordner **Zahlentheorie/**, **Vectoren/** usw. enthalten.
 
 ## Verwendung
 

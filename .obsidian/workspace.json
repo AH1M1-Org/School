@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e83f864698b2291f",
+        "id": "f778b941b85c740c",
         "type": "tabs",
         "children": [
           {
-            "id": "558a20f6e5a088fc",
+            "id": "9bceb51952005f4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/2 Lernzettel - Evolutionstheorien.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62021e0f95606dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Center Links.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Center Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Center Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Center Links.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,13 +128,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62021e0f95606dbc",
+  "active": "9bceb51952005f4d",
   "lastOpenFiles": [
-    "Test.md",
+    "Biologie/2 Lernzettel - Evolutionstheorien.md",
+    "README.md",
     "Templates/Center Links.md",
+    "Test.md",
     "Templates/New Site.md",
     "Link.md",
-    "Biologie/2 Lernzettel - Evolutionstheorien.md",
     "Biologie/1 Evolotionstheorie Charles Darwin.md",
     "Deutsch/7 Setzen Stellen Legen.md",
     "Deutsch/6 Hausaufgaben.md",
@@ -178,7 +156,6 @@
     "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Mathe/Vektoren/1 Lernzettel Vektoren.md",
     "Templates/Test test.md",
-    "Center%20Links.md",
     "Templates/Mathe/Unbenannt",
     "Gesellschaftslehre/Praesentation/~$1 Gesellschaftlehre Wochenbericht.pptx",
     "Gesellschaftlehre",
