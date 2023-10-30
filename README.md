@@ -7,7 +7,6 @@ Willkommen zu meinem schulischen Projektarchiv! Hier findest du eine Übersicht 
 1. [Beschreibung](#beschreibung)
 2. [Ordnerstruktur](#ordnerstruktur)
 3. [Verwendung](#verwendung)
-4. [Lizenz](#lizenz)
 
 ## Beschreibung
 
