@@ -1,4 +1,4 @@
-#### No 1
+### No 1
 1. En la imagen hay un hobre, él está esquiando (Skifahren -> ando -> jetzt From) en las montañas
 - En la foto se ve montañas blancas con nieve. Una persona está esquiando
 
@@ -19,8 +19,7 @@
 - Se ve una tienda de la marca "Desigual"
 9. 
 - Se ve un paseo marítimo y una playa larga. Hay bancos para sentrase. Al fondo hay un edificio con una cúpula grande que parece (scheint zu sein) una fábrica o una planta de energía nuclear. 
-
-#### No. c
+### No. c
 1. c
 2. a
 3. f
@@ -37,3 +36,6 @@
 |b          |c        |a      |
 |d          |h        |e      |
 |g          |i        |f      |
+
+---
+*Marvin Baeumer* **2023-10-30 17:01** #Spanisch

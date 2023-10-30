@@ -13,3 +13,6 @@ Reservierung($\underline{ID}$, Beginn, Zweck, Ende, $\uparrow$ Mitarbeiter_ID)
 Mitarbeiter($\underline{ID}$, PersNr, Vorname, Nachname)
 
 Mitarbeiter_faehrt_mit($\uparrow Mitarbeiter\_ID$, $\uparrow Reservierung\_ID$)
+
+---
+*Marvin Baeumer* **2023-10-30 17:08** #Informatik

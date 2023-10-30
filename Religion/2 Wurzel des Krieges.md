@@ -2,7 +2,6 @@
 1. Aggression (Gewalt)
 2. Stolz
 3. Eskalation
-
 ### **_Def. Krieg:_**
 
 *"Der Krieg ist eine bloßse Fortsetzung der Politik mit anderen Mitteln"*
@@ -19,3 +18,5 @@
 - Apathie
 - emotiotionslos/Wahrnehmungsdefizite
 - Realitätsverlust
+---
+*Marvin Baeumer* **2023-10-30 17:03** #Religion

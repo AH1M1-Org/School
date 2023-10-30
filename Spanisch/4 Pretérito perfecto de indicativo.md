@@ -1,4 +1,3 @@
-
 |Person                  |
 |------------------------|
 |Yo -> he                |
@@ -9,6 +8,9 @@
 |Ellos/as/ustedes -> hand|
 
 *"Cant-ar **-** Cant-ado, Beb-er **-** Bebido, Viv-ir **-** Viv-ido"*
-|AR|ER|IR|
-|--|--|--|
-|ADO|IDO|IDO|
+| AR  | ER  | IR  |
+| --- | --- | --- |
+| ADO | IDO | IDO |
+
+---
+*Marvin Baeumer* **2023-10-30 17:02** #Spanisch

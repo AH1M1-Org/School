@@ -12,3 +12,6 @@ Warum benutzt man VIEW abfragen?
 - Berechtigung
 
 #### [Arten von Joins](https://www.tinohempel.de/info/info/datenbank/operation.htm)
+
+---
+*Marvin Baeumer* **2023-10-30 17:09** #Informatik

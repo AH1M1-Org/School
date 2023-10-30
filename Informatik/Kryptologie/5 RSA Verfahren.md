@@ -65,3 +65,5 @@ public class Main {
     }
 }
 ```
+---
+*Marvin Baeumer* **2023-10-30 17:06** #Informatik

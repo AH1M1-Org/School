@@ -17,3 +17,6 @@ K: Es imposible convencerte, estúpido egoísta venderías el ojo izquierdo de t
 M: Fuera o vende tu ojo.
 
 K: Pendejo...
+
+---
+*Marvin Baeumer* **2023-10-30 17:03** #Spanisch

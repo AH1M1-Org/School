@@ -16,9 +16,11 @@ Hay personas locales que no tienen un problema con los turistas. Pero esas perso
 
 Al final hay protestas en la Boqueria contra el turismo de masas en Barcelona.
 
-
 |Ventajas|desventajas|
 |--------|-----------|
 |- factor economico|- locales son agrio|
 |- contacto otra culturas|- imapacto medio ambiente|
 |- |- inflación|
+
+---
+*Marvin Baeumer* **2023-10-30 17:03** #Spanisch

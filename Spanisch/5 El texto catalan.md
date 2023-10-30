@@ -10,3 +10,6 @@ Der rest kommt wegen dem Arbeiten/Geschäft oder  wegen der Schule
 ### Analizar estadisticas
 La tabella ilustra una tendencia de turismo de cataluña según el motivo del viaje.\
 La mayoría de los tunstas viene de Halia con un 21.4%.
+
+---
+*Marvin Baeumer* **2023-10-30 17:02** #Spanisch

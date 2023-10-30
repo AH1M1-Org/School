@@ -8,9 +8,6 @@
 |Anatomische Isolation|Nahe verwandte einer Art versuchen sich mit dieser Art zu paaren dies geht aber nicht da sie anatomisch nicht zueinander passen|
 |Physiologische Isolation|Samenzelle und Eizelle sind nicht kompatibel oder die Samenzellen erreichen die EIzellen nicht|
 |Genetische Isolation|Die Chromosomenpaare verändern sich so sehr zweier naher Arten das sie sich nicht mehr fortpflanzen können oder die Nachkommen unfruchtbar sind|
-
----
-
 ### Aufgabe 3
 Abbildung 1 $\rightarrow$ Jahreszeitliche Isolation
 
@@ -19,3 +16,6 @@ Abbildung 2 $\rightarrow$ Geographische Isolation, Ökologische Isolation
 Abbildung 3 $\rightarrow$ Ethologische Isolation
 
 Abbildung 4 $\rightarrow$ Genetische Isolation, Anatomische Isolaion
+
+---
+*Marvin Baeumer* **2023-10-30 17:13** #Biologie

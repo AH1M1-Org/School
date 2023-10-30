@@ -24,3 +24,6 @@ CREATE TABLE(
     PRIMARY KEY(BestellNr),
     FOREIGN KEY(KundenNr_Nr) REFRENCES Kunde(KundenNr));
 ```
+
+---
+*Marvin Baeumer* **2023-10-30 17:09** #Informatik

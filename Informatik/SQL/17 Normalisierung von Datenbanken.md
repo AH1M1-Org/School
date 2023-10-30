@@ -10,3 +10,6 @@ Der Primärschlüssel wird nicht mehr eindeutig also muss einer Zusammengesetzt 
 - jedes Nichtschlüsselattribut nicht transitiv vom Primärschlüssel abhängig ist.
 ### Transitiv
 Transitiv bedeutet wenn Nichtschlüsselattribute abhängig von anderen Nichtschlüsselattributen sind.
+
+---
+*Marvin Baeumer* **2023-10-30 17:09** #Informatik

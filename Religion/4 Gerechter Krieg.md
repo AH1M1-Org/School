@@ -13,7 +13,7 @@
 -  Folge: Kirche/Christen müssen Regierungen moralisch ins Gewissen reden! **(Wächteramt)**
 
 ### Die ev. Kirche zur Frage des Krieges
+[Grafik](6%20Zwei%20Reiche%20Lehre.excalidraw)
 
-"Königsherschaft" $\rightarrow$ **Barmertheologische Erklärung** (Barmen II) $\rightarrow$ **Bergpredigt** (Mt5-7) $\rightarrow$ **der absolute Pazifismus** (Waffenloser Messias)
-
-**Barmertheologische Erklärung** (Barmen II) $\rightarrow$ **Feindesliebe**(durch Hoffnung auf überwindung des Todes im Glauben)
+---
+*Marvin Baeumer* **2023-10-30 17:04** #Religion

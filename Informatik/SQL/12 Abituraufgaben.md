@@ -33,3 +33,6 @@ DBMS
 - Mehrbenutzersystem
 - Datenunabhängigkeit
 - ausstausch der Daten mit anderen Programmen ermöglichen
+
+---
+*Marvin Baeumer* **2023-10-30 17:08** #Informatik

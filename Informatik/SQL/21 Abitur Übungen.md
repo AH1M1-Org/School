@@ -219,3 +219,5 @@ In meiner Entwickelten Erweiterung wird eine Episode in einer Extratabelle einer
 
 Die Sprachen werden in der Entitaet Sprache verwalatet und koennen mit dem Primaerschluessel Bezeichnung einduetig identifiziert werden. 
 
+---
+*Marvin Baeumer* **2023-10-30 17:09** #Informatik

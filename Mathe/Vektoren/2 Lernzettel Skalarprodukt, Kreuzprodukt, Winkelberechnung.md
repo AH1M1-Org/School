@@ -50,4 +50,13 @@ $$\gamma = \cos^{-1} \begin{pmatrix} \frac{\vec n \cdot \vec v}{\left| \vec n \r
 - Danach gilt $\alpha = 90° - \gamma$ , so erhaehlt man den Schnittwinkel $\alpha$ zur Ebene $E : \vec a$ und der geraden $g : \vec x$
 
 
-## [Zum Infomaterial](PDF/1%20Mathe%20Infomaterial%20Vektoren.pdf)
+## [Zum Infomaterial](1%20Infomaterial%20Vektoren.pdf)
+
+
+
+
+
+
+
+---
+*Marvin Baeumer* **2023-10-30 17:06** #Mathe

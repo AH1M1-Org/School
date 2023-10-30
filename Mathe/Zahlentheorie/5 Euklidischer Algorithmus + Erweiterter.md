@@ -11,7 +11,6 @@ $18 = 12 \cdot 1 + 6$\
 $12 = 6 \cdot 2 + 0$
 
 $\Longrightarrow ggt(630, 282) = 6$
-
 ### **Erweiterter Euklidischer Algorithmus**
 $a \cdot r + b \cdot s = ggt(a, b)$
 #### **Beispiel**
@@ -20,8 +19,7 @@ $ggt(302, 128)$
 1. Euklidischer Algorithmus
 2. Umstellen nach Rest
 3. Erweiterter Euklidischer Algorithmus
-
-#### Euklidischer Algorithmus & Umstellen nach Rest
+### Euklidischer Algorithmus & Umstellen nach Rest
 $302 = 128 \cdot 2 + 46 ~ | ~ 46 = 302 - 128 \cdot 2$\
 $128 = 46 \cdot 2 + 36  ~ | ~ 36 = 128 - 46 \cdot 2$\
 $46 = 36 \cdot 1 + 10  ~ | ~ 10 = 46 - 36 \cdot 1$\
@@ -31,8 +29,7 @@ $6 = 4 \cdot 1 + 2  ~ | ~ 2 = 6 - 4 \cdot 1$\
 $4 = 2 \cdot 2 + 0$
 
 $ggt(302, 128) = 2$
-
-#### Erweiterter Euklidischer Algorithmus
+### Erweiterter Euklidischer Algorithmus
 |                                        |                                                                    |                      |
 |----------------------------------------|--------------------------------------------------------------------|----------------------|
 |$2 = 6 - \underline{4} \cdot 1$|$= 6 - \underline{(10 - 6 ⋅ 1)} \cdot 1$                    | vereinfachen        |
@@ -50,3 +47,6 @@ $ggt(302, 128) = 2$
 |                                        |$= 9 \cdot 128 - 25 \cdot \underline{(302 - 128 ⋅ 2)}$     |vereinfachen         |
 |                                        |$= 9 \cdot 128 - 25\cdot 302 + 50 \cdot 128$                        |zusammenfassen       |
 |                                        |$= - 25 \cdot 302 + 59 \cdot 128$                                   |BITTERES ENDE        |
+
+---
+*Marvin Baeumer* **2023-10-30 17:05** #Mathe

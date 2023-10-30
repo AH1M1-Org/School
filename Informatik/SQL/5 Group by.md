@@ -62,3 +62,6 @@ SELECT Hersteller, MAX(Anschaffungskosten) Max_Kosten FROM fahrzeugmodell, fahrz
 WHERE Fahrzeugmodell_ID = fahrzeug.ID
 GROUP BY Hersteller
 ```
+
+---
+*Marvin Baeumer* **2023-10-30 17:07** #Informatik

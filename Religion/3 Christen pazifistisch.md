@@ -7,3 +7,6 @@
 - Mt 26, 52: "Wer das Schwert erhebt wird durch das Schwert umkommen"(+)
 
 - Brief an die Römer "Gott darf rächen, nicht der Mensch"
+
+---
+*Marvin Baeumer* **2023-10-30 17:03** #Religion

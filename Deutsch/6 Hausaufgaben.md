@@ -1,4 +1,4 @@
-[Thesen](Deutsch/1%20Die%2010%20Thesen) 
+#### [Thesen](Deutsch/1%20Die%2010%20Thesen)
 I. Es gibt ernste und komische Gedichte.
 Dieses Gedicht ist eindeutig ein komisches Gedicht, da es humorvoll ist und darauf abzielt, den Leser zum Lachen zu bringen. Auf den ersten blick ist auch keine sonderlich tiefe Bedeutung zu ekennen.
 
@@ -8,3 +8,6 @@ Das Gedicht könnte man als 5 einzelne Geschichten betrachten, die alle auf eine
 VIII. Das komische Gedicht ist haltbar.
 Da es nicht viel zu verstehen gibt und es nur durch seine Absurdität begeistert, würde ich das Gedicht als haltbar bezeichnen und selbst wenn es eine tiefere bedetung gibt ist diese mit einfacher sprache dargestellt
 tatsächlich nicht mit chatgpt gemacht, weil da nur scheiße ausgespuckt wurde
+
+---
+*Marvin Baeumer* **2023-10-30 17:12** #Deutsch

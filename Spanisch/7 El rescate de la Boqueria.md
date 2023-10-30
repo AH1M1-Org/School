@@ -31,3 +31,5 @@ Eine Gruppe von ca. 30 personen sind auf die straße protetestieren gegangen, al
 
 > Un grupo de 30 personas protesta con diferentes motives. Quieren(Sie wollen) supermercados no restaurantes. Quieren protesta pacifica con carteles. Más personas se unen la protesta.
 
+---
+*Marvin Baeumer* **2023-10-30 17:02** #Spanisch

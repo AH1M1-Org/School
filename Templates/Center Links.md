@@ -1,0 +1,1 @@
+<span style="display:block;width:fit-content;margin:auto;">[[New Site]]</span> 

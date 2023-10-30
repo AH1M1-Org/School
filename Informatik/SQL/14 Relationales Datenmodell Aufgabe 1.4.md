@@ -7,3 +7,6 @@ Ressort($\underline{ID}$, Bezeichnung, $\uparrow$ Mitarbeiter_ID)
 Projekt_arbeitet_Mitarbeiter($\uparrow$ Mitarbeiter_ID, $\uparrow$ Projekt_ID)
 
 [Modell](Informatik/Dia/1%20Relationaledatenbanken/Aufgabe%201.4.png)    
+
+---
+*Marvin Baeumer* **2023-10-30 17:08** #Informatik

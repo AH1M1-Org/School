@@ -29,3 +29,6 @@ WHERE Gesellschaft_ID = versicherungsgesellschaft.ID
 GROUP BY Firm
 HAVING SUM(Beitrag) > 3000
 ```
+
+---
+*Marvin Baeumer* **2023-10-30 17:07** #Informatik

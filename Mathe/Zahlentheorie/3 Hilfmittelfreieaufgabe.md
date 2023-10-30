@@ -11,15 +11,17 @@ $S \rightarrow (2 | -1)$
 
 ### *Stelle die Formel um und nenne den Körper zu welchem die Formel gehört*
 
-$2 \cdot \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$ | $- 2 \cdot \pi \cdot r^2$\
-$-(2\cdot \pi \cdot r^2) = 2 \cdot \pi \cdot r \cdot h | \div 2 \cdot \pi \cdot r$\
+$2 \cdot \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$ | $- 2 \cdot \pi \cdot r^2$
+$-(2\cdot \pi \cdot r^2) = 2 \cdot \pi \cdot r \cdot h | \div 2 \cdot \pi \cdot r$
 $\frac{O-2 \cdot \pi \cdot r^2}{2 \cdot \pi \cdot r} = h$
 #### *"Zylinder"*
 
 ### Nach wie vielen Minuten treffen sich die Autos
 
-$f(x) = 50 \cdot x + 50$\
-$g(x) = 90 \cdot x$\
-$\Leftrightarrow f(x) = g(x)$\
-$50 \cdot x + 50 = 90 \cdot x ~ | - 50 \cdot x$\
+$f(x) = 50 \cdot x + 50$
+$g(x) = 90 \cdot x$
+$\Leftrightarrow f(x) = g(x)$
+$50 \cdot x + 50 = 90 \cdot x ~ | - 50 \cdot x$
 $50 = 40 \cdot x ~ | - 50 \cdot x$
+---
+*Marvin Baeumer* **2023-10-30 17:04** #Mathe

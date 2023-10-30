@@ -96,7 +96,6 @@ WHERE Bezeichnung LIKE "%TDI%"
 SELECT * FROM fahrzeug
 WHERE Kennzeichen LIKE "TBB%73%";
 ```
-
 ## **JOIN**
 ### **3-9**
 #### a
@@ -130,7 +129,6 @@ FROM fahrzeug, fahrzeugmodell
 WHERE Hersteller = "VW" AND Fahrzeugmodell_ID = fahrzeugmodell.ID
 ORDER BY Bezeichnung DESC
 ```
-> in der Tabelle Fahrzeuge gibt es eine Spalte namens Fahrzeugmodell_ID diese ID gehört dann zu einer ID in der Tabelle Fahrzeugmodel in der Spalte ID
 ---
 #### d
 ```SQL
@@ -144,5 +142,5 @@ FROM Instandhaltung, Fahrzeug
 WHERE Fahrzeug_ID = Fahrzeug.ID AND Kosten BETWEEN 300 AND 500
 ORDER BY Kosten ASC;
 ```
-> Bei der Between bedingung gehören die äußeren Werte mit dazu 
-300 Between 500 -> 300 <= x <= 500
+---
+*Marvin Baeumer* **2023-10-30 17:07** #Informatik

@@ -1,4 +1,5 @@
-$$\vec g: x \begin{pmatrix} x \\ y \\ z \end{pmatrix} + t \cdot \begin{pmatrix} x \\ y \\ z \end{pmatrix}$$
+<span style="display:block;width:fit-content;margin:auto;">[[Mathe/Mathematica/Spurpunkte.nb]]</span> 
+ $$\vec g: x \begin{pmatrix} x \\ y \\ z \end{pmatrix} + t \cdot \begin{pmatrix} x \\ y \\ z \end{pmatrix}$$
 
 ### Schnittpunkt mit Ebenen $(x,y,z)$ 
 $$x - Ebene = x + t \cdot x = 0$$
@@ -14,3 +15,6 @@ $$xz - Ebene = y + t \cdot y = 0$$
 $$yx, yz, ...$$
 **Merksatz**
 > Man setzt die Koordinate gleich 0 die nicht in der Ebene vorkommt, da auf der Koordinatenhöhe 0 die Ebene liegt.
+
+---
+*Marvin Baeumer* **2023-10-30 17:06** #Mathe

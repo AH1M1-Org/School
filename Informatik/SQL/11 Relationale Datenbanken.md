@@ -28,3 +28,6 @@ Kardinalität $\rightarrow$
 
 muss Beziehungen: n bzw. 1
 kann Beziehung: nc bzw c
+
+---
+*Marvin Baeumer* **2023-10-30 17:08** #Informatik

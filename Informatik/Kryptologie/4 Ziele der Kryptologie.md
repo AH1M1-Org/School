@@ -3,4 +3,5 @@
 **Authentizität** $\rightarrow$ Die Identität des Absenders soll gewährleistet sein/überprüfbar sein.
 **Anonymität** $\rightarrow$ Der Empfänger soll von dem Benutzer nicht zurück verfolgt werden können. 
 
-
+---
+*Marvin Baeumer* **2023-10-30 17:06** #Informatik

@@ -21,3 +21,6 @@ SElECT Name AS Leitername, Dauer, Thema FROM Seminar
 INNER JOIN leiter ON seminar.L_Nr = leiter.L_Nr
 WHERE Dauer = (SELECT MIN(Dauer) FROM Seminar)
 ```
+
+---
+*Marvin Baeumer* **2023-10-30 17:07** #Informatik

@@ -5,3 +5,6 @@ Al principio el autor escribe sobre la empresa Snow World. Snow World espera que
 El autor presenta los aspectos positivos del proyecto, por ejemplo, el proyecto crea nuevos puestos de trabajo y distribuye turistas.
 
 Luego escribe sobre el problema del proyecto. La pista no se puede construir porque el centro de distribución del banco necesita este espacio. Proporcionaron comida gratuita a más de 150.000 personas.
+
+---
+*Marvin Baeumer* **2023-10-30 17:03** #Spanisch

@@ -51,3 +51,6 @@ GROUP BY Klasse
 ORDER BY Klassenstärke DESC
 LIMIT 1
 ```
+
+---
+*Marvin Baeumer* **2023-10-30 17:07** #Informatik

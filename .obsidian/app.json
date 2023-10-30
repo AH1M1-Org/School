@@ -5,13 +5,14 @@
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
   "foldHeading": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "focusNewTab": true,
-  "tabSize": 5,
+  "tabSize": 7,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "rightToLeft": false
 }

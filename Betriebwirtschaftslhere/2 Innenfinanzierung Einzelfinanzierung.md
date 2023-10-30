@@ -13,10 +13,9 @@
 6. Sonderposten mit Gewinnrücklagen: Dies sind oft spezielle Rücklagen, die für bestimmte Zwecke wie Investitionen oder Dividendenzahlungen vorgesehen sind.
     
 7. Eigenkapitalanteile nicht beherrschender Gesellschafter (Minderheitsanteile): Wenn ein Unternehmen Tochtergesellschaften hat, die nicht zu 100 % im Besitz des Mutterunternehmens sind, werden die Eigenkapitalanteile dieser Minderheitsaktionäre separat ausgewiesen.
-#### Beschreiben Sie den Unterschied zwischen den Begriffen Grund-, Stamm-, und gezeichnetes Kapital.
-
+### Beschreiben Sie den Unterschied zwischen den Begriffen Grund-, Stamm-, und gezeichnetes Kapital.
 - Grundkapital und Stammkapital sind im Grunde dasselbe und beziehen sich auf den gesetzlich festgelegten Mindestbetrag an Eigenkapital, den eine Kapitalgesellschaft bei ihrer Gründung oder Kapitalerhöhung aufbringen muss. Die Begriffe sind in der Regel austauschbar.
-    
+
 - Gezeichnetes Kapital bezieht sich auf den tatsächlich von den Aktionären eingezahlten Betrag, der das Eigenkapital der Gesellschaft darstellt. Es kann geringer sein als das festgelegte Grund- oder Stammkapital, wenn Aktionäre nicht den vollen Betrag eingezahlt haben.
-
-
+---
+*Marvin Baeumer* **2023-10-30 17:13** #Betriebwirtschaftslehre 

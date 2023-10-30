@@ -34,7 +34,8 @@ Ich rede, er bleibt stumm.
 Ich leb ein Leben lang für ihn.
 Er bringt mich langsam um.
 
-### 3 [Thesen]()
+###<span style="display:block;width:fit-content;margin:auto;">[[1 Die 10 Thesen]]</span> 
+
 Das Gedicht "7x Mein Körper" von Robert Gerhardt verdeutlicht eindrucksvoll die Vielschichtigkeit von Gedichten und die Tatsache, dass es sowohl ernste als auch komische Gedichte gibt. In diesem Gedicht wird die Beziehung des Ich-Erzählers zu seinem eigenen Körper behandelt. Auf den ersten Blick mag es ernst erscheinen, da es die Abhängigkeit und Verletzlichkeit des Körpers betont, indem es ihn als "schutzlos Ding" beschreibt. Dies weist darauf hin, dass Gedichte ernsthafte Themen behandeln können und nicht ausschließlich auf humorvolle Unterhaltung abzielen.
 
 > These 1: Es gibt ernste und komische Gedichte
@@ -46,3 +47,6 @@ Dennoch wird im Gedicht auch Humor und Ironie verwendet, insbesondere wenn der K
 Das Gedicht zeigt auch, dass ein Dichter in der Lage ist, komische Gedichte zu verfassen, ohne notwendigerweise als "komischer Dichter" klassifiziert zu werden. Robert Gernhardt behandelt ernste Themen auf humorvolle Weise und betont damit die Vielseitigkeit und kreative Freiheit von Dichtern. Diese Vielseitigkeit ermöglicht es den Dichtern, verschiedene Stile und Töne in ihrer Arbeit zu nutzen.
 
 > These 6: Es gibt komische Gedichte, aber keine komischen Dichter
+
+---
+*Marvin Baeumer* **2023-10-30 17:12** #Deutsch

@@ -8,3 +8,6 @@
 8. **1939 - 1945** 
 9. Hendrik Wüst $\rightarrow$ CDU
 10. Bismark, Kaiser Willhelm
+
+---
+*Marvin Baeumer* **2023-10-30 17:09** #Gesellschaftslehre
