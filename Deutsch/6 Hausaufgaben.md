@@ -1,3 +1,4 @@
+[Thesen](Deutsch/1%20Die%2010%20Thesen) 
 I. Es gibt ernste und komische Gedichte.
 Dieses Gedicht ist eindeutig ein komisches Gedicht, da es humorvoll ist und darauf abzielt, den Leser zum Lachen zu bringen. Auf den ersten blick ist auch keine sonderlich tiefe Bedeutung zu ekennen.
 

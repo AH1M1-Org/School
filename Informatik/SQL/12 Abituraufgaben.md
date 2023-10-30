@@ -32,4 +32,4 @@ DBMS
 - DAtenschutz
 - Mehrbenutzersystem
 - Datenunabhängigkeit
-  - ausstausch der Daten mit anderen Programmen ermöglichen
+- ausstausch der Daten mit anderen Programmen ermöglichen

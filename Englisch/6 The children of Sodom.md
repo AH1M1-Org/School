@@ -4,7 +4,7 @@
 	- Dangerous place due fires and toxic smoke and oil/plastic rivers.
 	- Breathing painful and toxic for lunges
 ---
-2. Describe how boys like Bismarck try to make a living With the electronic scrap.
+4. Describe how boys like Bismarck try to make a living With the electronic scrap.
 	- 14 years old
 	- small for his age
 	- poor child
@@ -12,7 +12,7 @@
 	- sels scrap to survive
 	- in the lowest rank
 ---
-3. Illustrate and explain the impact of dangerous chemicals and toxins in the junkyard
+5. Illustrate and explain the impact of dangerous chemicals and toxins in the junkyard
 	a) on the boys' health,
 	 - they breathe in toxic fumes 
 	 - red eyes 
@@ -31,7 +31,7 @@
 	- lunge damage
 	- can lead to toxic food (like fish or other sea animals)
 ---
-4. Examine the style of the article: Which rhetorical and structural devices* are used to convey the appalling situation to the reader?
+7. Examine the style of the article: Which rhetorical and structural devices* are used to convey the appalling situation to the reader?
 	$\rightarrow$ Focus on Skills, Analysis of a Non-Fictional Text, p. 453
 	$\rightarrow$ Focus on Skills, Basic Types of Non-Fictional Texts, p. 460
 ---
