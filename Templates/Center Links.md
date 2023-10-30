@@ -1,1 +1,2 @@
-<span style="display:block;width:fit-content;margin:auto;">[[New Site]]</span> 
+<span style="display:block;width:fit-content;margin:auto;">[[Link]]</span> 
+#Templates 
