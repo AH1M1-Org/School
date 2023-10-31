@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:43**
+
+---
 ### Aufgabe 1
 Barcode 1 $\rightarrow$ ```false```\
 Barcode 2  $\rightarrow$ ```true```
@@ -35,5 +42,3 @@ public class Main {
     }
 }
 ```
----
-*Marvin Baeumer* **2023-10-30 17:04** #Mathe

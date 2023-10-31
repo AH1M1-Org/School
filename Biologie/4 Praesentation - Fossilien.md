@@ -1,3 +1,10 @@
+---
+tags:
+  - Biologie
+---
+*Marvin Baeumer* **2023-10-31 12:31**
+
+---
 ### **Was sind Fossilien?**
 - 3 verschiedene Arten
     - Körperfossil $\rightarrow$ fund des versteinerten Körpers
@@ -19,5 +26,3 @@
 
 ### Paläomagnetische Datierung
 - Die Aussrichtung des Erdmagnetfelds hat sich im Laufe der Zeit geändert. Forscher können so an Fossilien und Gesteinsschichten Messen wie sehr diese Magnetisiert sind. So kann daraus ein alter abgeschätzt werden
----
-*Marvin Baeumer* **2023-10-30 17:13** #Biologie

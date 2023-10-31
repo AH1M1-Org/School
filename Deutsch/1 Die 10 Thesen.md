@@ -1,3 +1,10 @@
+---
+tags:
+  - Deutsch
+---
+*Marvin Baeumer* **2023-10-31 12:32**
+
+---
 ### I. Es gibt ernste und komische Gedichte
 > Es stimmt das es ernste und komische Gedichte gibt, bei manchen erkennt man klar worauf sie abzielen und welches Appell diese Gedichte an den Leser geben soll oder manche Gedichte sind so komisch geschrieben das man nicht genau weiss worauf sie abzielen. Dennoch wuerde ich nicht sagen das beides nicht vereint sein kann es kann komische Gedichte geben mit einem tieferen Sinn. *"Humor ist eine Art um ernste Themen anzusprechen."* 
 
@@ -37,6 +44,3 @@
 > Es ist tatsaechlich der Sonderweg zum Humor, damals. Heutzutage findet man die meisten Werke wahrscheinlich auch nicht Lustig und würde als außenstehender die deutschen immer noch als Humorlos bezeichnen.
 
 **Stimme zum Teil zu**
-
----
-*Marvin Baeumer* **2023-10-30 17:12** #Deutsch

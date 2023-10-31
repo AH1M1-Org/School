@@ -1,3 +1,10 @@
+---
+tags:
+  - Biologie
+---
+*Marvin Baeumer* **2023-10-31 12:30**
+
+---
 ### Aufgabe 1
 Die Käfer sehen unterschiedlich entwickelt aus, weil nach Darwins Theorie ein Wandel unvermeidbar ist, wenn einer der drei folgenden Faktoren auftritt: Variabilität, Vererbbarkeit und unterschiedlicher Fortpflanzungserfolg. Das bedeutet also, dass die Käfer ihre Entwicklung aufgrund des unterschiedlichen Fortpflanzungserfolgs vererbt haben. Deswegen weisen die vier Formen ein unterschiedliches Aussehen auf, basierend auf einem Allel desselben Gens. Da die Vererbung vorteilhaft für den Käfer ist, bleibt diese auch bei den Nachkommen bestehen.
 ### Aufgabe 2a
@@ -18,6 +25,3 @@ Die Käfer sehen unterschiedlich entwickelt aus, weil nach Darwins Theorie ein W
 **Natürliche Selektion** ist ein Evolutionmechanismus, bei dem bestimmte Merkmale in Populationen im Laufe der Zeit häufiger werden, weil sie Überleben oder Fortpflanzung verbessern. Dies basiert auf genetischer Vielfalt und ungleichem Erfolg bei Anpassung und Fortpflanzung.
 
 **Fitness** beschreibt die Fähigkeit eines Organismus, sich erfolgreich fortzupflanzen und seine genetischen Merkmale an die Umwelt anzupassen.
-
----
-*Marvin Baeumer* **2023-10-30 17:13** #Biologie

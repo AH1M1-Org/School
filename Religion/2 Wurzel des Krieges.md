@@ -1,3 +1,10 @@
+---
+tags:
+  - Religion
+---
+*Marvin Baeumer* **2023-10-31 12:52**
+
+---
 ### Tiefpsychologische Wurzel des Krieges
 1. Aggression (Gewalt)
 2. Stolz
@@ -18,5 +25,3 @@
 - Apathie
 - emotiotionslos/Wahrnehmungsdefizite
 - Realitätsverlust
----
-*Marvin Baeumer* **2023-10-30 17:03** #Religion

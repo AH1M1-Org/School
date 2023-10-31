@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:52**
+
+---
 ### Zahlentheorie
 ### Rechenregeln
 
@@ -90,6 +97,3 @@ $m` = 32$
 $32^5 \mod 35$
 
 $m = 2$
-
----
-*Marvin Baeumer* **2023-10-30 17:05** #Mathe

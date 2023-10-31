@@ -1,3 +1,10 @@
+---
+tags:
+  - Deutsch
+---
+*Marvin Baeumer* **2023-10-31 12:33**
+
+---
 Siebenmal mein Körper
 Mein Körper ist ein schutzlos Ding,
 wie gut, daß er mich hat.
@@ -47,6 +54,3 @@ Dennoch wird im Gedicht auch Humor und Ironie verwendet, insbesondere wenn der K
 Das Gedicht zeigt auch, dass ein Dichter in der Lage ist, komische Gedichte zu verfassen, ohne notwendigerweise als "komischer Dichter" klassifiziert zu werden. Robert Gernhardt behandelt ernste Themen auf humorvolle Weise und betont damit die Vielseitigkeit und kreative Freiheit von Dichtern. Diese Vielseitigkeit ermöglicht es den Dichtern, verschiedene Stile und Töne in ihrer Arbeit zu nutzen.
 
 > These 6: Es gibt komische Gedichte, aber keine komischen Dichter
-
----
-*Marvin Baeumer* **2023-10-30 17:12** #Deutsch

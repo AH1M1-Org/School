@@ -1,3 +1,10 @@
+---
+tags:
+  - Deutsch
+---
+*Marvin Baeumer* **2023-10-31 12:32**
+
+---
 ### *Analyse*
 In dem komischen Gedicht "Schnauz und Miez" von Christian Morgenstern veröffentlicht im Jahr 1905 und handelt von verspielten Tieren. 
 
@@ -12,6 +19,3 @@ Ausserdem verfolgt das Gedicht das klare Ziel, den Leser durch seine humorvollen
 Die These II wird durch die Vielfalt der Gedichte, die in der Literatur existieren, gestützt. Gedichte können eine breite Palette von Emotionen, Themen und Stilen abdecken. Während einige Gedichte tiefe philosophische oder emotionale Botschaften vermitteln und den Leser zum Nachdenken anregen, dienen andere Gedichte vorrangig der Unterhaltung und dem Erzeugen von Lachen. Das Gedicht "Schnauz und Miez" von Christian Morgenstern ist ein Beispiel für ein komisches Gedicht, das auf humorvolle Weise Tiere und ihre verspielten Handlungen beschreibt. Es hat keinen tieferen Sinn, sondern zielt darauf ab, Freude und Gelächter hervorzurufen. 
 
 Zusammenfassend lässt sich sagen, dass das Gedicht "Schnauz und Miez" von Christian Morgenstern ein hervorragendes Beispiel für ein komisches Gedicht ist, das durch seine humorvollen Beschreibungen und wiederkehrenden Fragen eine fröhliche Atmosphäre schafft. Die Darstellung der Tiere in kindlichen und verspielten Situationen verstärkt den humoristischen Effekt und lädt den Leser zum Lachen ein. 
-
----
-*Marvin Baeumer* **2023-10-30 17:12** #Deutsch

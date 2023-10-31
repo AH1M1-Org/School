@@ -1,3 +1,10 @@
+---
+tags:
+  - Biologie
+---
+*Marvin Baeumer* **2023-10-31 12:31**
+
+---
 ### Aufgabe 2
 |Name|Bedeutung|
 |----|---------|
@@ -16,6 +23,3 @@ Abbildung 2 $\rightarrow$ Geographische Isolation, Ökologische Isolation
 Abbildung 3 $\rightarrow$ Ethologische Isolation
 
 Abbildung 4 $\rightarrow$ Genetische Isolation, Anatomische Isolaion
-
----
-*Marvin Baeumer* **2023-10-30 17:13** #Biologie

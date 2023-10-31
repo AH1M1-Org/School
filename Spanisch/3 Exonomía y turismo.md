@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanisch
+---
+*Marvin Baeumer* **2023-10-31 12:57**
+
+---
 ### No 1
 1. En la imagen hay un hobre, él está esquiando (Skifahren -> ando -> jetzt From) en las montañas
 - En la foto se ve montañas blancas con nieve. Una persona está esquiando
@@ -36,6 +43,3 @@
 |b          |c        |a      |
 |d          |h        |e      |
 |g          |i        |f      |
-
----
-*Marvin Baeumer* **2023-10-30 17:01** #Spanisch

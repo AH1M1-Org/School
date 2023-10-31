@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:42**
+
+---
 <span style="display:block;width:fit-content;margin:auto;">[[Übungsaufgaben.nb]]</span> 
 ### Aufgabe 1
 $$\cos^{-1} \begin{pmatrix} \frac{\begin{pmatrix} 1 \\ 2 \\ -1 \end{pmatrix} \times \begin{pmatrix} -1 \\ 3 \\ 2 \end{pmatrix}}{\left| \begin{pmatrix} 1 \\ 2 \\ -1 \end{pmatrix} \right| \cdot \left| \begin{pmatrix} -1 \\ 3 \\ 2 \end{pmatrix} \right|} \end{pmatrix} = 70,89°$$
@@ -21,6 +28,3 @@ $$90 - \cos^{-1} \begin{pmatrix} \frac{\begin{pmatrix} -2 \\ 2 \\ -1 \end{pmatri
 Cross[{-3, 0, 1}, {-3, 2, 0}]
 90 - N[VectorAngle[{-2, 1, -3}, {-2, -3, -6}]/°] 
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:06** #Mathe

@@ -1,3 +1,7 @@
+---
+tags:
+  - Templates
+---
+*Marvin Baeumer* **{{date}} {{time}}**
 
 ---
-*Marvin Baeumer* **{{date}} {{time}}** #Templates 

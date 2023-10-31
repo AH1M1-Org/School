@@ -1,3 +1,10 @@
+---
+tags:
+  - Englisch
+---
+*Marvin Baeumer* **2023-10-31 12:36**
+
+---
 ### Marcus 
 - geek, Knowledge how to crack, manipulate data. Is a senior at Cesar Chavez High school. 
 - Likes video games ARG like Harajuku Fun Madness. Was a LARPer once. 
@@ -21,5 +28,3 @@
 - is a snitch and a bully. He plays football and is massive. 
 ### Severe Haircut Lady 
 - she works for the military / as a part of Homeland Security  
----
-*Marvin Baeumer* **2023-10-30 17:11** #Englisch

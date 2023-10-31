@@ -1,3 +1,10 @@
+---
+tags:
+  - Biologie
+---
+*Marvin Baeumer* **2023-10-31 12:31**
+
+---
 ### Definition
 Evolution bedeutet die Entwicklung eines Lebewesen.
 ### Evolutionstheorien
@@ -23,6 +30,3 @@ Angehörige einer Art stimmen in Ihren westentlichen Merkmalen überein und kön
 
 Gen $\rightarrow$ abschnitt auf der DNA der ein bestimmtes Merkmal codiert
 Allel $\rightarrow$ variantion eines Gens/ausprägung z.B. Augenfarbe (Unterschiede in einer Art)
-
----
-*Marvin Baeumer* **2023-10-30 17:13** #Biologie

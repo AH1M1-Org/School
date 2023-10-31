@@ -1,3 +1,10 @@
+---
+tags:
+  - Gesellschaftslehre
+---
+*Marvin Baeumer* **2023-10-31 12:38**
+
+---
 1. **Bundespräsident $\rightarrow$ Frank Walter Steinmeier**
 2. **Düsseldorf**
 3. Olaf Scholz, Angela Merkel, Gerhart Schröder, Helmut Kohl 
@@ -8,6 +15,3 @@
 8. **1939 - 1945** 
 9. Hendrik Wüst $\rightarrow$ CDU
 10. Bismark, Kaiser Willhelm
-
----
-*Marvin Baeumer* **2023-10-30 17:09** #Gesellschaftslehre

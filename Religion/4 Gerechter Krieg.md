@@ -1,3 +1,10 @@
+---
+tags:
+  - Religion
+---
+*Marvin Baeumer* **2023-10-31 12:53**
+
+---
 - Grundeinstellung: Krieg ist nie zu rechfertigen $\rightarrow$ ob 1 Toter oder 10.000 Tote moralisch gleich 
 
 - Ein Kriterium von Th.v.Ah. greift nicht mehr: Gerechterkrieg bzw gerechter Kriegsgrund ist im Falle gegenseitige vernichtung nicht mehr gegeben (Atomkrieg) **Z.52ff**
@@ -14,6 +21,3 @@
 
 ### Die ev. Kirche zur Frage des Krieges
 [Grafik](6%20Zwei%20Reiche%20Lehre.excalidraw)
-
----
-*Marvin Baeumer* **2023-10-30 17:04** #Religion

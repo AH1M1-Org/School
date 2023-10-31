@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:40**
+
+---
 ### Was ist ein Vektor?
 Ein Vektor ist eine Verschiebung im Raum, sie werden mit $\vec a, \vec b, \vec c$ usw. dargestellt. Vektoren die zwischen zwei Punkten verlaufen werdem mit $\vec {AB}, \vec {AB},\vec {AB}$ dargestellt und beschreiben eine Strecke.
 
@@ -114,6 +121,3 @@ Solve[g[t] == {0, y}]
 
 {{t -> 3, y -> 18}}
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:05** #Mathe

@@ -1,3 +1,10 @@
+---
+tags:
+  - Englisch
+---
+*Marvin Baeumer* **2023-10-31 12:36**
+
+---
 |Fred Benson|Ms. Galvez|
 |-----------|----------|
 |S $\rightarrow$ Former basketball|S $\rightarrow$ unterstands stundents|
@@ -15,6 +22,3 @@
 ### **Step 4: Prophecy** 
 #### Speculate on the role these two teachers are going to play in the novel.
 > Mr. Fred Benson is likely to take on the role of the antagonist, being eager to oppose Marcus whenever he gets the opportunity. If Ms. Galvez has a more significant role than she did in the initial 20 pages, she could potentially assume the role of a mentor. 
-
----
-*Marvin Baeumer* **2023-10-30 17:11** #Englisch

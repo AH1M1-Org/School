@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanisch
+---
+*Marvin Baeumer* **2023-10-31 12:58**
+
+---
 M:  Tu, Fuera de mi tienda con tu cartel
 
 K:  Fuera con tus turistas
@@ -17,6 +24,3 @@ K: Es imposible convencerte, estúpido egoísta venderías el ojo izquierdo de t
 M: Fuera o vende tu ojo.
 
 K: Pendejo...
-
----
-*Marvin Baeumer* **2023-10-30 17:03** #Spanisch

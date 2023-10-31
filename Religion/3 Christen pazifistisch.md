@@ -1,3 +1,10 @@
+---
+tags:
+  - Religion
+---
+*Marvin Baeumer* **2023-10-31 12:53**
+
+---
 - Jesus: "Wenn dich einer auf die linke Backe schlägt, dann halte, ihm die rechte auch noch hin"(-)
 
 - "Liebe deinen Nächsten wie dich selbst / Liebt eure Feinde"(+)
@@ -7,6 +14,3 @@
 - Mt 26, 52: "Wer das Schwert erhebt wird durch das Schwert umkommen"(+)
 
 - Brief an die Römer "Gott darf rächen, nicht der Mensch"
-
----
-*Marvin Baeumer* **2023-10-30 17:03** #Religion

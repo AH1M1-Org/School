@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:40**
+
+---
 ## Skalarprodukt (Punktprodukt) 
 ### Beispiel 
 ![Picture](https://cdn.discordapp.com/attachments/1139161006761857024/1167490702612103299/image.png?ex=654e5172&is=653bdc72&hm=f4cd326b407730458d0ca4a1efb914058d63ac03879f1c0db5d0499cf0ed3f09&)
@@ -48,15 +55,4 @@ $$\vec n = \vec v_E \times \vec w_E$$
 - Dann berechnet man den Winkel zwischen Bewegungsvektor von $g : \vec x$ und  dem Normalvektor $\vec n$
 $$\gamma = \cos^{-1} \begin{pmatrix} \frac{\vec n \cdot \vec v}{\left| \vec n \right| \cdot \left| \vec v \right|} \end{pmatrix}$$
 - Danach gilt $\alpha = 90° - \gamma$ , so erhaehlt man den Schnittwinkel $\alpha$ zur Ebene $E : \vec a$ und der geraden $g : \vec x$
-
-
 ## [Zum Infomaterial](1%20Infomaterial%20Vektoren.pdf)
-
-
-
-
-
-
-
----
-*Marvin Baeumer* **2023-10-30 17:06** #Mathe

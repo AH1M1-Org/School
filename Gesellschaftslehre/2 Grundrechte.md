@@ -1,3 +1,10 @@
+---
+tags:
+  - Gesellschaftslehre
+---
+*Marvin Baeumer* **2023-10-31 12:38**
+
+---
 ### Bürgerrechte/Grundrechte
 
 |Grundrechte|Bürgerrechte|
@@ -11,6 +18,3 @@ Wahlen $\rightarrow$ intressen des Volkes kann man so vertreten und neue wählen
 Medien $\rightarrow$ teilen neuigkeiten der Politik und können wahlen *beinflussen* durch aufgedeckter Skandale von Regierungen
 
 Deutschergerichtshof $\rightarrow$ trifft unabhängige entscheidungen zum urteilen
-
----
-*Marvin Baeumer* **2023-10-30 17:09** #Gesellschaftslehre 

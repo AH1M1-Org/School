@@ -1,3 +1,10 @@
+---
+tags:
+  - Betriebwirtschaftslehre
+---
+*Marvin Baeumer* **2023-10-31 12:27**
+
+---
 ### a) **Ermittlung der Rentabilität der Investition:**
 
 Die Rentabilität der Investition wird durch die Formel für die Rendite auf das durchschnittlich eingesetzte Kapital berechnet:
@@ -37,6 +44,3 @@ Jetzt können Sie die Rentabilität mit dem neuen Ø Kapitaleinsatz berechnen un
 ### c) **Möglicher Unterschied zwischen Gewinnvergleich und Rentabilität:**
 
 Der Unterschied zwischen dem Gewinnvergleich und der Rentabilität kann auftreten, wenn die Investitionen unterschiedliche Anschaffungskosten oder Cashflow-Profile haben. Die Rentabilität (Rendite) betrachtet das Verhältnis von Gewinn zu durchschnittlich eingesetztem Kapital, während der Gewinnvergleich lediglich die absoluten Gewinne über die gesamte Nutzungsdauer betrachtet. Daher können Investitionen mit verschiedenen Cashflow-Strukturen unterschiedlich in Bezug auf diese beiden Messgrößen abschneiden.
-
----
-*Marvin Baeumer* **2023-10-30 17:13** #Betriebwirtschaftslehre 

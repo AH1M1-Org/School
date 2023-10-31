@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:44**
+
+---
 ### *Berechne die Scheitelpunkte*
 $f(x) = (x + 1)^2 + 3 \rightarrow (-1 | 3)$
 
@@ -23,5 +30,3 @@ $g(x) = 90 \cdot x$
 $\Leftrightarrow f(x) = g(x)$
 $50 \cdot x + 50 = 90 \cdot x ~ | - 50 \cdot x$
 $50 = 40 \cdot x ~ | - 50 \cdot x$
----
-*Marvin Baeumer* **2023-10-30 17:04** #Mathe

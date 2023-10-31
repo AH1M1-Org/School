@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:45**
+
+---
 ### **Euklidischer Algorithmus**
 $a = b \cdot x + r$\
 $a = b, b = a \mod b$
@@ -46,7 +53,4 @@ $ggt(302, 128) = 2$
 |                                        |$= 9 \cdot 128 - 25 \cdot \underline{46}$                  |**fuer 46 einsetzen**|
 |                                        |$= 9 \cdot 128 - 25 \cdot \underline{(302 - 128 ⋅ 2)}$     |vereinfachen         |
 |                                        |$= 9 \cdot 128 - 25\cdot 302 + 50 \cdot 128$                        |zusammenfassen       |
-|                                        |$= - 25 \cdot 302 + 59 \cdot 128$                                   |BITTERES ENDE        |
-
----
-*Marvin Baeumer* **2023-10-30 17:05** #Mathe
+|                                        |$= - 25 \cdot 302 + 59 \cdot 128$                                   |BITTERES ENDE        

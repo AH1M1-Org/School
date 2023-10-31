@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanisch
+---
+*Marvin Baeumer* **2023-10-31 12:58**
+
+---
 Un grupo de barceloneses protest6 ayer en el mercado por la brutal reconversiön turistica
 que ha experimentado en los ültimos anos la instalaci6n. Piden recuperarlo para los vecinos.
 Anna Gonzålez fue clienta durante mås de tres décadas, pero dice que ya no soportaba
@@ -30,6 +37,3 @@ mercado municipal, no un restaurantel No fueron bien recibidos por todos los com
 Eine Gruppe von ca. 30 personen sind auf die straße protetestieren gegangen, alle mit unterschiedlichen motiven. Sie wollten einen Markt anstatt Restaurants. 
 
 > Un grupo de 30 personas protesta con diferentes motives. Quieren(Sie wollen) supermercados no restaurantes. Quieren protesta pacifica con carteles. Más personas se unen la protesta.
-
----
-*Marvin Baeumer* **2023-10-30 17:02** #Spanisch

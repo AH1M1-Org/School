@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanisch
+---
+*Marvin Baeumer* **2023-10-31 12:56**
+
+---
 ### **Mein Ziel für den Spanischunterricht für dieses Jahr:**
 - Eine 3+ / 2- auf dem Zeugnis/Quartal zu haben.
 ### Ich möchte dieses Ziel erreichen, weil:
@@ -25,5 +32,3 @@
 - Anhand von Quartals Noten
 
 - Rückmeldung der lehrperson gut/schlecht
----
-*Marvin Baeumer* **2023-10-30 17:01** #Spanisch

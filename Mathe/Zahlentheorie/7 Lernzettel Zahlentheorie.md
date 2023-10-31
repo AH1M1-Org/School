@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:52**
+
+---
 ### **Rechenregeln**
 $a_1 \equiv b_1 \mod m$
 $a_2 \equiv b_2 \mod m$
@@ -86,5 +93,3 @@ $a_2 + 3 \cdot a_1 - a_1 - 3 \cdot a_2 \equiv 0 \mod 10 ~ | ~ Zusammenfassen$
 $- 2 \cdot a_2 + 2 \cdot a_1 \equiv 0 \mod 10 ~ | \div 2$
 
 $-a_2 + a_1 \equiv 0 \mod 5 \rightarrow ggt(2,10)$  
----
-*Marvin Baeumer* **2023-10-30 17:05** #Mathe

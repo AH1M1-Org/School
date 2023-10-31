@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:45**
+
+---
 ### **Vorgehen**
 Waehlen zweier Primzahlen $p$ und $q$
 
@@ -51,6 +58,3 @@ $Verschluesselung: m^e \mod n ~ | ~ m = 420 = 420^{23} \mod 437 = 374$
 $Entschluesselung: c^d \mod n ~ | ~ c = 374 = 374^{155} \mod 437 = 420$
 
 ### [Zum Code](5%20RSA%20Verfahren)
-
----
-*Marvin Baeumer* **2023-10-30 17:05** #Mathe

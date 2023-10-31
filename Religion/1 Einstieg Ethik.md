@@ -1,3 +1,10 @@
+---
+tags:
+  - Religion
+---
+*Marvin Baeumer* **2023-10-31 12:52**
+
+---
 ### Krieg
 - Religion
 - Gewalt
@@ -23,6 +30,3 @@
 
 ### Freund
 > Als guter Freund würde ich Neil raten seinen Träumen nach zu gehen und Neil empfehlen seinen Vater darauf anzusprechen welche Vorstellungen/Anforderungen Neil nicht erfüllt! Außerdem dem Vater sagen das sich die Zeiten geändert haben und man nun mehr seine Freiheit leben sollte. Aber dennoch dem Vater dankbar sein das er Neil geholfen hat diese Schule zu besuchen.
-
----
-*Marvin Baeumer* **2023-10-30 17:03** #Religion

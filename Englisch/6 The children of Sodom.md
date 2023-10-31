@@ -1,3 +1,10 @@
+---
+tags:
+  - Englisch
+---
+*Marvin Baeumer* **2023-10-31 12:37**
+
+---
 1. Outline the nightmarish situation at the waste dump near Accra.
 	- a place like a junkyard where the western states throw their trash, for example hundreds of computers every year.
 	- Dangerous place due fires and toxic smoke and oil/plastic rivers.
@@ -33,5 +40,3 @@
 7. Examine the style of the article: Which rhetorical and structural devices* are used to convey the appalling situation to the reader?
 	$\rightarrow$ Focus on Skills, Analysis of a Non-Fictional Text, p. 453
 	$\rightarrow$ Focus on Skills, Basic Types of Non-Fictional Texts, p. 460
----
-*Marvin Baeumer* **2023-10-30 17:12** #Englisch

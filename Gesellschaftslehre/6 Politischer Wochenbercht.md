@@ -1,4 +1,8 @@
-Militaerputsch im Niger $\rightarrow$ [Praesentation](Praesentation/1%20Gesellschaftlehre%20Wochenbericht.pptx)  
+---
+tags:
+  - Gesellschaftslehre
+---
+*Marvin Baeumer* **2023-10-31 12:39**
 
 ---
-*Marvin Baeumer* **2023-10-30 20:40** #Templates 
+Militaerputsch im Niger $\rightarrow$ [Praesentation](Praesentation/1%20Gesellschaftlehre%20Wochenbericht.pptx)  

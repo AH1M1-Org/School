@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanisch
+---
+*Marvin Baeumer* **2023-10-31 12:57**
+
+---
 |Person                  |
 |------------------------|
 |Yo -> he                |
@@ -11,6 +18,3 @@
 | AR  | ER  | IR  |
 | --- | --- | --- |
 | ADO | IDO | IDO |
-
----
-*Marvin Baeumer* **2023-10-30 17:02** #Spanisch

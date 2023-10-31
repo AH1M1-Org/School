@@ -1,3 +1,10 @@
+---
+tags:
+  - Gesellschaftslehre
+---
+*Marvin Baeumer* **2023-10-31 12:39**
+
+---
 ### Aufgabe 1
 Neue Phase des Imperialismus ab 1880:
     • Europäer versuchen, Afrika und Asien unter Kontrolle zu bringen.
@@ -46,5 +53,3 @@ Beziehung zu Abbildung M2:
 - M2 zeigt die Vielfalt des Alltagslebens, während Rhodes eine einheitliche Herrschaft der englischen Rasse anstrebte.
 
 - Die Abbildung M2 betont die Gemeinschaft und den Alltag, während Rhodes eine Vision von globaler britischer Vorherrschaft verfolgte.
----
-*Marvin Baeumer* **2023-10-30 17:10** #Gesellschaftslehre 

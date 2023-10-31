@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanisch
+---
+*Marvin Baeumer* **2023-10-31 12:57**
+
+---
 ### 1. Habitantes
 > Cataluña tiene 7.565.603 habitantes. (siete millones quientos sesenta y cinco mil seiscientos tres)
 1. la mayoría (die Mehrheit)
@@ -56,5 +63,3 @@ Es una festividad como *Valentienstag* solo con libros.
 2. la guerra (der Krieg)
 3. la sucesión (die Nachfolge)
 4. recorbar (erinnern)
----
-*Marvin Baeumer* **2023-10-30 17:01** #Spanisch

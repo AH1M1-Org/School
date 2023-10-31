@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanisch
+---
+*Marvin Baeumer* **2023-10-31 12:58**
+
+---
 ### Escribe en Resumen de rescate de la Boqueria
 
 El artículo 'El rescate de Boqueria' fue publicado por Rosa Mari Sanz en Ediciones Primera Plana. El texto trata del rescate de la Boqueria y protestas contra el turismo.
@@ -21,6 +28,3 @@ Al final hay protestas en la Boqueria contra el turismo de masas en Barcelona.
 |- factor economico|- locales son agrio|
 |- contacto otra culturas|- imapacto medio ambiente|
 |- |- inflación|
-
----
-*Marvin Baeumer* **2023-10-30 17:03** #Spanisch

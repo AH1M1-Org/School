@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "f778b941b85c740c",
+        "id": "2d4739c3d9f76173",
         "type": "tabs",
         "children": [
           {
-            "id": "9bceb51952005f4d",
+            "id": "ba4236021f440128",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7a177f8454a8686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Betriebwirtschaftslhere/2 Innenfinanzierung Einzelfinanzierung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spanisch/11 presentacion de Bilbao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spanisch/11 presentacion de Bilbao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spanisch/11 presentacion de Bilbao.md"
+              }
             }
           },
           {
@@ -115,47 +137,49 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Vorlage einfügen": false,
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bceb51952005f4d",
+  "active": "ba4236021f440128",
   "lastOpenFiles": [
-    "Biologie/2 Lernzettel - Evolutionstheorien.md",
-    "README.md",
-    "Templates/Center Links.md",
-    "Test.md",
-    "Templates/New Site.md",
-    "Link.md",
-    "Biologie/1 Evolotionstheorie Charles Darwin.md",
-    "Deutsch/7 Setzen Stellen Legen.md",
-    "Deutsch/6 Hausaufgaben.md",
-    "Deutsch/6 Der Beweis.md",
-    "Deutsch/5 Otto Reime.md",
-    "Deutsch/4 Mein Koerper.md",
-    "Deutsch/2 Schnauz und Miez.md",
-    "Deutsch/3 Das Fräulein stand am Meere.md",
-    "Deutsch/1 Die 10 Thesen.md",
-    "Mathe/Vektoren/4 Einstahrlungswinkel Aufgabe.md",
-    "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
-    "Mathe/Vektoren/6 Laser Aufgabe.md",
-    "Mathe/Vektoren/7 Hilfsmaterial.md",
-    "Gesellschaftslehre/6 Politischer Wochenbercht.md",
-    "Gesellschaftlehre/Praesentation1 Gesellschaftlehre Wochenbericht.md",
-    "Gesellschaftlehre/Praesentation1 Gesellschaftlehre Wochenbericht.pptx.md",
-    "Mathe/Vektoren/3 Spurpunkte.md",
-    "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
-    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
-    "Templates/Test test.md",
+    "Spanisch/10 Resumen de Snow World.md",
+    "Betriebwirtschaftslhere/2 Innenfinanzierung Einzelfinanzierung.md",
+    "Spanisch/9 Dialog.md",
+    "Spanisch/8 Resumen de la Boqueria.md",
+    "Spanisch/6 Analizar estadisticas.md",
+    "Spanisch/7 El rescate de la Boqueria.md",
+    "Spanisch/5 El texto catalan.md",
+    "Spanisch/4 Pretérito perfecto de indicativo.md",
+    "Spanisch/3 Exonomía y turismo.md",
+    "Spanisch/1 Wunschzettel.md",
+    "Spanisch/2 Acercarse a Cataluna.md",
+    "Religion/7 Heiliger Krieg (Djihad im Islam).md",
+    "Religion/6 Zwei Reiche Lehre.excalidraw.md",
+    "Religion/5 Die fuenf Verteidigungskonzepte.md",
+    "Religion/4 Gerechter Krieg.md",
+    "Religion/3 Christen pazifistisch.md",
+    "Religion/2 Wurzel des Krieges.md",
+    "Religion/1 Einstieg Ethik.md",
+    "Mathe/Zahlentheorie/8 Uebungen.md",
+    "Mathe/Zahlentheorie/7 Lernzettel Zahlentheorie.md",
+    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
+    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
+    "Mathe/Zahlentheorie/4 RSA verfahren.md",
+    "Mathe/Zahlentheorie/3 Hilfmittelfreieaufgabe.md",
+    "Mathe/Zahlentheorie/2 Arbeitsblatt Modulo.md",
+    "Mathe/Zahlentheorie/1 Barcode.md",
+    "Mathe/Mathematica/Flugzeug Aufgabe.nb",
     "Templates/Mathe/Unbenannt",
     "Gesellschaftslehre/Praesentation/~$1 Gesellschaftlehre Wochenbericht.pptx",
     "Gesellschaftlehre",
@@ -167,7 +191,6 @@
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "PDF/Mathe/2 Lagebezeichnung Gerade und Ebene.pdf",
     "PDF/Mathe/Mathe Hilfmaterial Teil 2.pdf.crdownload",
-    "PDF/Mathe/3 Mathe Hilfsmaterial Teil 1.pdf.crdownload",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 2.png"

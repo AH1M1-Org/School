@@ -1,3 +1,10 @@
+---
+tags:
+  - Englisch
+---
+*Marvin Baeumer* **2023-10-31 12:37**
+
+---
 On page 40 there is a comparison/metaphor “ We popped free like Champagne corks …”. This describes the pressure which is released when the gang finally got the opportunity to escape from the BART station and be free. 
 
 On page 38 in lines 3 to 4 there is an enumeration which vividly describes the atmosphere after the attacks and how the people are reacting. “They were running …”.
@@ -28,6 +35,3 @@ The author wants to convey the feeling of being watched constantly and this adds
 
 There is an exaggeration/ hyperbole on page 45 in lines 7 to 10. “My body had …” 
 This choice of words underlines the inhumane strength a person can get from an adrenaline rush and depicts Marcus’s reaction to the situation of being scared/being captured and trapped in a cell. 
-
----
-*Marvin Baeumer* **2023-10-30 17:11** #Englisch

@@ -1,3 +1,10 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-10-31 12:42**
+
+---
 [Arbeitsblatt](2%20Lagebezeichnung%20Gerade%20und%20Ebene.pdf) - [Mathematica](Mathe/Mathematica/Laser%20Aufgabe.nb) 
 #### Welche Frage muss beantwortet werden?
 - Trifft die Waffe mit dem Laser die Ebene oder nicht, wenn ja wo?
@@ -17,5 +24,3 @@ $$v \rightarrow 5,48 ; t \rightarrow - 0,36 ; r \rightarrow 0,39$$
 $$\Leftrightarrow \begin{pmatrix} 0 \\ 0 \\ 2 \end{pmatrix} + 5,48 \cdot \begin{pmatrix} 2 \\ -0.4 \\ 0,5 \end{pmatrix} = \begin{pmatrix} 10,97 \\ -2,19 \\ 4,74 \end{pmatrix}$$
 #### Antwort
 - Der Schuss landet innerhalb des Bildschirms, weil der Schnittpunkt zwischen A,B und C liegt.
----
-*Marvin Baeumer* **2023-10-30 17:06** #Mathe 
