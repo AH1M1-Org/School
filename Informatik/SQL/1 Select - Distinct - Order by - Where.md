@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:25**
+
+---
 ### 3-1
 #### a
 ```SQL
@@ -142,5 +149,3 @@ FROM Instandhaltung, Fahrzeug
 WHERE Fahrzeug_ID = Fahrzeug.ID AND Kosten BETWEEN 300 AND 500
 ORDER BY Kosten ASC;
 ```
----
-*Marvin Baeumer* **2023-10-30 17:07** #Informatik

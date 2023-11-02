@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:29**
+
+---
 ### 1. ) [Normalform](17%20Normalisierung%20von%20Datenbanken.md)
 #### Patient:
 
@@ -62,6 +69,3 @@
 
 |$\underline{Raum}$|Station|
 |------------------|-------|
-
----
-*Marvin Baeumer* **2023-10-30 17:09** #Informatik

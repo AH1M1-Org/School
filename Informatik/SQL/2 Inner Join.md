@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:25**
+
+---
 ### **3-9**
 #### a
 ```SQL
@@ -76,6 +83,3 @@ SELECT Beginn, Ende, Nachname, Kennzeichen, Bezeichnung FROM Reservierung, Fahrz
 WHERE Reservierung.Mitarbeiter_ID = Mitarbeiter.ID AND Reservierung.Fahrzeug_ID = Fahrzeug.ID 
 AND Fahrzeugmodell_ID = Fahrzeugmodell.ID;
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:07** #Informatik

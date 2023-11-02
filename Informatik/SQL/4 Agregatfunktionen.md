@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:25**
+
+---
 ### 3-12
 #### a
 ```SQL
@@ -16,6 +23,3 @@ SELECT MIN(Beitrag) AS min_Beitrag FROM versicherungsvertrag
 SELECT COUNT(*) AS mit FROM mitarbeiter
 //oder count ID
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:07** #Informatik

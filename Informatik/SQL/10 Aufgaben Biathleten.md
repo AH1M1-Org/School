@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:27**
+
+---
 #### 1
 ```SQL
 SELECT Nachname, Vorname FROM 09_BiathletenSchueler_OPP
@@ -99,6 +106,3 @@ WHERE Geschlecht = "w" AND (Geburtsdatum = (SELECT MAX(Geburtsdatum) FROM Biathl
 WHERE Nation ="GER" AND Geschlecht = "w") OR Geburtsdatum = (SELECT MIN(Geburtsdatum) FROM Biathleten
 WHERE Nation = "NOR")) AND Geschlecht = "w")
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:07** #Informatik

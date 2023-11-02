@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:29**
+
+---
 VIEWS sind Abfragen, die in der Datenbank als Objekt fest gespeichert sind! Ergebnis sind virtuelle Tabellen!\
 Sie können in jedem Select-Befehl anstelle einer echten Tabelle verwendet werden.\
 **Syntax:**
@@ -12,6 +19,3 @@ Warum benutzt man VIEW abfragen?
 - Berechtigung
 
 #### [Arten von Joins](https://www.tinohempel.de/info/info/datenbank/operation.htm)
-
----
-*Marvin Baeumer* **2023-10-30 17:09** #Informatik

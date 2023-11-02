@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:29**
+
+---
 ### 1.2
 1. Normalform $\rightarrow$ Eine Relation befindet sich in der ersten Normalform, wenn alle Atribute nur einfache Attributswerte aufweisen(Bezeichnung: atomar)\
 Der Primärschlüssel wird nicht mehr eindeutig also muss einer Zusammengesetzt werden aus zwei oder meht teilen
@@ -218,6 +225,3 @@ Erstens muesste man den ganzen Datensatz bearbeiten sobald man eine Sprache anpa
 In meiner Entwickelten Erweiterung wird eine Episode in einer Extratabelle einer oder mehreren Sprachen zugeordnet, nicht jede Sprache muss aber zwingend eine Episode anbieten. Ausserdem wird meine Originalsprache so verwaltet in dem dort eine ID fuer Sprache zugeordnet wird. Eine Episode kann genau eine ID als Originalsprache haben aber eine Sprache kann bei mehreren Episoden die Originalsprache sein.
 
 Die Sprachen werden in der Entitaet Sprache verwalatet und koennen mit dem Primaerschluessel Bezeichnung einduetig identifiziert werden. 
-
----
-*Marvin Baeumer* **2023-10-30 17:09** #Informatik

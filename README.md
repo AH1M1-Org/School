@@ -1,3 +1,10 @@
+---
+tags:
+  - Todo
+---
+*Marvin Baeumer* **2023-10-31 16:23**
+
+---
 # Schulisches Projektarchiv
 
 Willkommen zu meinem schulischen Projektarchiv! Hier findest du eine Übersicht über alle meine schulischen Aktivitäten und Materialien.

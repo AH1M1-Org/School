@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:26**
+
+---
 #### a)
 ```SQL
 SELECT Fahrzeug_ID, COUNT(*) AS AnzahlInstandhaltungen, AVG(Kosten) AS Durchschnittskosten
@@ -29,6 +36,3 @@ WHERE Gesellschaft_ID = versicherungsgesellschaft.ID
 GROUP BY Firm
 HAVING SUM(Beitrag) > 3000
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:07** #Informatik

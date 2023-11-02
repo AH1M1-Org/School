@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:27**
+
+---
 1.6
 ```SQL
 SELECT Name, Vorname, Geburstdatum FROM Patient
@@ -33,6 +40,3 @@ DBMS
 - Mehrbenutzersystem
 - Datenunabhängigkeit
 - ausstausch der Daten mit anderen Programmen ermöglichen
-
----
-*Marvin Baeumer* **2023-10-30 17:08** #Informatik

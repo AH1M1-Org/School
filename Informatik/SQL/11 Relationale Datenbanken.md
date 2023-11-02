@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:27**
+
+---
 Er-Modell $\rightarrow$ 
 
 Entität $\rightarrow$ Zeile in einer Tabelle.
@@ -28,6 +35,3 @@ Kardinalität $\rightarrow$
 
 muss Beziehungen: n bzw. 1
 kann Beziehung: nc bzw c
-
----
-*Marvin Baeumer* **2023-10-30 17:08** #Informatik

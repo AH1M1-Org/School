@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:23**
+
+---
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -27,5 +34,3 @@ public class Main {
     }
 }
 ```
----
-*Marvin Baeumer* **2023-10-30 17:06** #Informatik

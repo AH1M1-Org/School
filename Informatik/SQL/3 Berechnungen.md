@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:25**
+
+---
 ### 3-11
 #### a
 ```SQL
@@ -30,6 +37,3 @@ WHERE (Beginn LIKE '%-01-%'
     OR Beginn LIKE '%-06-%')
     AND (Beginn LIKE '2016-%')
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:07** #Informatik

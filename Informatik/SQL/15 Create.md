@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:28**
+
+---
 ```SQL
 CREATE TABLE Patient(
 ID NOT NULL VARCHAR(6),
@@ -15,6 +22,3 @@ FOREIGN KEY (KKID_ID) REFERENCES KKID(KKID));
 INSERT INTO Patient
 VALUES ("P21461","Mueller","Lieschen","1982-04-16","W","Duesseldorf",2117,"BAR1621")
 ```
-
----
-*Marvin Baeumer* **2023-10-30 17:08** #Informatik

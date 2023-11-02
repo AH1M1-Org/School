@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:23**
+
+---
 ### a.1)
 Schluesselwort: HUND
 Klartext: Das ist einfach
@@ -63,5 +70,3 @@ public class Main {
 	}  
 }
 ```
----
-*Marvin Baeumer* **2023-10-30 17:06** #Informatik

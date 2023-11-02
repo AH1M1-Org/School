@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-10-31 15:28**
+
+---
 1. Normalform $\rightarrow$ Eine Relation befindet sich in der ersten Normalform, wenn alle Atribute nur einfache Attributswerte aufweisen(Bezeichnung: atomar $\rightarrow$ nicht teilbar). (alles muss einzeld stehen)
 Der Primärschlüssel wird nicht mehr eindeutig also muss einer Zusammengesetzt werden muss aus zwei oder meht teilen
 ---
@@ -10,6 +17,3 @@ Der Primärschlüssel wird nicht mehr eindeutig also muss einer Zusammengesetzt 
 - jedes Nichtschlüsselattribut nicht transitiv vom Primärschlüssel abhängig ist.
 ### Transitiv
 Transitiv bedeutet wenn Nichtschlüsselattribute abhängig von anderen Nichtschlüsselattributen sind.
-
----
-*Marvin Baeumer* **2023-10-30 17:09** #Informatik

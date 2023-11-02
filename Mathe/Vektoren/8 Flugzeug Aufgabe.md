@@ -10,13 +10,13 @@ tags:
 > Höhe Flugzeug zur Landebahn soll berechnet werden
 ### Was muss dazu konkret berechnet werden?
 > Ebenengleichung mit den gegebenen Punkten $(P, Q, R)$ aufstellen Abstand von der Flugzeugspitze zur Ebene .
-### Welche Rechenschritte sind zur Beantwortung der Frage Notwendig
-- [ ] Ebenengleichung aufstellen
-- [ ] Normalvektor, der die Richtung der Ebene liefert
-- [ ] Zusammen mit Flugzeugspitze ergibt sich eine Geradengleichung
-- [ ] Schnittpunkt mit Gerade und Ebene 
-- [ ] Länge von V $\rightarrow$ S mit dem Befehlt Norm[] ausrechnen 
-- LE $\rightarrow$ 100 Meter
+### Welche Rechenschritte sind zur Beantwortung der Frage 
+Notwendig
+Ebenengleichung aufstellen 
+Normalvektor, der die Richtung der Ebene liefert 
+Zusammen mit Flugzeugspitze ergibt sich eine Geradengleichung 
+Länge von V $\rightarrow$ S mit dem Befehlt Norm[] ausrechnen 
+LE $\rightarrow$ 100 Meter
 ### Rechnung
 Ebenengleichung
 $$E : \vec x = \begin{pmatrix} 1,5 \\ 0 \\ 0,1 \end{pmatrix} + r \cdot \begin{pmatrix} -3 \\ 0 \\ 0 \end{pmatrix} + v \cdot \begin{pmatrix} -1,5 \\ -10 \\ -0,2 \end{pmatrix}$$
