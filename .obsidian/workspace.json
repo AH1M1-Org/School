@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b4764e87742735",
+        "id": "650abe0f8af6ba07",
         "type": "tabs",
         "children": [
           {
-            "id": "425b7f2e60610cb6",
+            "id": "1576e6338c7ac0fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Informatik",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md",
+                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 211.50288009643555
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanisch/11 presentacion de Bilbao.md"
+                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md"
               }
             }
           },
@@ -132,22 +132,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templates:Vorlage einfügen": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "command-palette:Befehlspalette öffnen": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "425b7f2e60610cb6",
+  "active": "1576e6338c7ac0fc",
   "lastOpenFiles": [
+    "Mathe/Vektoren/11 Aufgaben.md",
+    "Mathe/Mathematica/Aufgaben.nb",
+    "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
+    "Mathe/Vektoren/9 Spiegeln eines Punktes.md",
+    "Mathe/Mathematica/Spiegeln Gerade.nb",
+    "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
+    "Mathe/Vektoren/6 Laser Aufgabe.md",
+    "Mathe/Vektoren/7 Hilfsmaterial.md",
+    "Mathe/Vektoren/8 Flugzeug Aufgabe.md",
+    "Mathe/Mathematica/Spiegelung.nb",
     "Spanisch/11 presentacion de Bilbao.md",
+    "Informatik/Kryptologie/2 Vigenère.md",
+    "Informatik/Kryptologie/6 Abitur Aufgabe 3.1.md",
     "To do List.md",
     "README.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
@@ -159,31 +172,18 @@
     "Projects - Demo Project",
     "To Do List/Unbenannt",
     "To Do List",
-    "Mathe/Vektoren/8 Flugzeug Aufgabe.md",
-    "Mathe/Vektoren/7 Hilfsmaterial.md",
     "Mathe/Vektoren/3 Spurpunkte.md",
     "Mathe/Vektoren/4 Einstahrlungswinkel Aufgabe.md",
-    "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
-    "Mathe/Vektoren/6 Laser Aufgabe.md",
     "Mathe/Zahlentheorie/3 Hilfmittelfreieaufgabe.md",
     "Mathe/Zahlentheorie/4 RSA verfahren.md",
     "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
     "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
     "Mathe/Zahlentheorie/7 Lernzettel Zahlentheorie.md",
-    "Templates/Mathe/Vektor - Parametergleichung.md",
-    "Kalender/2023-11-15.md",
-    "Kalender/2023-11-14.md",
-    "Kalender/Unbenannt.md",
     "Kalender",
-    "Templates/New Site.md",
-    "Templates/Mathe/Vektor - Winkel.md",
     "Unbenannt.canvas",
     "Mathe/Mathematica/Flugzeug Aufgabe.nb",
     "Templates/Mathe/Unbenannt",
     "Gesellschaftslehre/Praesentation/~$1 Gesellschaftlehre Wochenbericht.pptx",
-    "Gesellschaftlehre",
-    "Gesellschaftslehre/Praesentation/1 Gesellschaftlehre Wochenbericht.pptx",
-    "PDF/Mathe/3 Hilfsmaterial Teil 1.pdf",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png",
