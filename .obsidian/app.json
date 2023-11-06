@@ -2,10 +2,10 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "readableLineLength": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "propertiesInDocument": "visible",
   "foldHeading": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "focusNewTab": true,
   "tabSize": 7,
   "pdfExportSettings": {

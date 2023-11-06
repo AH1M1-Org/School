@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "650abe0f8af6ba07",
+        "id": "6b064ac311b9be26",
         "type": "tabs",
         "children": [
           {
-            "id": "1576e6338c7ac0fc",
+            "id": "2038df22e4732b31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
+                "file": "Betriebwirtschaftslehere/3 Fonds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
+                "file": "Betriebwirtschaftslehere/3 Fonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
+                "file": "Betriebwirtschaftslehere/3 Fonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Vektoren/10 Spiegeln einer Gerade.md"
+                "file": "Betriebwirtschaftslehere/3 Fonds.md"
               }
             }
           },
@@ -146,12 +146,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1576e6338c7ac0fc",
+  "active": "2038df22e4732b31",
   "lastOpenFiles": [
+    "Betriebwirtschaftslehere/2 Innenfinanzierung Einzelfinanzierung.md",
+    "Religion/7 Heiliger Krieg (Djihad im Islam).md",
+    "Gesellschaftslehre/5 Kolonialisierung.md",
+    "Betriebwirtschaftslehere/3 Fonds.md",
+    "Gesellschaftslehre/4 Imperialismus.md",
+    "PDF/Mathe/1 Infomaterial Vektoren.pdf",
     "Mathe/Vektoren/11 Aufgaben.md",
-    "Mathe/Mathematica/Aufgaben.nb",
+    "To do List.md",
+    "Gesellschaftslehre/6 Politischer Wochenbercht.md",
     "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
     "Mathe/Vektoren/9 Spiegeln eines Punktes.md",
+    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
+    "Deutsch/3 Das Fräulein stand am Meere.md",
+    "Mathe/Mathematica/Aufgaben.nb",
     "Mathe/Mathematica/Spiegeln Gerade.nb",
     "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
     "Mathe/Vektoren/6 Laser Aufgabe.md",
@@ -161,7 +171,6 @@
     "Spanisch/11 presentacion de Bilbao.md",
     "Informatik/Kryptologie/2 Vigenère.md",
     "Informatik/Kryptologie/6 Abitur Aufgabe 3.1.md",
-    "To do List.md",
     "README.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "To Do List/Tasks.md",
@@ -172,18 +181,10 @@
     "Projects - Demo Project",
     "To Do List/Unbenannt",
     "To Do List",
-    "Mathe/Vektoren/3 Spurpunkte.md",
-    "Mathe/Vektoren/4 Einstahrlungswinkel Aufgabe.md",
-    "Mathe/Zahlentheorie/3 Hilfmittelfreieaufgabe.md",
-    "Mathe/Zahlentheorie/4 RSA verfahren.md",
-    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
-    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
-    "Mathe/Zahlentheorie/7 Lernzettel Zahlentheorie.md",
     "Kalender",
     "Unbenannt.canvas",
     "Mathe/Mathematica/Flugzeug Aufgabe.nb",
     "Templates/Mathe/Unbenannt",
-    "Gesellschaftslehre/Praesentation/~$1 Gesellschaftlehre Wochenbericht.pptx",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png",

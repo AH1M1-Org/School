@@ -7,3 +7,5 @@ tags:
 ---
 <span style="display:block;width:fit-content;margin:auto;">[[Aufgaben.nb]]</span> 
 ### Aufgabe 1
+### Aufgabe 2
+### Aufgabe 3
