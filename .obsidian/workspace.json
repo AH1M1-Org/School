@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Betriebwirtschaftslehere/3 Fonds.md",
+                "file": "Mathe/Vektoren/12 Wissensspeicher Vekotren.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Betriebwirtschaftslehere/3 Fonds.md",
+                "file": "Mathe/Vektoren/12 Wissensspeicher Vekotren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Betriebwirtschaftslehere/3 Fonds.md",
+                "file": "Mathe/Vektoren/12 Wissensspeicher Vekotren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Betriebwirtschaftslehere/3 Fonds.md"
+                "file": "Mathe/Vektoren/12 Wissensspeicher Vekotren.md"
               }
             }
           },
@@ -128,37 +128,38 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2038df22e4732b31",
   "lastOpenFiles": [
+    "Mathe/Vektoren/11 Aufgaben.md",
+    "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
+    "Mathe/Vektoren/9 Spiegeln eines Punktes.md",
+    "Mathe/Vektoren/12 Wissensspeicher Vekotren.md",
+    "Mathe/Vektoren/8 Flugzeug Aufgabe.md",
+    "Betriebwirtschaftslehere/3 Fonds.md",
     "Betriebwirtschaftslehere/2 Innenfinanzierung Einzelfinanzierung.md",
     "Religion/7 Heiliger Krieg (Djihad im Islam).md",
     "Gesellschaftslehre/5 Kolonialisierung.md",
-    "Betriebwirtschaftslehere/3 Fonds.md",
     "Gesellschaftslehre/4 Imperialismus.md",
     "PDF/Mathe/1 Infomaterial Vektoren.pdf",
-    "Mathe/Vektoren/11 Aufgaben.md",
     "To do List.md",
     "Gesellschaftslehre/6 Politischer Wochenbercht.md",
-    "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
-    "Mathe/Vektoren/9 Spiegeln eines Punktes.md",
     "Mathe/Vektoren/1 Lernzettel Vektoren.md",
     "Deutsch/3 Das Fräulein stand am Meere.md",
     "Mathe/Mathematica/Aufgaben.nb",
@@ -166,7 +167,6 @@
     "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
     "Mathe/Vektoren/6 Laser Aufgabe.md",
     "Mathe/Vektoren/7 Hilfsmaterial.md",
-    "Mathe/Vektoren/8 Flugzeug Aufgabe.md",
     "Mathe/Mathematica/Spiegelung.nb",
     "Spanisch/11 presentacion de Bilbao.md",
     "Informatik/Kryptologie/2 Vigenère.md",
@@ -177,7 +177,6 @@
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project",
     "To Do List/Unbenannt",
     "To Do List",
