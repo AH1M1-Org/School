@@ -30,8 +30,8 @@ han decidido moverse para recuperarlo. Ayer formaron parte de un grupo de unas 3
 personas vinculadas a diferentes movimientos y asociaciones que fueron al mercado por
 la mafiana al grito de «iVenimos a comprar!». Llevaban carros y pancartas con reivindica-
 ciones como «Volem comprar al nostre mercat», o directamente dirigidas a los guiris, tipo
-«This is a market not a theme park [Esto es un mercado no un parque temåticol»y «This
-neighborhood needs a municipal market, not a restaurant [Este vecindario necesita un
+«This is a market not a theme park. Esto es un mercado no un parque temåticol»y «This
+neighborhood needs a municipal market, not a restaurant. Este vecindario necesita un
 mercado municipal, no un restaurantel No fueron bien recibidos por todos los comerciantes.
 
 Eine Gruppe von ca. 30 personen sind auf die straße protetestieren gegangen, alle mit unterschiedlichen motiven. Sie wollten einen Markt anstatt Restaurants. 

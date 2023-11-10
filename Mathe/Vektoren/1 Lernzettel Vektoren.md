@@ -98,19 +98,16 @@ $g: \vec a =\begin{pmatrix}6\\12\end{pmatrix} + t \cdot \begin{pmatrix}-2\\2\end
 
 ### *LGS* oder *Mathematica*
 #### **LGS**
-$\begin{vmatrix}
-6 + t \cdot (-2) = 0\\
-12 + t \cdot 2 = y \\
-\end{vmatrix}$
+$\begin{pmatrix} 6 + t \cdot (-2) = 0\ 12 + t \cdot 2 = y \ \end{pmatrix}$
 > umstellen mit der Gleichung wo nur eine variable ist.
 
-$6 + t \cdot (-2) = 0 | - 6$\
-$t \cdot (-2) = -6 | \div (-2)$\
+$6 + t \cdot (-2) = 0 | - 6$
+$t \cdot (-2) = -6 | \div (-2)$
 $t = 3$
 > t in die andere Gleichung einsetzen um Y zu bekommen
 
-$\Leftrightarrow 12 + 3 \cdot 2 = 18$\
-$y = 18$\
+$\Leftrightarrow 12 + 3 \cdot 2 = 18$
+$y = 18$
 $g: \vec a =\begin{pmatrix}6\\12\end{pmatrix} + 3 \cdot \begin{pmatrix}-2\\2\end{pmatrix} = \begin{pmatrix}0\\18\end{pmatrix}$
 
 #### **Mathematica**

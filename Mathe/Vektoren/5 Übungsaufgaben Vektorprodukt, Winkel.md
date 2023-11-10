@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-10-31 12:42**
 
 ---
-<span style="display:block;width:fit-content;margin:auto;">[[Übungsaufgaben.nb]]</span> 
+**[Mathematica](Mathematica/Übungsaufgaben.nb)**
 ### Aufgabe 1
 $$\cos^{-1} \begin{pmatrix} \frac{\begin{pmatrix} 1 \\ 2 \\ -1 \end{pmatrix} \times \begin{pmatrix} -1 \\ 3 \\ 2 \end{pmatrix}}{\left| \begin{pmatrix} 1 \\ 2 \\ -1 \end{pmatrix} \right| \cdot \left| \begin{pmatrix} -1 \\ 3 \\ 2 \end{pmatrix} \right|} \end{pmatrix} = 70,89°$$
 ```mathematica

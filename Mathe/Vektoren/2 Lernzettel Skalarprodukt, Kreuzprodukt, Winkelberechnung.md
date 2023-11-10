@@ -55,4 +55,4 @@ $$\vec n = \vec v_E \times \vec w_E$$
 - Dann berechnet man den Winkel zwischen Bewegungsvektor von $g : \vec x$ und  dem Normalvektor $\vec n$
 $$\gamma = \cos^{-1} \begin{pmatrix} \frac{\vec n \cdot \vec v}{\left| \vec n \right| \cdot \left| \vec v \right|} \end{pmatrix}$$
 - Danach gilt $\alpha = 90° - \gamma$ , so erhaehlt man den Schnittwinkel $\alpha$ zur Ebene $E : \vec a$ und der geraden $g : \vec x$
-## [Zum Infomaterial](1%20Infomaterial%20Vektoren.pdf)
+![Zum Infomaterial](1%20Infomaterial%20Vektoren.pdf)

@@ -20,4 +20,4 @@ tags:
 -  Folge: Kirche/Christen müssen Regierungen moralisch ins Gewissen reden! **(Wächteramt)**
 
 ### Die ev. Kirche zur Frage des Krieges
-[Grafik](6%20Zwei%20Reiche%20Lehre.excalidraw)
+**[Grafik](6%20Zwei%20Reiche%20Lehre.excalidraw)**

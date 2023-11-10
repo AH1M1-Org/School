@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "07d0df8f96777885",
+        "id": "40d32875b7346d47",
         "type": "tabs",
         "children": [
           {
-            "id": "0fdc32e2836f8e2b",
+            "id": "c0bcbaff71287ea9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -59,6 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,6 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md"
+              }
             }
           },
           {
@@ -137,43 +146,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fdc32e2836f8e2b",
+  "active": "c0bcbaff71287ea9",
   "lastOpenFiles": [
+    "Mathe/Vektoren/10 Aufgaben.md",
+    "PDF/Mathe/6 Abiturprüfung 2023.pdf",
+    "PDF/Mathe/6 Abiturprüfung.pdf",
+    "PDF/Mathe/6 Abiturprüfung.pdf.crdownload",
+    "Mathe/Vektoren/11 Matrixen.md",
+    "Mathe/Vektoren/8 Spiegeln eines Punktes.md",
+    "Mathe/Vektoren/9 Spiegeln einer Gerade.md",
+    "Informatik/Kryptologie/8 Diffi-Hellmann.md",
+    "Informatik/Kryptologie/9 Hashwerte.md",
     "Informatik/Kryptologie/7 RSA in Mathematica.md",
-    "Mathe/Zahlentheorie/7 Lernzettel Zahlentheorie.md",
-    "Mathe/Zahlentheorie/8 Uebungen.md",
-    "PDF/Informatik/RSA.pdf",
-    "PDF/Informatik/RSA.nb",
-    "PDF/Informatik",
-    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
-    "Informatik/Mathematica/RSA.nb",
-    "Informatik/Mathematica",
-    "Informatik/Neuer Ordner",
-    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren 1.md",
-    "Religion/8 Menschen & Krankheiten & Tod.md",
+    "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
+    "Mathe/Untitled.md",
+    "Mathe/Abiturprüfungen",
+    "Templates/Mathe/Vektor - Winkel.md",
+    "Templates/Mathe/Vektor - Vektorprodukt.md",
+    "Templates/Mathe/Vektor - Parametergleichung.md",
+    "Templates/Mathe/Vektor - Matrix.md",
+    "Templates/Mathe/Vektor - Laenge.md",
+    "Templates/Mathe/Vektor - Geradengleichung.md",
     "README.md",
-    "Englisch/7 Facing climate change.md",
-    "Mathe/Vektoren/11 Aufgaben.md",
-    "Mathe/Vektoren/12 Matrixen.md",
-    "Mathe/Vektoren/9 Spiegeln eines Punktes.md",
-    "Betriebwirtschaftslehere/3 Fonds.md",
-    "Betriebwirtschaftslehere/2 Innenfinanzierung Einzelfinanzierung.md",
-    "Religion/7 Heiliger Krieg (Djihad im Islam).md",
-    "Gesellschaftslehre/5 Kolonialisierung.md",
-    "Gesellschaftslehre/4 Imperialismus.md",
-    "PDF/Mathe/1 Infomaterial Vektoren.pdf",
     "To do List.md",
-    "Gesellschaftslehre/6 Politischer Wochenbercht.md",
-    "Mathe/Vektoren/10 Spiegeln einer Gerade.md",
+    "PDF/Mathe/1 Infomaterial Vektoren.pdf",
+    "Mathe/Vektoren/4 Einstahrlungswinkel Aufgabe.md",
+    "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
     "Mathe/Vektoren/1 Lernzettel Vektoren.md",
-    "Deutsch/3 Das Fräulein stand am Meere.md",
-    "Mathe/Mathematica/Aufgaben.nb",
-    "Mathe/Mathematica/Spiegeln Gerade.nb",
     "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
     "Mathe/Vektoren/6 Laser Aufgabe.md",
+    "Mathe/Vektoren/7 Flugzeug Aufgabe.md",
+    "PDF/Mathe/4 Hilfsmaterial Teil 2.pdf",
     "Mathe/Vektoren/7 Hilfsmaterial.md",
-    "Mathe/Vektoren/8 Flugzeug Aufgabe.md",
-    "Mathe/Mathematica/Spiegelung.nb",
+    "Informatik/Mathematica/1 RSA.nb",
+    "Mathematica",
+    "PDF/Mathe/5 Geradengleichung spiegeln.pdf",
+    "PDF/Informatik/1 RSA.pdf",
     "Unbenannt.canvas",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",

@@ -1,2 +1,7 @@
-$$\begin{pmatrix} \\ \\ \end{pmatrix}$$
+$$
+\begin{pmatrix} 
+\\ 
+\\ 
+\end{pmatrix}
+$$
 #Templates

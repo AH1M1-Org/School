@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-10-31 12:41**
 
 ---
-<span style="display:block;width:fit-content;margin:auto;">[[Einstrahlungswinkel.nb]]</span> 
+**[Mathematica](Mathematica/Einstrahlungswinkel.nb)**
 #### Parametergleichungen
 $$E1 : x = t \cdot \begin{pmatrix} 12 \\ 0.6 \\ 0.3 \end{pmatrix} + r \cdot \begin{pmatrix} 0.375 \\ -7.5 \\ 0 \end{pmatrix}$$$$E2 : x = t \cdot  \begin{pmatrix} 6.3 \\ -5.7 \\ 3.3 \end{pmatrix} + r \cdot \begin{pmatrix} 0.375 \\ -7.5 \\ 0 \end{pmatrix}$$
 #### Prüfen welche Dachkanten 90° sind mithilfe des [Skalarprodukt](2%20Lernzettel%20Skalarprodukt,%20Kreuzprodukt,%20Winkelberechnung.md)

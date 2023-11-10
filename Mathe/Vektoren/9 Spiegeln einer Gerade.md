@@ -5,8 +5,8 @@ tags:
 *Marvin Baeumer* **2023-11-06 09:02**
 
 ---
+**[Mathematica](Mathematica/Spiegeln%20Gerade.nb)**
 ### Aufgabe 1
-<span style="display:block;width:fit-content;margin:auto;">[[Spiegeln Gerade.nb]]</span>  
 $$ E : \vec x = \begin{pmatrix} -0.75 \\ 1.75 \\ 0.5 \end{pmatrix} + r \cdot \begin{pmatrix} -1 \\ 1 \\ 0 \end{pmatrix} + v \cdot \begin{pmatrix} 1 \\ 1 \\ 1.5 \end{pmatrix}$$
 $$\begin{pmatrix} 1 \\ 1 \\ 0 \end{pmatrix} \times \begin{pmatrix} 1 \\ 1 \\ 1.5 \end{pmatrix} = \begin{pmatrix} 1.5 \\ -1.5 \\ 0 \end{pmatrix}$$
 Aufstellen der Geradengleichung g mit dem Normalvektor als Bewegung:

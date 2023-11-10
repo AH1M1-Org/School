@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-11-06 08:11**
 
 ---
-<span style="display:block;width:fit-content;margin:auto;">[[Spiegelung.nb]]</span> 
+**[Mathematica](Mathematica/Spiegelung.nb)**
 $$ E : \vec x = \begin{pmatrix} 4 \\ 3 \\ 0 \end{pmatrix} + r \cdot \begin{pmatrix} -2 \\ 0 \\ 1 \end{pmatrix} + v \cdot \begin{pmatrix} 2 \\ -3 \\ 0 \end{pmatrix}$$
 $$\begin{pmatrix} -2 \\ 0 \\ 1 \end{pmatrix} \times \begin{pmatrix} 2 \\ -3  \\ 0 \end{pmatrix} = \begin{pmatrix} 3 \\ 2 \\ 7 \end{pmatrix}$$
 Aufstellen der Geraden g mit dem Normalvektor als Bewegung.

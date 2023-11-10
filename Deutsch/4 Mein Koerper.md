@@ -41,7 +41,7 @@ Ich rede, er bleibt stumm.
 Ich leb ein Leben lang für ihn.
 Er bringt mich langsam um.
 
-###<span style="display:block;width:fit-content;margin:auto;">[[1 Die 10 Thesen]]</span> 
+### [Thesen](Deutsch/1%20Die%2010%20Thesen)
 
 Das Gedicht "7x Mein Körper" von Robert Gerhardt verdeutlicht eindrucksvoll die Vielschichtigkeit von Gedichten und die Tatsache, dass es sowohl ernste als auch komische Gedichte gibt. In diesem Gedicht wird die Beziehung des Ich-Erzählers zu seinem eigenen Körper behandelt. Auf den ersten Blick mag es ernst erscheinen, da es die Abhängigkeit und Verletzlichkeit des Körpers betont, indem es ihn als "schutzlos Ding" beschreibt. Dies weist darauf hin, dass Gedichte ernsthafte Themen behandeln können und nicht ausschließlich auf humorvolle Unterhaltung abzielen.
 
