@@ -58,8 +58,39 @@ $$
 5.5 \\ 
 6.5 \end{pmatrix}
 \right | = 7.81 LE
-$$
-Antwort: Der Abstand beträgt 7.81LE.
+$$Der Abstand beträgt 7.81LE.
 ### Aufgabe 2
-$$g(-1 \cdot 2) = \begin{pmatrix} 2 \\ -2.5 \\ -5.5 \end{pmatrix}$$Der gespiegelte Punkte liegt bei $\begin{pmatrix} 2 \\ -2.5 \\ -5.5 \end{pmatrix}$
+$$g(-1 \cdot 2) = \begin{pmatrix} 2 \\ -2.5 \\ -5.5 \end{pmatrix}$$
+Der gespiegelte Punkte liegt bei $\begin{pmatrix} 2 \\ -2.5 \\ -5.5 \end{pmatrix}$
 ### Aufgabe 3
+$$
+g : \vec x = 
+\begin{pmatrix} 
+2 \\ 
+-2.5 \\ 
+-5.5 \end{pmatrix} + t 
+\cdot 
+\begin{pmatrix} 
+0 \\ 
+5.5 \\ 
+6.5 \end{pmatrix}
+$$
+$$
+g : \vec x = 
+\begin{pmatrix} 
+2 \\ 
+-2.5 \\ 
+-5.5
+\end{pmatrix}
+\rightarrow t = 0
+$$
+$$
+g : \vec x = 
+\begin{pmatrix} 
+2 \\ 
+14 \\ 
+14
+\end{pmatrix}
+\rightarrow t = 3
+$$
+Beide Punkte werden gekreuzt von der Geradengleichung g.

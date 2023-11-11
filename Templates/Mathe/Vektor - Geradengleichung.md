@@ -7,7 +7,7 @@ g : \vec x =
 \cdot 
 \begin{pmatrix} 
 \\ 
-\\ 
+\\
 \end{pmatrix}
 $$
 #Templates
