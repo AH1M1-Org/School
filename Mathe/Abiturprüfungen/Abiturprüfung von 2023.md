@@ -186,7 +186,7 @@ y \\
 0 \\
 \end{pmatrix}
 \right| = 
-9.08955 
+6,38905
 \Longleftrightarrow x = -0.1, y = 6.9
 $$
 $$Pos1
