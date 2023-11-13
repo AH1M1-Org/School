@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Mathe  ",
@@ -90,11 +90,11 @@
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 2.60104166666667,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.489583333333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.03590926640145118,
+  "scale": 0.1172709999644046,
   "close": true
 }

@@ -95,6 +95,7 @@ $\begin{pmatrix}  a_1 & b_1 \\  c_1 & d_1 \end{pmatrix} \rightarrow$ Parameter k
 \end{tikzpicture} 
 \end{document} 
 ```
+
 > Die Matrix $\begin{pmatrix} 1 & 0 \\ 0 & 1\end{pmatrix}$ funktioniert wie eine $\cdot$ 1 operation, es veraendert nichts. Abb 1
 
 2 $\rightarrow$ Spieglung an der $x_2$ Achse $= \begin{pmatrix} -1 & 0 \\ 0 & 1\end{pmatrix}$
