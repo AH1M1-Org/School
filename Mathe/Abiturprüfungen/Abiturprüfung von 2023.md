@@ -13,15 +13,15 @@ $Punkt ~ A_1 ~ (-10 | -5)$
 $x = 0 - 10 = -10$
 $y = 0 - 10 \div 2 = - 5$
 
-$Punkt ~ B_1 ~ (-7 | - 5)$
+$Punkt ~ B_1 ~ (-7 | + 5)$
 $x = 0 - 7 = - 7$
-$y = 0 - 10 \div 2 = - 5$ 
+$y = 0 + 10 \div 2 = - 5$ 
 
 ### Aufgabe 4.2
 $$\vec {ON_t} = \begin{pmatrix} t \\ 0 \\ 0.88 + 0.0016 \cdot t ^ 2\end{pmatrix} mit ~ t \in [-5;5]$$
 Die Netzoberkannte kann als Parabel gesehen werden.
 $$f(x) = 0.88 + 0.0016 \cdot t ^ 2$$
-$$f(x) = 0.8996 \Longleftrightarrow t_{1,2} \pm 3.5$$Abziehen von 5 wegen Mindestabstand von den Seitlichen Spielfeld Markierungen. 
+$$f(x) = 0.8996 \Longleftrightarrow t_{1,2} \pm 3.5$$Abziehen von 5 wegen Mindestabstand von den seitlichen Spielfeld Markierungen. 
 $$5 - 3.5 = 1.5; -5 - (-3.5) = -1.5$$
 **Der Mindestabstand betraegt 1.5m von den Seitlichen Markierungen.**
 ### Aufgabe 4.3
@@ -79,7 +79,7 @@ $$
 6.5 \\ 
 0 \end{pmatrix}
 $$
-**Die $x_1$ Koordinate liegt bei $5.5$ dies ist ausserhalb des Feldes, heisst der Ball landet nicht Regelgerecht auf der anderen Seite**
+**Die $x_1$ Koordinate liegt bei $5.5$ dies ist ausserhalb des Feldes, heisst der Ball landet nicht Regelgerecht auf der anderen Seite.**
 ### Aufgabe 4.4
 Wir berechnen erst die Distanz die zwischen den beiden Punkten liegt
 $$
@@ -119,7 +119,7 @@ $$
 Mittelpunktberechnen
 $$M (\frac{a_x + b_2}{2} | \frac{a_y + b_y}{2} | \frac{a_z + b_z}{2}) \Leftrightarrow M (\frac{2 + (-2)}{2} | \frac{-7 + 3}{2} | \frac{1 + 1}{2}) = (0 ,- 2 ,1)$$
 $$M = (0 | - 2 | 1.5)$$
-**$x_3$ kann ignoriert werden da wir es als Parabel betracheten, also sind die Koordinaten des Punktes $H = (0 | -2 | 1)$.**
+**$x_3$ kann ignoriert werden da wir es als Parabel betracheten, also sind die Koordinaten des Punktes $H = (0 | -2 | 1.5)$.**
 
 S als Ortvektor von Punkt Q den Punkt S abziehen und vom Punkt H den Punkt S abziehen.
 $$
@@ -137,7 +137,7 @@ E : \vec x =
 \end{pmatrix} + v
 \begin{pmatrix} 
 -2 \\
--5 \\
+5 \\
 0.5 \\
 \end{pmatrix}
 $$
@@ -220,22 +220,22 @@ x_2 \\
 \end{pmatrix}
 $$
 $$
-S_1: \begin{pmatrix} 
+S_2: \begin{pmatrix} 
 1 & 0 \\ 
 0 & 1
 \end{pmatrix}
 \cdot
 \begin{pmatrix}
-0 \\
-40 \\
+x_1 \\
+x_2 \\
 \end{pmatrix} + 
 \begin{pmatrix}
 0 \\
-0 \\
+40 \\
 \end{pmatrix}
 $$
 $$
-S_1: \begin{pmatrix} 
+S_3: \begin{pmatrix} 
 0 & - 1 \\ 
 1 & 0
 \end{pmatrix}
@@ -246,6 +246,21 @@ x_2 \\
 \end{pmatrix} + 
 \begin{pmatrix}
 0 \\
+0 \\
+\end{pmatrix}
+$$
+$$
+S_4: \begin{pmatrix} 
+0 & 1 \\ 
+1 & 0
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+x_1 \\
+x_2 \\
+\end{pmatrix} + 
+\begin{pmatrix}
+40 \\
 0 \\
 \end{pmatrix}
 $$
