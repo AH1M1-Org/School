@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "41a4af3c995fdbf4",
+        "id": "6a6088ed4e1be655",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9520aae8f63cdc",
+            "id": "dc6b4af66ccf34bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -64,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +75,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,24 +123,43 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f9520aae8f63cdc",
+  "active": "dc6b4af66ccf34bc",
   "lastOpenFiles": [
+    "Excalidraw/Die Zwie Reiche Lehre.excalidraw.md",
+    "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
+    "Informatik/Kryptologie/8 Diffi-Hellmann.md",
+    "Informatik/Kryptologie/7 RSA in Mathematica.md",
+    "Informatik/Kryptologie/9 Hashwerte.md",
+    "Informatik/Kryptologie/1 Caesar Verfahren.md",
+    "Templates/Mathe/Gleichungssysteme.md",
+    "Pasted image 20231114152628.png",
+    "Excalidraw/Drawing 2023-11-14 14.13.26.excalidraw.md",
+    "Excalidraw/6 Zwei Reiche Lehre.excalidraw.md",
+    "Religion/6 Die Zwei Reiche Lehre.md",
+    "Religion/7 Heiliger Krieg (Djihad im Islam).md",
+    "Templates/Mathe/Vektor - Geradengleichung.md",
     "Mathe/Abiturprüfungen/Abiturprüfung von 2022.md",
+    "Gesellschaftslehre/7 Imperialismus M6 & M7.md",
+    "Englisch/8 Write a speech.md",
     "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
+    "PDF/Mathe/5 Abituraufgaben 2022 oHIMI.pdf",
+    "PDF/Mathe/4 Abiturprüfung 2023.pdf",
+    "PDF/Mathe/3 Geradengleichung spiegeln.pdf",
+    "PDF/Mathe/2 Lagebezeichnung Gerade und Ebene.pdf",
+    "PDF/Mathe/1 Infomaterial Vektoren.pdf",
     "temp page.md",
     "To do List.md",
     "Biologie/4 Praesentation - Fossilien.md",
@@ -158,32 +168,13 @@
     "Excalidraw/Drawing 2023-11-13 15.21.22.excalidraw.md",
     "Excalidraw",
     "Betriebwirtschaftslehere/3 Fonds.md",
-    "Englisch/8 Write a speech.md",
     "Englisch/7 Facing climate change.md",
-    "Gesellschaftslehre/7 Imperialismus M6 & M7.md",
     "Gesellschaftslehre/6 Politischer Wochenbercht.md",
     "Gesellschaftslehre/4 Imperialismus.md",
     "Gesellschaftslehre/3 Rassistisches Überlegenheitsgefühlt.md",
-    "Gesellschaftslehre/5 Kolonialisierung.md",
-    "Gesellschaftslehre/1 Die sehr leichten 10.md",
-    "Mathe/Vektoren/11 Matrixen.md",
-    "Templates/TikzSkizzen/Tikz - Vectorgraphic.md",
-    "Templates/TikzSkizzen/Tikz - Koordinaten System.md",
-    "Templates/TikzSkizzen/Tikz - document.md",
     "Templates/TikzSkizzen",
-    "Mathe/Vektoren/10 Aufgaben.md",
-    "PDF/Mathe/6 Abiturprüfung 2023.pdf",
     "PDF/Mathe/6 Abiturprüfung.pdf",
     "PDF/Mathe/6 Abiturprüfung.pdf.crdownload",
-    "Mathe/Vektoren/8 Spiegeln eines Punktes.md",
-    "Mathe/Vektoren/9 Spiegeln einer Gerade.md",
-    "Informatik/Kryptologie/8 Diffi-Hellmann.md",
-    "Informatik/Kryptologie/9 Hashwerte.md",
-    "Informatik/Kryptologie/7 RSA in Mathematica.md",
-    "Mathe/Abiturprüfungen",
-    "PDF/Mathe/1 Infomaterial Vektoren.pdf",
-    "PDF/Mathe/4 Hilfsmaterial Teil 2.pdf",
-    "Informatik/Mathematica/1 RSA.nb",
     "Unbenannt.canvas",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",

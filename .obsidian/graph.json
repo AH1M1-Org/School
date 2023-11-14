@@ -32,7 +32,7 @@
       "query": "tag:#Templates  ",
       "color": {
         "a": 1,
-        "rgb": 16711935
+        "rgb": 0
       }
     },
     {
@@ -81,7 +81,14 @@
       "query": "tag:#general",
       "color": {
         "a": 1,
-        "rgb": 5832959
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -95,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1172709999644046,
+  "scale": 0.07058167567046546,
   "close": true
 }

@@ -6,8 +6,9 @@ tags:
 
 ---
 [Mathematica](Mathematica/Abituraufgaben%202023.nb) 
-![Abitur](PDF/Mathe/6%20Abiturprüfung%202023.pdf)
-# Aufgabe 4
+![Abitur](4%20Abiturprüfung%202023.pdf)
+# Mit Hilfsmitteln
+## Aufgabe 4
 ### Aufgabe 4.1
 $Punkt ~ A_1 ~ (-10 | -5)$ 
 $x = 0 - 10 = -10$

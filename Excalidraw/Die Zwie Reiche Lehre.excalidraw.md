@@ -10,34 +10,34 @@ tags: [excalidraw]
 # Text Elements
         Koenigsherschaft Christ
 'Barmer Theologische Erklaerung von 1934'
-                (Barmen II) ^WPMC4cGi
+                (Barmen II) ^9O6XrvYM
 
 Bergpredikt
 - absoluter Pazifismuss
-- Waffenloser Messias ^tyvcjOGP
+- Waffenloser Messias ^gKTgt7AY
 
 These II
 - Feindesliebe dank 
   Ueberwindung
-  des Todes ^yU0MYs9q
+  des Todes ^VRWCZjXh
 
   Zwei Reichen Lehre
 'Noch nicht/Schon jetzt'
-      (Roemer 13) ^Rytiit8e
+      (Roemer 13) ^e0hJRQZe
 
 Staat regelt stellvertretend 
-  alle Belange der Buerger. ^yxhEHAbi
+  alle Belange der Buerger. ^m4UR1528
 
 Dienst der Buerger fuer die 
-  Obrigkeit und den Staat ^uCSyGc67
+  Obrigkeit und den Staat ^fBYzndO8
 
    Heutige Welt und Reich
-Gottes sind total verschieden ^bjbu3ea2
+Gottes sind total verschieden ^HFS21GCZ
 
 In dieser Welt muessen 
- uns Waffen schuetzen ^pQl4jMwK
+ uns Waffen schuetzen ^GOeb9zq8
 
-Zwei Reiche Lehre ^aFJ5Oe8e
+Zwei Reiche Lehre ^QoQJyBWw
 
 %%
 # Drawing
@@ -45,43 +45,43 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.25",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.28",
 	"elements": [
 		{
 			"type": "arrow",
-			"version": 2275,
-			"versionNonce": 1327294952,
+			"version": 2285,
+			"versionNonce": 1874880249,
 			"isDeleted": false,
-			"id": "CyrQyfxgtWno7YNli64K4",
+			"id": "FtNdMgeGcC2awdO-33HFZ",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -115.79549677333607,
-			"y": -154.03406677830313,
+			"x": -461.71654639830774,
+			"y": -215.60682054064898,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 102.01337419008196,
-			"height": 61.06671068752934,
-			"seed": 1918095336,
+			"width": 101.90798558128722,
+			"height": 61.06671068752931,
+			"seed": 1730921015,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698243881205,
+			"updated": 1699972070086,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "WPMC4cGi",
+				"elementId": "9O6XrvYM",
 				"focus": -0.20005501634524028,
 				"gap": 10.674658016986655
 			},
 			"endBinding": {
-				"elementId": "tyvcjOGP",
+				"elementId": "gKTgt7AY",
 				"focus": -0.3374176437357412,
 				"gap": 11.589825943491604
 			},
@@ -94,46 +94,46 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 					0
 				],
 				[
-					-102.01337419008196,
-					61.06671068752934
+					-101.90798558128722,
+					61.06671068752931
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2589,
-			"versionNonce": 1827473560,
+			"version": 2591,
+			"versionNonce": 73884057,
 			"isDeleted": false,
-			"id": "JKGiBzOpnG0R4gMe6t1Df",
+			"id": "JeucqDADyauAXA-xRFBz_",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -89.90094932897861,
-			"y": -154.3345552496297,
+			"x": -435.65372814113914,
+			"y": -215.9073090119756,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 65.95144824855447,
 			"height": 60.456332257896605,
-			"seed": 1761546648,
+			"seed": 654598999,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "WPMC4cGi",
+				"elementId": "9O6XrvYM",
 				"focus": 0.21262173817837085,
 				"gap": 10.374169545660095
 			},
 			"endBinding": {
-				"elementId": "yU0MYs9q",
+				"elementId": "VRWCZjXh",
 				"focus": 0.09863135762550115,
 				"gap": 16.05449746558577
 			},
@@ -153,37 +153,37 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 1144,
-			"versionNonce": 1790405864,
+			"version": 1146,
+			"versionNonce": 605668985,
 			"isDeleted": false,
-			"id": "WPMC4cGi",
+			"id": "9O6XrvYM",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -297.3047757266712,
-			"y": -239.70872479528978,
+			"x": -643.0575545388317,
+			"y": -301.28147855763564,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 415.33966064453125,
 			"height": 75,
-			"seed": 89124584,
+			"seed": 1634459767,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "CyrQyfxgtWno7YNli64K4",
+					"id": "FtNdMgeGcC2awdO-33HFZ",
 					"type": "arrow"
 				},
 				{
-					"id": "JKGiBzOpnG0R4gMe6t1Df",
+					"id": "JeucqDADyauAXA-xRFBz_",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -199,33 +199,33 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 408,
-			"versionNonce": 1349531032,
+			"version": 414,
+			"versionNonce": 1083089209,
 			"isDeleted": false,
-			"id": "tyvcjOGP",
+			"id": "gKTgt7AY",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -356.26548632466825,
-			"y": -81.37753014728219,
+			"x": -702.0182651368289,
+			"y": -142.95028390962807,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 234.1997528076172,
 			"height": 75,
-			"seed": 1496008088,
+			"seed": 405191063,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "CyrQyfxgtWno7YNli64K4",
+					"id": "FtNdMgeGcC2awdO-33HFZ",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972070085,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -241,33 +241,33 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 188,
-			"versionNonce": 1443467240,
+			"version": 190,
+			"versionNonce": 137575481,
 			"isDeleted": false,
-			"id": "yU0MYs9q",
+			"id": "VRWCZjXh",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -63.299688299280945,
-			"y": -77.82372552614731,
+			"x": -409.0524671114415,
+			"y": -139.3964792884932,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 193.01983642578125,
 			"height": 100,
-			"seed": 621957528,
+			"seed": 543780535,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "JKGiBzOpnG0R4gMe6t1Df",
+					"id": "JeucqDADyauAXA-xRFBz_",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -283,37 +283,37 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 334,
-			"versionNonce": 352699032,
+			"version": 336,
+			"versionNonce": 47271193,
 			"isDeleted": false,
-			"id": "Rytiit8e",
+			"id": "e0hJRQZe",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 425.05838315638607,
-			"y": -250.84466974311533,
+			"x": 79.30560434422557,
+			"y": -312.4174235054612,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 233.4998016357422,
 			"height": 75,
-			"seed": 2077721576,
+			"seed": 886603735,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "3kv8wsifE5vDPMhfe5CUs",
+					"id": "zUuF99F4iozLrmBkJ5RqR",
 					"type": "arrow"
 				},
 				{
-					"id": "iOjCsWLRtJ7T6vIvHh4tH",
+					"id": "Dk1YWKrf9H8HCl01kbtTu",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -329,37 +329,37 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 2032095976,
+			"version": 167,
+			"versionNonce": 624574969,
 			"isDeleted": false,
-			"id": "yxhEHAbi",
+			"id": "m4UR1528",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 213.50209592614067,
-			"y": -74.87761871975943,
+			"x": -132.25068288601983,
+			"y": -136.4503724821053,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 295.91973876953125,
 			"height": 50,
-			"seed": 2019697560,
+			"seed": 1200123127,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "3kv8wsifE5vDPMhfe5CUs",
+					"id": "zUuF99F4iozLrmBkJ5RqR",
 					"type": "arrow"
 				},
 				{
-					"id": "C9Nff9PUxDmsVqMBhSz7C",
+					"id": "ITN9YqEoGOgjigY8l_6uF",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -375,33 +375,33 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 124,
-			"versionNonce": 694267800,
+			"version": 126,
+			"versionNonce": 2087819993,
 			"isDeleted": false,
-			"id": "uCSyGc67",
+			"id": "fBYzndO8",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 219.4020378626476,
-			"y": 52.392557339174914,
+			"x": -126.3507409495129,
+			"y": -9.180196423170969,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 285.65972900390625,
 			"height": 50,
-			"seed": 1103704216,
+			"seed": 335394327,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "C9Nff9PUxDmsVqMBhSz7C",
+					"id": "ITN9YqEoGOgjigY8l_6uF",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -417,39 +417,39 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "arrow",
-			"version": 893,
-			"versionNonce": 1518646760,
+			"version": 895,
+			"versionNonce": 688576441,
 			"isDeleted": false,
-			"id": "3kv8wsifE5vDPMhfe5CUs",
+			"id": "zUuF99F4iozLrmBkJ5RqR",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 539.3014406720091,
-			"y": -165.18255398497217,
+			"x": 193.5486618598486,
+			"y": -226.75530774731806,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 129.31137449668518,
 			"height": 79.68422174378338,
-			"seed": 1151929064,
+			"seed": 1898765111,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "Rytiit8e",
+				"elementId": "e0hJRQZe",
 				"focus": -0.425948635806305,
 				"gap": 10.662115758143159
 			},
 			"endBinding": {
-				"elementId": "yxhEHAbi",
+				"elementId": "m4UR1528",
 				"focus": -0.049207667443475066,
 				"gap": 10.620713521429366
 			},
@@ -469,39 +469,39 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "arrow",
-			"version": 81,
-			"versionNonce": 95943832,
+			"version": 83,
+			"versionNonce": 1831434393,
 			"isDeleted": false,
-			"id": "C9Nff9PUxDmsVqMBhSz7C",
+			"id": "ITN9YqEoGOgjigY8l_6uF",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 352.7101003249552,
-			"y": -14.985128711309699,
+			"x": 6.957321512794692,
+			"y": -76.55788247365558,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1.0683818716647693,
 			"height": 58.76100294156595,
-			"seed": 808258968,
+			"seed": 1668963415,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "yxhEHAbi",
+				"elementId": "m4UR1528",
 				"focus": 0.06324368091440555,
 				"gap": 9.892490008449727
 			},
 			"endBinding": {
-				"elementId": "uCSyGc67",
+				"elementId": "fBYzndO8",
 				"focus": -0.054731758676324654,
 				"gap": 8.616683108918664
 			},
@@ -521,37 +521,37 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1329969384,
+			"version": 213,
+			"versionNonce": 2055273849,
 			"isDeleted": false,
-			"id": "bjbu3ea2",
+			"id": "HFS21GCZ",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 575.0113088415674,
-			"y": -71.02188928955115,
+			"x": 229.25853002940687,
+			"y": -132.59464305189704,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 297.2597351074219,
 			"height": 50,
-			"seed": 1480142568,
+			"seed": 1857730935,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "iOjCsWLRtJ7T6vIvHh4tH",
+					"id": "Dk1YWKrf9H8HCl01kbtTu",
 					"type": "arrow"
 				},
 				{
-					"id": "Dzvk0lA5W-e1YUiGfc-OP",
+					"id": "MaG_6ElwK-lknvGfp0X5k",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -567,33 +567,33 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 2075961752,
+			"version": 107,
+			"versionNonce": 5563993,
 			"isDeleted": false,
-			"id": "pQl4jMwK",
+			"id": "GOeb9zq8",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 615.3297796427098,
-			"y": 55.23858506139425,
+			"x": 269.5770008305493,
+			"y": -6.334168700951636,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 236.7198028564453,
 			"height": 50,
-			"seed": 701822872,
+			"seed": 674394775,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
-					"id": "Dzvk0lA5W-e1YUiGfc-OP",
+					"id": "MaG_6ElwK-lknvGfp0X5k",
 					"type": "arrow"
 				}
 			],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -609,39 +609,39 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "arrow",
-			"version": 346,
-			"versionNonce": 720264168,
+			"version": 348,
+			"versionNonce": 2037953337,
 			"isDeleted": false,
-			"id": "iOjCsWLRtJ7T6vIvHh4tH",
+			"id": "Dk1YWKrf9H8HCl01kbtTu",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 541.0949130243092,
-			"y": -164.39097956588046,
+			"x": 195.34213421214872,
+			"y": -225.96373332822634,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 160.21169481464563,
 			"height": 80.6369416022843,
-			"seed": 1590264552,
+			"seed": 144050103,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "Rytiit8e",
+				"elementId": "e0hJRQZe",
 				"focus": 0.5122764475689517,
 				"gap": 11.453690177234876
 			},
 			"endBinding": {
-				"elementId": "bjbu3ea2",
+				"elementId": "HFS21GCZ",
 				"focus": 0.2654188371468991,
 				"gap": 12.732148674045007
 			},
@@ -661,39 +661,39 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "arrow",
-			"version": 51,
-			"versionNonce": 111392408,
+			"version": 53,
+			"versionNonce": 978314265,
 			"isDeleted": false,
-			"id": "Dzvk0lA5W-e1YUiGfc-OP",
+			"id": "MaG_6ElwK-lknvGfp0X5k",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 715.0649442560616,
-			"y": -6.300133529822915,
+			"x": 369.3121654439011,
+			"y": -67.8728872921688,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.1830371685111913,
 			"height": 55.17264425419455,
-			"seed": 1913228696,
+			"seed": 2114582743,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698243881205,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "bjbu3ea2",
+				"elementId": "HFS21GCZ",
 				"focus": 0.07241763422679472,
 				"gap": 14.72175575972824
 			},
 			"endBinding": {
-				"elementId": "pQl4jMwK",
+				"elementId": "GOeb9zq8",
 				"focus": -0.11378853974965865,
 				"gap": 6.36607433702261
 			},
@@ -713,28 +713,28 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 409279128,
+			"version": 211,
+			"versionNonce": 1053686009,
 			"isDeleted": false,
-			"id": "aFJ5Oe8e",
+			"id": "QoQJyBWw",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 120.10804197005524,
-			"y": -386.5774525367025,
+			"x": -225.6447368421052,
+			"y": -448.15020629904836,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 175.5198516845703,
 			"height": 25,
-			"seed": 292306328,
+			"seed": 1042466295,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698244833672,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -750,30 +750,30 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		},
 		{
 			"type": "line",
-			"version": 331,
-			"versionNonce": 1986040552,
+			"version": 333,
+			"versionNonce": 947286489,
 			"isDeleted": false,
-			"id": "ZfBYnf3sykcaoDbuDfbN6",
+			"id": "ogLhOzZ-ytTReLgUWA1Xy",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 116.95014723321322,
-			"y": -360.2616630630183,
+			"x": -228.80263157894728,
+			"y": -421.8344168253642,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 184.21052631578948,
 			"height": 2.105263157894683,
-			"seed": 1145963752,
+			"seed": 1474621207,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698244822727,
+			"updated": 1699972063215,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -795,7 +795,7 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f5faff",
+		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
@@ -808,16 +808,16 @@ Zwei Reiche Lehre ^aFJ5Oe8e
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 412.52353697731314,
-		"scrollY": 641.9934468955488,
+		"scrollX": 831.25,
+		"scrollY": 676.7578125,
 		"zoom": {
-			"value": 0.9500000000000001
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
-			"Bold": "#8AC4FFFF",
-			"Regular": "#D1E8FFFF"
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
 		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
