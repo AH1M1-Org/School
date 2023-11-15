@@ -11,8 +11,13 @@
             "id": "0f9520aae8f63cdc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Kryptologie/1 Caesar Verfahren.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -59,6 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Kryptologie/1 Caesar Verfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,6 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatik/Kryptologie/1 Caesar Verfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik/Kryptologie/1 Caesar Verfahren.md"
+              }
             }
           },
           {
@@ -128,19 +137,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0f9520aae8f63cdc",
   "lastOpenFiles": [
-    "Informatik/Kryptologie/10 Modulares Potenziere.md",
+    "Informatik/~$Informatik Bildungsgang Präsentation.pptx",
+    "Informatik/Kryptologie/11 RSA Verfahren Beispiel.md",
+    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
+    "Mathe/Zahlentheorie/7 Lernzettel Zahlentheorie.md",
+    "Mathe/Zahlentheorie/8 Uebungen.md",
     "Informatik/Kryptologie/9 Hashwerte.md",
+    "Informatik/Kryptologie/10 Modulares Potenziere.md",
+    "Informatik/Kryptologie/5 RSA Verfahren.md",
+    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
+    "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+    "Mathe/Vektoren/3 Spurpunkte.md",
+    "Mathe/Vektoren/4 Einstahrlungswinkel Aufgabe.md",
+    "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
+    "Mathe/Vektoren/6 Laser Aufgabe.md",
+    "Mathe/Vektoren/7 Flugzeug Aufgabe.md",
+    "Mathe/Vektoren/8 Spiegeln eines Punktes.md",
+    "Mathe/Vektoren/9 Spiegeln einer Gerade.md",
+    "Mathe/Vektoren/10 Aufgaben.md",
+    "Mathe/Vektoren/11 Matrixen.md",
     "Informatik/Kryptologie/8 Diffi-Hellmann.md",
     "Mathe/Abiturprüfungen/Abiturprüfung von 2022.md",
     "Templates/Mathe/Gleichungssysteme.md",
@@ -152,24 +178,7 @@
     "Excalidraw/Die Zwie Reiche Lehre.excalidraw.md",
     "Excalidraw",
     "Informatik/Kryptologie/10 Modulares Potenzieren.md",
-    "Templates/New Site.md",
-    "Mathe/Abiturprüfungen/Abiturprüfung von 2023.md",
-    "temp page.md",
-    "To do List.md",
-    "Biologie/4 Praesentation - Fossilien.md",
-    "Biologie/1 Evolotionstheorie Charles Darwin.md",
     "Mathe/Mathematica/Abituraufgaben 2023.nb",
-    "Excalidraw/Drawing 2023-11-13 15.21.22.excalidraw.md",
-    "Betriebwirtschaftslehere/3 Fonds.md",
-    "Englisch/8 Write a speech.md",
-    "Englisch/7 Facing climate change.md",
-    "Gesellschaftslehre/7 Imperialismus M6 & M7.md",
-    "Gesellschaftslehre/6 Politischer Wochenbercht.md",
-    "Gesellschaftslehre/4 Imperialismus.md",
-    "Gesellschaftslehre/3 Rassistisches Überlegenheitsgefühlt.md",
-    "Gesellschaftslehre/5 Kolonialisierung.md",
-    "Gesellschaftslehre/1 Die sehr leichten 10.md",
-    "Mathe/Vektoren/11 Matrixen.md",
     "Templates/TikzSkizzen",
     "PDF/Mathe/6 Abiturprüfung 2023.pdf",
     "PDF/Mathe/6 Abiturprüfung.pdf",
