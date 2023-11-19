@@ -1,0 +1,1 @@
+En la imagen se puede ver seis personas e
