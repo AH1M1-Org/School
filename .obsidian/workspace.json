@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f44dd05dcf212c5",
+        "id": "a516645706f81f86",
         "type": "tabs",
         "children": [
           {
-            "id": "e0fc61a01a2d9480",
+            "id": "360dbe7a896dd9c9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -137,11 +137,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0fc61a01a2d9480",
+  "active": "360dbe7a896dd9c9",
   "lastOpenFiles": [
+    "Englisch/10 Stylistic devices.md",
+    "Betriebwirtschaftslehere/4 Fonds.md",
+    "Gesellschaftslehre/7 Imperialismus M6 & M7.md",
     "Betriebwirtschaftslehere/3 Bewertungsgrundlagen.md",
     "Betriebwirtschaftslehere/2 Innenfinanzierung Einzelfinanzierung.md",
-    "Betriebwirtschaftslehere/4 Fonds.md",
     "Betriebwirtschaftslehere/1 Investitionsberechnung.md",
     "Spanisch/12 Decribe una Imagen.md",
     "Mathe/Abiturvorbereitung/Abiturpruefungen/Abiturprüfung von 2023.md",
@@ -169,8 +171,6 @@
     "Mathe/Zahlentheorie/7 Lernzettel Zahlentheorie.md",
     "Mathe/Zahlentheorie/8 Uebungen.md",
     "Informatik/Kryptologie/9 Hashwerte.md",
-    "Informatik/Kryptologie/5 RSA Verfahren.md",
-    "Mathe/Vektoren/1 Lernzettel Vektoren.md",
     "PDF/Mathe/5 Abituraufgaben 2022 oHIMI.pdf",
     "PDF/Mathe/4 Abiturprüfung 2023.pdf",
     "PDF/Mathe/3 Geradengleichung spiegeln.pdf",
