@@ -119,13 +119,7 @@ $$
 \end{matrix}
 $$
 **Der Roboterarm trifft nicht das Viereck.**
-
-
-Frage? Heatte man nicht schon bei der ersten gleichung sehen koennen das es keine Loesung gibt und damit die Frage beantworten koennen?
-$$
-\begin{matrix}
-0 + r \cdot 1 + s \cdot 1 & = & 1 + t \cdot 1 & | & zusammenfassen \\
-r + s & = & 1 + t & | & - 1\\
--1 + r + s & = & t  
-\end{matrix}
-$$
+# Mit Hilfsmittel 
+![Bild](PDF/Mathe/5%20Abituraufgaben%202022%20mHIMI.pdf)
+## Aufgabe 4
+### Aufgabe 4.1
