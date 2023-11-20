@@ -6,6 +6,14 @@ tags:
 *Marvin Baeumer* **2023-11-19 18:39**
 
 ---
+### Aufbau Anal
+1. structure
+	- thesis $\neq$ antithesis
+	- numbers, dates, expert quotes $\rightarrow$ increase reliability of the author seen to be well informed
+	- headline $\rightarrow$ prepare readers for topic $\rightarrow$ reader thinks about topic
+	- point of view
+2. Sprachliche mittel
+
 |Sprachliches Mittel|Erklärung|Beispiel|
 |---|---|---|
 |Alliteration (Alliteration)|Wiederholung von Anfangslauten in aufeinanderfolgenden Wörtern|Peter Parker pickte eine Prise bunter Paprika.|
@@ -19,4 +27,4 @@ tags:
 |Allegorie (Allegory)|Bildliche Darstellung abstrakter Begriffe oder Ideen|In George Orwells "Animal Farm" repräsentieren die Tiere verschiedene politische Gruppen.|
 |Chiasmus (Chiasmus)|Überkreuzstellung von syntaktisch oder semantisch entsprechenden Satzteilen|Er sieht die Räume vor sich, vor sich sieht er die Räume.|
 |Personifikation (Personifikation)|Vermenschlichung von Tieren, Pflanzen oder Dingen|Die Sonne lacht.|
-|Parallelismus (Parallelism)|Gleichartiger Satzbau in aufeinanderfolgenden Sätzen oder Satzteilen|Die Sonne geht auf, die Vögel singen, der Tag beginnt.| 
+|Parallelismus (Parallelism)|Gleichartiger Satzbau in aufeinanderfolgenden Sätzen oder Satzteilen|Die Sonne geht auf, die Vögel singen, der Tag beginnt.|

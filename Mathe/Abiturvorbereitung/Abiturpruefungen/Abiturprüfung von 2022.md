@@ -120,6 +120,220 @@ $$
 $$
 **Der Roboterarm trifft nicht das Viereck.**
 # Mit Hilfsmittel 
+[Mathematica](Mathe/Mathematica/Abituraufgaben%202022.nb) 
 ![Bild](PDF/Mathe/5%20Abituraufgaben%202022%20mHIMI.pdf)
 ## Aufgabe 4
 ### Aufgabe 4.1
+$$
+\begin{pmatrix}
+0 \\
+50 \\
+3 \\
+\end{pmatrix}
+-
+\begin{pmatrix}
+30 \\
+50 \\
+0 \\
+\end{pmatrix}
+=
+\begin{pmatrix}
+-30 \\
+0 \\
+3 \\
+\end{pmatrix}
+$$
+$$
+\begin{pmatrix}
+0 \\
+30 \\
+0 \\
+\end{pmatrix}
+-
+\begin{pmatrix}
+30 \\
+50 \\
+0 \\
+\end{pmatrix}
+=
+\begin{pmatrix}
+-30 \\
+-20 \\
+0 \\
+\end{pmatrix}
+$$
+$$
+E : \vec x = 
+\begin{pmatrix} 
+30 \\ 
+50 \\
+0 \\
+\end{pmatrix} + r 
+\cdot 
+\begin{pmatrix} 
+-30 \\ 
+0 \\ 
+3 \\ 
+\end{pmatrix} + v 
+\cdot 
+\begin{pmatrix} 
+-30 \\ 
+-20 \\ 
+0 \\
+\end{pmatrix}
+$$
+Die Ebenengleichung lautet: siehe $E : \vec x$.
+### Aufgabe 4.2.1
+$$
+M (
+\frac{a_x + b_2}{2} | 
+\frac{a_y + b_y}{2} | 
+\frac{a_z + b_z}{2}) 
+\Leftrightarrow 
+M 
+(\frac{30 + 0}{2} | 
+\frac{50 + 30}{2} | 
+\frac{0 + 0}{2}) = 
+(15 ,40 ,0)
+$$
+Der Mittelpunkt liegt bei $(15 ,40 ,0)$.
+### Aufgabe 4.2.2
+$$
+\begin{pmatrix}
+15 \\
+30 \\
+0 \\
+\end{pmatrix}
+-
+\begin{pmatrix}
+20 \\
+10 \\
+0 \\
+\end{pmatrix}
+=
+\begin{pmatrix}
+-5 \\
+30 \\
+0 \\
+\end{pmatrix}
+$$
+$$
+g : \vec x = 
+\begin{pmatrix} 
+20 \\ 
+10 \\ 
+0 \\ 
+\end{pmatrix} + t 
+\cdot 
+\begin{pmatrix} 
+-5 \\ 
+30 \\
+0 \\
+\end{pmatrix}
+$$
+$$
+g : \vec x 
+= 
+\begin{pmatrix}
+5,5 \\
+47 \\
+0 \\
+\end{pmatrix}
+\rightarrow
+\{ ~ \}
+$$
+Der proezierte Punkt $A'$ liegt nicht auf der Geraden $g : \vec x$. 
+### Aufgabe 4.2.3
+### Aufgabe 4.3
+$$
+\begin{pmatrix}
+0 \\
+50 \\
+0 \\
+\end{pmatrix}
+-
+\begin{pmatrix}
+30 \\
+0 \\
+0 \\
+\end{pmatrix}
+=
+\begin{pmatrix}
+-30 \\
+50 \\
+0 \\
+\end{pmatrix}
+$$
+$$
+P_2P_4 : \vec x = 
+\begin{pmatrix} 
+30 \\ 
+0 \\ 
+0 \\
+\end{pmatrix} + t 
+\cdot 
+\begin{pmatrix} 
+-30 \\ 
+50 \\
+0 \\
+\end{pmatrix}
+$$
+$$
+\begin{pmatrix}
+0 \\
+30 \\
+0 \\
+\end{pmatrix}
+-
+\begin{pmatrix}
+30 \\
+50 \\
+0 \\
+\end{pmatrix}
+=
+\begin{pmatrix}
+-30 \\
+-20 \\
+0 \\
+\end{pmatrix}
+$$$$
+P_3P_5 : \vec x = 
+\begin{pmatrix} 
+30 \\ 
+50 \\ 
+0 \\
+\end{pmatrix} + t 
+\cdot 
+\begin{pmatrix} 
+-30 \\ 
+-20 \\
+0 \\
+\end{pmatrix}
+$$
+$$P_2P_4=P_3P_5 \rightarrow t = \frac{5}{7}$$
+$$
+\left|
+P_2P_4(\frac{5}{7}) 
+- 
+\begin{pmatrix} 
+30 \\
+0 \\
+0 \\
+\end{pmatrix}
+\right|
++
+\left|
+\begin{pmatrix} 
+0 \\
+50 \\
+3 \\
+\end{pmatrix}
+-
+P_3P_5(\frac{5}{7}) 
+\right|
+\approx 
+58,58
+$$
+Die Strecke die der Roboter zureucklegt betraegt 58,58m.
+### Aufgabe 4.4.1
+### Aufgabe 4.4.2
