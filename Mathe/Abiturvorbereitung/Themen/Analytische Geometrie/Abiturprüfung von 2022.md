@@ -336,4 +336,38 @@ P_3P_5(\frac{5}{7})
 $$
 Die Strecke die der Roboter zureucklegt betraegt 58,58m.
 ### Aufgabe 4.4.1
+$$
+shaun(t) = 
+\begin{pmatrix}
+30 \\
+0 \\
+\end{pmatrix}
++ t 
+\cdot
+\begin{pmatrix}
+-0,1 \\
+0,15 \\
+\end{pmatrix}
+$$
+$$
+timmy(t) = 
+\begin{pmatrix}
+29 \\
+20 \\
+\end{pmatrix}
++ t 
+\cdot
+\begin{pmatrix}
+- 0,1 \\
+- 0,1 \\
+\end{pmatrix}
+$$
+$$
+\left| 
+shaun(t)-timmy(t) 
+\right|
+= 1,5 
+\Rightarrow 75,56 < t < 84,47
+$$
+Zum Zeitpunkt 75,56 bis 84,47 unterschreiten Timmy und Shaun den Abstand von 1,5m.
 ### Aufgabe 4.4.2
