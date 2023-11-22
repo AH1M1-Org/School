@@ -334,6 +334,7 @@ P_3P_5(\frac{5}{7})
 \approx 
 58,58
 $$
+
 Die Strecke die der Roboter zureucklegt betraegt 58,58m.
 ### Aufgabe 4.4.1
 $$

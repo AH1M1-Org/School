@@ -30,7 +30,7 @@ Fonds und ETFs sind zwei verschiedene Arten von Investmentfonds. Der Hauptunters
 |Indexfonds (ETFs)|Niedrig bis Hoch|Bildet die Performance eines Marktindexes nach.|
 |Rentenfonds|Niedrig bis Mittel|Hauptsächlich in festverzinsliche Wertpapiere investiert.|
 
-
+![Praesentation](Fonds.odp) 
 [^1]: https://finanzwissen.de/investieren/fonds/ 
 [^2]: https://www.commerzbank.de/investieren/wissen/anleihen/
 [^3]: https://www.finanzen.net/ratgeber/wertpapiere/fondsarten
