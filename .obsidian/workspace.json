@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/10 Stylistic devices.md",
-                "mode": "preview",
+                "file": "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/10 Stylistic devices.md",
+                "file": "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/10 Stylistic devices.md",
+                "file": "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/10 Stylistic devices.md"
+                "file": "Mathe/Vektoren/2 Lernzettel Skalarprodukt, Kreuzprodukt, Winkelberechnung.md"
               }
             }
           },
@@ -129,22 +129,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "82b29f368cdb2700",
   "lastOpenFiles": [
-    "Englisch/1 Dystopia vs Utopia.md",
+    "Mathe/Vektoren/5 Übungsaufgaben Vektorprodukt, Winkel.md",
+    "Mathe/Vektoren/6 Laser Aufgabe.md",
+    "Mathe/Vektoren/10 Aufgaben.md",
+    "Mathe/Vektoren/11 Matrixen.md",
+    "Deutsch/8 Friedrich Nietzsche.md",
+    "Spanisch/12 Decribe una Imagen.md",
     "Informatik/Abiturvorbereitung/Themen/Datenbanken/Abituraufgaben Informatik 2019.md",
+    "Englisch/10 Stylistic devices.md",
+    "Englisch/1 Dystopia vs Utopia.md",
     "Mathe/Abiturvorbereitung/Themen/Analytische Geometrie/Abiturprüfung von 2022.md",
     "Mathe/Abiturvorbereitung/Themen/Analytische Geometrie/Abiturprüfung von 2023.md",
-    "Spanisch/12 Decribe una Imagen.md",
     "Spanisch/5 El texto catalan.md",
     "Betriebwirtschaftslehere/4 Fonds.md",
     "Betriebwirtschaftslehere/~$Fonds.odp",
@@ -165,17 +171,11 @@
     "Informatik/Abiturvorbereitung/Abiturpruefungen/Datenbanken/Abiturprüfung Informatik Grund Kurs 2019.md",
     "Informatik/Abiturvorbereitung/Abiturpruefungen/Datenbanken Informatik Grund)Krus.pdf.md",
     "Informatik/Abiturvorbereitung/Abiturpruefungen/Datenbanken.md",
-    "Englisch/10 Stylistic devices.md",
     "Englisch/8 Write a speech.md",
     "Templates/Mathe/Vektor - Parametergleichung.md",
     "Templates/Mathe/Gleichungssysteme.md",
     "Templates/Mathe/Vektor - Geradengleichung.md",
     "Templates/Mathe/Vektor - Laenge.md",
-    "Templates/Mathe/Vektor - Matrix.md",
-    "Templates/New Site.md",
-    "Gesellschaftslehre/7 Imperialismus M6 & M7.md",
-    "Betriebwirtschaftslehere/2 Innenfinanzierung Einzelfinanzierung.md",
-    "Betriebwirtschaftslehere/1 Investitionsberechnung.md",
     "Unbenannt.canvas",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",

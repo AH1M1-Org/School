@@ -21,7 +21,7 @@ Die Kardubakutaet zwischen Fahrrad und Station sollte eine $n:1$ sein da ein Fah
 Die Attribute KundenNr, SerienNr und Ausleihzeitpunkt ergeben den Primaerschluessel, weil ein Kunde das selbe Fahrrad ausleihen koennte, sprich KundenNr und SerienNr koennten sich doppeln. Fuegt man nun das Attribut Ausleihzeitpunkt hinzu kann es zwar immer noch sein das ein Kunde das selber Fahrrad ausleiht aber zu einem anderen Zeitpunkt. Sprich der Zeitpunkt macht den Primaerschluessel deutlich.
 Wueder man ueberlegen einzelene Attribute nehmen haette man Redundanzen, um dies zu vermeiden nimmt man also alle drei Attribut als Primaerschluessel.
 ### Aufgabe b
-1. ```
+1. 
 ```SQL
 SELECT SerienNr FROM Fahrrad
 WHERE Farbe = "rot"
