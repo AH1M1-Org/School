@@ -9,7 +9,8 @@
   "focusNewTab": true,
   "tabSize": 3,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": true,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100

@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-11-27 19:09**
+
+---
 ![Bild](PDF/Informatik/2%20Abiturpruefung%20GK%202019.pdf) 
 # Datenbanken
 ### Aufgabe a
