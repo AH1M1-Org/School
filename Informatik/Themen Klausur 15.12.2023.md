@@ -1,0 +1,14 @@
+- Aufgabe Datenbanken
+	- Er Modell mit DIA nc Notation
+	- ER Modell in Relationen schema (Pfeil, unterstreichen)
+	- SQL Abfragen (create, update, remove, insert, Views, referenzielle Integrität)
+	- (Beschreibung eines ER Modell)
+- Aufgabe Kryptologie
+	- Symmetrische und Asymmetrische Verfahren
+	- Neues Verfahren (einfach) verstehen & Sicherheit (Brut force, Haeufigkeitsanalyse)
+	- Diffie Hellmann (verfahren machen können (mit Beispiel zahlen) und Beweis)
+	- Diffie Hellmann warum kann eine dritte person nicht den schlüssel abgreifen
+	- RSA verfahren, Privater Schlüssel und entschlüsseln 
+
+- Hilfsmittel
+	- Taschenrechner 
