@@ -1,3 +1,10 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2023-12-05 20:05**
+
+---
 - Aufgabe Datenbanken
 	- Er Modell mit DIA nc Notation
 	- ER Modell in Relationen schema (Pfeil, unterstreichen)

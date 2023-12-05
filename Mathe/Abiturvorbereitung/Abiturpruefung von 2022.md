@@ -6,7 +6,7 @@ tags:
 *Marvin Baeumer* **2023-11-14 14:32**
 
 ---
-![Abitur](PDF/Mathe/5%20Abituraufgaben%202022%20oHIMI.pdf)
+![Abitur](6%20Abituraufgaben%20Mathe%202022%20oHIMI.pdf)
 # Ohne Hilfsmittel
 ## Aufgabe 1.4
 ### Aufgab 1.4.1
@@ -121,7 +121,7 @@ $$
 **Der Roboterarm trifft nicht das Viereck.**
 # Mit Hilfsmittel 
 [Mathematica](Mathe/Mathematica/Abituraufgaben%202022.nb) 
-![Bild](PDF/Mathe/5%20Abituraufgaben%202022%20mHIMI.pdf)
+![Bild](5%20Abituraufgaben%20Mathe%202022%20mHIMI.pdf)
 ## Aufgabe 4
 ### Aufgabe 4.1
 $$

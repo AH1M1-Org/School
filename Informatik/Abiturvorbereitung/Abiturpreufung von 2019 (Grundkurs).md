@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-11-27 19:09**
 
 ---
-![Bild](PDF/Informatik/2%20Abiturpruefung%20GK%202019.pdf) 
+![Bild](2%20Abiturpruefung%202019%20Grundkurs.pdf) 
 # Datenbanken
 ### Aufgabe a
 **teil 1**

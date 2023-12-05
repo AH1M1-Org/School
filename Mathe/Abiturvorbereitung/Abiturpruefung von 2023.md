@@ -7,7 +7,7 @@ tags:
 
 ---
 [Mathematica](Mathematica/Abituraufgaben%202023.nb) 
-![Abitur](4%20Abiturprüfung%202023.pdf)
+![Abitur](4%20Abiturprüfung%20Mathe%202023%20MHIMI.pdf)
 # Mit Hilfsmitteln
 ## Aufgabe 4
 ### Aufgabe 4.1

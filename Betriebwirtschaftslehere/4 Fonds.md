@@ -17,6 +17,8 @@ Kosten sind ein bedeutender Nachteil von Fonds. Die Verwaltung durch Fachleute e
 Rentenfonds zahlen jährlich Zinsen als Rendite aus mit wenig Risiko, während Aktienfonds höhere Renditen bieten, aber auch ein höheres Risiko haben. Rentenfonds sind daher eher für Anleger geeignet, die eine geringere Risikobereitschaft haben[^6], während Aktienfonds für Anleger geeignet sind, die bereit sind, höhere Risiken einzugehen, um höhere Renditen zu erzielen.[^7] 
 ### Unterschied zwischen Fonds und ETFs
 Fonds und ETFs sind zwei verschiedene Arten von Investmentfonds. Der Hauptunterschied zwischen ihnen liegt in der Art und Weise, wie sie verwaltet werden und wie sie handeln. Fonds werden aktiv von einem Fondsmanagement gemanagt, das versucht, den Markt zu schlagen und höhere Renditen zu erzielen. ETFs sind passiv und bilden einen Index ab[^8]. Ein Index ist eine Kennzahl, die die Kurse an einem Markt oder Marktsegment mit einem Durchschnittswert abbildet. Indizes spielen eine große Rolle im Börsenhandel, da sie anzeigen, in welche Richtung sich der jeweilige Markt gerade bewegt. Fondsanteile können über Anbieter oder Banken gekauft und verkauft werden, ETFs werden an der Börse gehandelt. Fonds haben höhere Gebühren als ETFs.[^9]
+
+[Praesentation](Fonds.odp)
 ### Übersicht verschiedener Arten[^10] 
 |Fondstyp|Risiko|Definition|
 |---|---|---|
