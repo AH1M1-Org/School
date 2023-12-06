@@ -5,17 +5,23 @@ tags:
 *Marvin Baeumer* **2023-12-05 20:05**
 
 ---
-- Aufgabe Datenbanken
-	- Er Modell mit DIA nc Notation
-	- ER Modell in Relationen schema (Pfeil, unterstreichen)
-	- SQL Abfragen (create, update, remove, insert, Views, referenzielle Integrität)
-	- (Beschreibung eines ER Modell)
-- Aufgabe Kryptologie
-	- Symmetrische und Asymmetrische Verfahren
-	- Neues Verfahren (einfach) verstehen & Sicherheit (Brut force, Haeufigkeitsanalyse)
-	- Diffie Hellmann (verfahren machen können (mit Beispiel zahlen) und Beweis)
-	- Diffie Hellmann warum kann eine dritte person nicht den schlüssel abgreifen
-	- RSA verfahren, Privater Schlüssel und entschlüsseln 
-
-- Hilfsmittel
-	- Taschenrechner 
+### Aufgaben Datenbank
+- [ ] ER Modell mit DIA in nc Notation
+- [ ] ER Modell in Relationschema  ($\underline{Primaerschluessel}$, $\uparrow$ Fremdschluessel)
+- [ ] SQL-Abfragen 
+	- [ ] Standard
+	- [ ] Tabellen erstellung (create)
+	- [ ] Datenmanipulation (insert, update, remove)
+	- [ ] VIEWS
+	- [ ] referenzielle Integrität
+- [ ] Beschreibung ER Modell (Entitaetstypen, Attribute, Beziehungen, Kardinalitaeten)
+- [ ] Redundanzen, Dateninkonsistenz
+### Aufgaben Kryptologie
+- [ ] Symmetrische/Asymmetrische Verfahren
+- [ ] Neues verfahren verstehen & Sicherheit beurteilen (Brut force, Haeufigkeitsanalyse)
+- [ ] Diffie-Hellmann verfahren (Beispiel rechnen)
+- [ ] Diffie-Hellmann Beweis 
+- [ ] Diffie-Hellmann schutz vor der dritt Person
+- [ ] RSA verfahren Berechnung (Privat Key, Public Key, ver- und entschluesselung)
+### Hilfsmittel
+- [ ] Taschenrechner 

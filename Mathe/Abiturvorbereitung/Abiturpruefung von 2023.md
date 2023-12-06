@@ -1,7 +1,6 @@
 ---
 tags:
   - Mathe
-  - Abitur
 ---
 *Marvin Baeumer* **2023-11-12 00:07**
 

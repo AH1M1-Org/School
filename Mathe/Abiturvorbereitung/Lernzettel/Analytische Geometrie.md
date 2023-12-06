@@ -5,7 +5,6 @@ tags:
 *Marvin Baeumer* **2023-11-27 16:17**
 
 ---
-# Vektoren
 ### Grundlagen
 #### Geradengleichung
 > Eine Geradengleichung besteht aus einem Ortsvektor und einem Bewegungsvektor. Dabei gibt der Ortsvektor die Startposition des Vektors zum Zeitpunkt $t = 0$ an, und der Bewegungsvektor gibt die Richtung und den Betrag der Verschiebung des Vektors an. Der Bewegungsvektor lässt sich mit $t$ multiplizieren, um somit die Bewegung nach $t$ Schritten darzustellen.

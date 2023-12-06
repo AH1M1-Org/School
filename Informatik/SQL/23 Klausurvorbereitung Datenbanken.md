@@ -39,6 +39,10 @@ SELECT Titel FROM
 INNER JOIN Schauspieler ON Schauspieler.SID = Film.FID
 ORDER BY Jahr DESC
 ```
+### B1.3
+![Bild](Informatik/Dia/1%20Relationaledatenbanken/KundenDing.png)
+[Dia datei](Informatik/Dia/1%20Relationaledatenbanken/KundenDing.dia)
+
 
 ### B1.1
 ```SQL
