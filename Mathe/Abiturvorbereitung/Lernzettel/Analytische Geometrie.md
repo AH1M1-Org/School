@@ -869,57 +869,6 @@ Sin[phi\[Degree]]
 
 #### Strecken/Stauchen
 >Man kann Streckungen und Stauchungen entlang der $x_1$-Achse und $x_2$-Achse vornehmen, indem man die Parameter $a_1$ und $d_1$ ändert.
-```tikz 
-\begin{document} 
-\begin{tikzpicture} 
-\draw[very thin,color=gray] (-5,-5) grid (5,5); 
-\draw[ultra thick, ->] (-5,0) -- (5,0) node[right] {$x_1$}; 
-\draw[ultra thick, ->] (0,-5) -- (0,5) node[above] {$x_2$}; 
-
-
-\filldraw[very thick](-2,2.5) circle (0.1) node[left] {$1$};
-\filldraw[very thick](-1,1) circle (0.1) node[left] {$A$};
-\draw[ultra thick, -] (-1,1) -- (-2,4);
-
-\filldraw[very thick](-2,4) circle (0.1) node[above] {$C$};
-\draw[ultra thick, -] (-2,4) -- (-3,2);
-
-\filldraw[very thick](-3,2) circle (0.1) node[above] {$B$}; 
-\draw[ultra thick, -] (-3,2) -- (-1,1);
-
-\filldraw[very thick](0,2.5) circle (0.1) node[left] {$2$};
-\filldraw[very thick](1,1) circle (0.1) node[left] {$A'$};
-\draw[ultra thick, -] (1,1) -- (0,4);
-
-\filldraw[very thick](0,4) circle (0.1) node[above] {$C'$};
-\draw[ultra thick, -] (0,4) -- (-1,2);
-
-\filldraw[very thick](-1,2) circle (0.1) node[above] {$B'$}; 
-\draw[ultra thick, -] (-1,2) -- (1,1);
-
-\filldraw[very thick](-3,-4.5) circle (0.1) node[left] {$3$};
-\filldraw[very thick](-5,-5) circle (0.1) node[left] {$A$};
-\draw[ultra thick, -] (-5,-5) -- (-3,-4);
-
-\filldraw[very thick](-3,-4) circle (0.1) node[above] {$C$};
-\draw[ultra thick, -] (-3,-4) -- (-2,-5);
-
-\filldraw[very thick](-2,-5) circle (0.1) node[above] {$B$}; 
-\draw[ultra thick, -] (-2,-5) -- (-5,-5);
-
-\filldraw[very thick](-3,-2.5) circle (0.1) node[left] {$4$};
-\filldraw[very thick](-5,-3) circle (0.1) node[left] {$A'$};
-\draw[ultra thick, -] (-5,-3) -- (-3,-2);
-
-\filldraw[very thick](-3,-2) circle (0.1) node[above] {$C'$};
-\draw[ultra thick, -] (-3,-2) -- (-2,-3);
-
-\filldraw[very thick](-2,-3) circle (0.1) node[above] {$B'$}; 
-\draw[ultra thick, -] (-2,-3) -- (-5,-3);
-
-\end{tikzpicture} 
-\end{document} 
-```
 2. Streckung auf der $x_1$-Achse: $\begin{pmatrix} 2 & 0 \\ 0 & 1 \end{pmatrix}$. Jede Koordinate wurde um zwei auf der $x_1$-Achse verschoben.
 3. Streckung auf der $x_2$-Achse: $\begin{pmatrix} 1 & 0 \\ 0 & 2 \end{pmatrix}$. Jede Koordinate wurde um zwei auf der $x_2$-Achse verschoben.
 4. Streckung auf der $x_1$- und $x_2$-Achse: $\begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}$. Jede Koordinate wurde um zwei auf der $x_1$- und $x_2$-Achse verschoben.
@@ -987,3 +936,63 @@ Sin[phi\[Degree]]
 2. $\rightarrow$ Spiegelung an der $x_2$-Achse $= \begin{pmatrix} -1 & 0 \\ 0 & 1 \end{pmatrix}$
 3. $\rightarrow$ Spiegelung an der $x_1$-Achse $= \begin{pmatrix} 1 & 0 \\ 0 & -1 \end{pmatrix}$
 4. $\rightarrow$ Spiegelung an der $x_1$- und $x_2$-Achse $= \begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix}$
+
+<div style="page-break-after: always;"></div>
+
+#### Matrix aus Punkt aufstellen
+> Wir haben einen Punkt $a$ gegeben und einen Modifizierten Punkt $b$. Nun soll man die Matrix aufstellen um von Punkt $a$ mit einer Matrix Multiplikation auf Punkt $b$ zu kommen. Der Ansatz waere den Punkt $a$ in die Matrix multiplikation einzusetzen und gleich dem Punkt $b$ zu stellen.
+
+$$
+\vec a
+\begin{pmatrix}
+a_1 \\
+b_1 \\
+\end{pmatrix}
+~ , ~
+\begin{pmatrix}
+a_2 \\
+b_2 \\
+\end{pmatrix}
+$$
+$$
+Matrixfrom = 
+\begin{pmatrix}
+a_1 & b_1 \\
+c_1 & d_1 \\
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+x \\
+y \\
+\end{pmatrix}
++
+\begin{pmatrix}
+x \\
+y \\
+\end{pmatrix}
+$$
+$$
+\Leftrightarrow
+\begin{pmatrix}
+a_1 & b_1 \\
+c_1 & d_1 \\
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+a_1 \\
+b_1 \\
+\end{pmatrix}
++
+\begin{pmatrix}
+x \\
+y \\
+\end{pmatrix}
+=
+\begin{pmatrix}
+a_2 \\
+b_2 \\
+\end{pmatrix}
+$$
+$$
+a_1 \rightarrow \{\} , b_1 \rightarrow \{\}, c_1 \rightarrow \{\}, d_1 \rightarrow \{\}
+$$

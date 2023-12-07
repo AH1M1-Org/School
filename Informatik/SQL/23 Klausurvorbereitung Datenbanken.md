@@ -71,3 +71,15 @@ GROUP BY Land
 ```
 
 Die Attribute FID KID und Zeitpunkt setzen den Primaerschluessel zusammen, die KID und FID koennten den Datensatz eindeutig machen aber wenn ein Kunde den Film 2x am selben Tag zu einer unterschiedlichen Zeit kauft braucht man den Zeitpunkt mit Sekunden um diesen Datensatz eindeutig zu machen.
+### B1.2
+
+![Bild](Informatik/Dia/1%20Relationaledatenbanken/PolitikAufgabe.png)
+[Dia datei](Informatik/Dia/1%20Relationaledatenbanken/PolitikAufgabe.dia)
+#### teil 2
+Der Mitarbeiter braucht Lese und Schreibrechte, in der Tabelle Wahlergebniss muss er Werte ein Tragen und aus der Partei daten auslesen.
+#### teil 3
+Verschluesselungswort "Abi"
+Text = "wahlrune"
+Chiffre ="wbplvznf"
+#### teil 4
+Nachdem die laenge des Schluessel bekannt ist kann mit hilfe von Brut force oder Haeufigkeitsanalysen das verfahren knacken, weil es ab wann wenn schluessel laenge n bekannt ist nur noch Caeser verfahren ist und da das Alphabet nur 26 Buchstaben hat ist dies gut moeglich in lebzeiten zu knacken. 
