@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a853f29e91851fa",
+        "id": "8cc1fc72e4521293",
         "type": "tabs",
         "children": [
           {
-            "id": "be3e603ee445a888",
+            "id": "253a60b6b5aee0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/8 Friedrich Nietzsche.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,16 +21,20 @@
             }
           },
           {
-            "id": "82071d9fa56defef",
+            "id": "d0d8d38a1ff19b36",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PDF/Deutsch/Nietzsche.png"
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/8 Friedrich Nietzsche.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/8 Friedrich Nietzsche.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/8 Friedrich Nietzsche.md"
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md"
               }
             }
           },
@@ -134,29 +138,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be3e603ee445a888",
+  "active": "d0d8d38a1ff19b36",
   "lastOpenFiles": [
+    "Informatik/Bildungsgangs Praesentation.md",
+    "Informatik/Themen Klausur 15.12.2023.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+    "Informatik/Kryptologie/8 Diffi-Hellmann.md",
+    "Informatik/SQL/23 Klausurvorbereitung Datenbanken.md",
+    "Informatik/Kryptologie/9 Hashwerte.md",
+    "Informatik/Kryptologie/10 Modulares Potenziere.md",
+    "Informatik/Kryptologie/11 RSA Verfahren Beispiel.md",
+    "Informatik/Kryptologie/12 RSA weiters Beispiel.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
+    "Informatik/Abiturvorbereitung/Checkliste.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
+    "README.md",
+    "To do List.md",
+    "Informatik/Kryptologie/5 RSA Verfahren.md",
+    "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
+    "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
+    "Mathe/Zahlentheorie/7 Uebungen.md",
+    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
+    "Informatik/Kryptologie/7 RSA in Mathematica.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
+    "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
+    "Informatik/Kryptologie/6 Abitur Aufgabe 3.1.md",
     "PDF/Deutsch/Nietzsche.png",
-    "Deutsch/8 Friedrich Nietzsche.md",
     "PDF/Deutsch/Nietzsche.jpg",
     "PDF/Deutsch/Nietzsche.jpg.crdownload",
     "PDF/Deutsch",
     "PDF/Neuer Ordner",
-    "Informatik/SQL/23 Klausurvorbereitung Datenbanken.md",
     "Informatik/Dia/1 Relationaledatenbanken/Politik Aufgabe.png",
     "Informatik/Dia/1 Relationaledatenbanken/Politik Aufgabe.dia",
     "Informatik/Dia/1 Relationaledatenbanken/Kunden Aufgabe.png",
@@ -164,31 +191,8 @@
     "Informatik/Dia/1 Relationaledatenbanken/PolitikAufgabe.png",
     "Informatik/Dia/1 Relationaledatenbanken/PolitikAufgabe.dia",
     "Informatik/Dia/1 Relationaledatenbanken/__dia20LMF2",
-    "Biologie/5 Der Serum test.md",
-    "Informatik/Themen Klausur 15.12.2023.md",
-    "To do List.md",
-    "README.md",
     "PDF/Biologie/1 Der Serum test.jpg",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
-    "Biologie/4 Praesentation - Fossilien.md",
     "PDF/Biologie",
-    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
-    "Spanisch/13 Monolog.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
-    "Mathe/Abiturvorbereitung/Checklist.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2023.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
-    "Informatik/Abiturvorbereitung/Checkliste.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
-    "Informatik/Bildungsgangs Praesentation.md",
-    "Spanisch/12 Decribe una Imagen.md",
-    "Spanisch/11 presentacion de Bilbao.md",
     "Informatik/Dia/1 Relationaledatenbanken/KundenDing.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/KundenDing.dia",
