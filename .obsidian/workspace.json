@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc1fc72e4521293",
+        "id": "3abe3c09ee352b25",
         "type": "tabs",
         "children": [
           {
-            "id": "253a60b6b5aee0dd",
+            "id": "13f7a12b1d98dc4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0d8d38a1ff19b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md"
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md"
               }
             }
           },
@@ -138,32 +124,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0d8d38a1ff19b36",
+  "active": "13f7a12b1d98dc4e",
   "lastOpenFiles": [
-    "Informatik/Bildungsgangs Praesentation.md",
+    "Mathe/Mathematica/Abiturpruefung 2017.nb",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+    "Spanisch/14 Decribe una imagen.md",
     "Informatik/Themen Klausur 15.12.2023.md",
+    "Informatik/Kryptologie/13 Square und Multiply (Binaere Exponentation).md",
     "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
-    "Informatik/Kryptologie/8 Diffi-Hellmann.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
+    "Informatik/Abiturvorbereitung/Checkliste.md",
     "Informatik/SQL/23 Klausurvorbereitung Datenbanken.md",
+    "Informatik/Bildungsgangs Praesentation.md",
+    "Informatik/Kryptologie/8 Diffi-Hellmann.md",
     "Informatik/Kryptologie/9 Hashwerte.md",
     "Informatik/Kryptologie/10 Modulares Potenziere.md",
     "Informatik/Kryptologie/11 RSA Verfahren Beispiel.md",
     "Informatik/Kryptologie/12 RSA weiters Beispiel.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
-    "Informatik/Abiturvorbereitung/Checkliste.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
@@ -175,10 +166,6 @@
     "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
     "Mathe/Zahlentheorie/7 Uebungen.md",
     "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
-    "Informatik/Kryptologie/7 RSA in Mathematica.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
-    "Informatik/Kryptologie/4 Ziele der Kryptologie.md",
-    "Informatik/Kryptologie/6 Abitur Aufgabe 3.1.md",
     "PDF/Deutsch/Nietzsche.png",
     "PDF/Deutsch/Nietzsche.jpg",
     "PDF/Deutsch/Nietzsche.jpg.crdownload",

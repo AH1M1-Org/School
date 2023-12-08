@@ -31,6 +31,9 @@ $$
 $$
 #### Schlüsselaustauschproblem
 > Das Schlüsseltauschproblem in der Kryptologie bezieht sich darauf, wie zwei Parteien sicher einen gemeinsamen geheimen Schlüssel austauschen können. Dies ist entscheidend für sichere Kommunikation. In asymmetrischer Kryptografie müssen die Parteien ihre öffentlichen Schlüssel austauschen, während in symmetrischer Kryptografie der gemeinsame Schlüssel sicher geteilt werden muss. Beispiele für Lösungen sind das Diffie-Hellman-Schlüsselaustauschprotokoll und hybride Verfahren.
+
+#### Monoalphabetisch und Polyalphabetisch 
+> Monoalphabetische Verschlüsselungen sind Verfahren, bei denen dieselben Buchstaben gleich verschlüsselt werden. Zum Beispiel wird bei dem Caesar-Verfahren jeder Buchstabe um $n$ Schritte verschoben, wodurch Buchstaben immer gleich verschlüsselt werden. Bei einer polyalphabetischen Verschlüsselung ist dies nicht der Fall. Dort werden gleiche Buchstaben unterschiedlich verschlüsselt, wie zum Beispiel beim Vigenère-Verfahren.
 ### Diffie-Hellmann Verfahren
 - Waehlen zweier Zahlen $p,g$
 	- $p \rightarrow \mathbb{P}$
@@ -72,6 +75,36 @@ Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a
 - Daraus folgt nach den Potenzgesetzen $(g^{a \cdot b}) \mod p$, zudem faellt das Innere $\mod p$ weg, weil wir immernoch in der selben Restklasse sind.
 - Nun will man in die Form $A$, weil man beweisen will das $B^a \mod p = A^b \mod p$ ist. $A$ entspricht $g^a \mod p$ deswegen formt man um zu $(g^a \mod p)^b \mod p$ somit kann man dann $(g^a \mod p)^b \mod p$ vereinfachen zu $A^b \mod p$ rechnen.
 - Somit ist Bewiesen das $B^a \mod p = A^b \mod p$
+#### Man in the middle Attack
+
+### Sqaure and Multiply 
+$$
+x^{23} = 22 ~ \text{Multiplikationen}
+$$
+1. Schritt: 23 in Binaer schreiben (immer die zweier Potenzen nehmen)
+$$
+23 = 1 \cdot 16 + 0 \cdot 8 + 1 \cdot 4 + 1 \cdot 2 + 1 \cdot 1
+$$
+$$
+10111
+$$
+2. Schritt: Jede 1 wird ersetzt durch $QM$ und jede $0$ durch $Q$
+	- $QM \rightarrow Quadrieren$
+	- $Q \rightarrow Multiplizieren$
+$$
+10111 = QMQQMQMQM
+$$
+3. Schritt: Erstes QM streichen! $\rightarrow$ jede pos Binaer Zahl faengt mit 1 an!
+$$
+10111 = QQMQMQM
+$$
+$$
+(((((x^2)^2) \cdot x)^2)\cdot x)^2 \cdot x
+$$
+$$
+((x^4 \cdot x)^2 \cdot x)^2 \cdot x = (x^{10} \cdot x)^2 \cdot x = x^{22} \cdot x = x^{23}
+$$
+> 7 Multiplikationen statt 22!
 ### Caesar Verfahren
 > Bei dem Caesar Verfahren wird das Alphabet zum Verschluesseln um $n$ Schritte nach rechts verschoben und zum Entschluesseln nach $n$ Schritte nach links. 
 
@@ -82,7 +115,9 @@ Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a
 | ---------- | --- | --- | --- | --- | --- |-------|
 | Ciphertext | K   | D   | O   | O   | R   | n = 3 |
 ### Vigenere Verfahren
-|   | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+> Das Vigenere Verfahren verschlüsselt mithilfe eines Wortes als Schlüssel. Dazu gibt es eine Tabelle, die die alphabetische Verschiebung darstellt. Man geht in der oberen Zeile für den Buchstaben x des Klartextes und geht dann nach unten, solange bis rechts der Buchstabe x des Schlüssels steht.
+
+|   | A | B | C | D | E | F | G | $\textcolor{yellow}{H}$| I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | A | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | B | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A |
@@ -92,7 +127,7 @@ Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a
 | F | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E |
 | G | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E | F |
 | H | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E | F | G |
-| I | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E | F | G | H |
+| $\textcolor{blue}{I}$ | I | J | K | L | M | N | O | $\textcolor{red}{P}$ | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E | F | G | H |
 | J | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E | F | G | H | I |
 | K | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E | F | G | H | I | J |
 | L | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C | D | E | F | G | H | I | J | K |
@@ -110,5 +145,12 @@ Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a
 | X | X | Y | Z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W |
 | Y | Y | Z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X |
 | Z | Z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y |
+
+
+| Klartext   | $\textcolor{yellow}{H}$   | $\textcolor{yellow}{A}$    | $\textcolor{yellow}{L}$    | $\textcolor{yellow}{L}$    | $\textcolor{yellow}{O}$   | n = IST |
+| ---------- | --- | --- | --- | --- | --- | ------- |
+| Schluessel | $\textcolor{blue}{I}$   | $\textcolor{blue}{S}$   | $\textcolor{blue}{T}$   | $\textcolor{blue}{I}$   | $\textcolor{blue}{T}$   | n = IST |
+| Ciphertext | $\textcolor{red}{P}$   | $\textcolor{red}{S}$   | $\textcolor{red}{E}$  | $\textcolor{red}{T}$    | $\textcolor{red}{G}$    | n = IST |      
 ### [[Zahlentheorie#RSA-Verfahren|RSA Verfahren]]
+
 

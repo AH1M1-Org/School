@@ -17,11 +17,15 @@ tags:
 - [ ] Beschreibung ER Modell (Entitaetstypen, Attribute, Beziehungen, Kardinalitaeten)
 - [ ] Redundanzen, Dateninkonsistenz
 ### Aufgaben Kryptologie
-- [ ] Symmetrische/Asymmetrische Verfahren
+- [x] Symmetrische/Asymmetrische Verfahren
 - [ ] Neues verfahren verstehen & Sicherheit beurteilen (Brut force, Haeufigkeitsanalyse)
-- [ ] Diffie-Hellmann verfahren (Beispiel rechnen)
-- [ ] Diffie-Hellmann Beweis 
-- [ ] Diffie-Hellmann schutz vor der dritt Person
-- [ ] RSA verfahren Berechnung (Privat Key, Public Key, ver- und entschluesselung)
+- [x] Diffie-Hellmann verfahren (Beispiel rechnen)
+- [x] Diffie-Hellmann Beweis 
+- [ ] Diffie-Hellmann man in the middle
+- [x] RSA verfahren Berechnung (Privat Key, Public Key, ver- und entschluesselung)
+- [x] Square and Multiply
+- [x] Monoalphabetisch (Caesar) und Polyalphabetische (Vigenere) Verfahren 
+- [x] Caesar Verfahren
+- [x] Vigenere Verfahren
 ### Hilfsmittel
 - [ ] Taschenrechner 
