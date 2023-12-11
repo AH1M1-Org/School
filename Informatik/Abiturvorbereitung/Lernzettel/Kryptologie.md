@@ -101,8 +101,8 @@ $$
 10111
 $$
 2. Schritt: Jede 1 wird ersetzt durch $QM$ und jede $0$ durch $Q$
-	- $QM \rightarrow Quadrieren$
-	- $Q \rightarrow Multiplizieren$
+	- $M \rightarrow Multiplizieren$
+	- $Q \rightarrow Quadrieren$
 $$
 10111 = QMQQMQMQM
 $$
