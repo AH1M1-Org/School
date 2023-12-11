@@ -1,3 +1,11 @@
+---
+tags:
+  - Mathe
+---
+*Marvin Baeumer* **2023-12-09 14:38**
+
+---
+[Mathematica](Mathe/Mathematica/Abiturpruefung%202017.nb)
 ### Aufgabe 2.1
 $$
 fa,b(t) = a \cdot t \cdot e ^{b \cdot t}

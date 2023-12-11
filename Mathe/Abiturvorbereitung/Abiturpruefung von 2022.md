@@ -119,7 +119,7 @@ $$
 $$
 **Der Roboterarm trifft nicht das Viereck.**
 # Mit Hilfsmittel 
-[Mathematica](Mathe/Mathematica/Abituraufgaben%202022.nb) 
+[Mathematica](Abituraufgaben%202022.nb) 
 ![Bild](5%20Abituraufgaben%20Mathe%202022%20mHIMI.pdf)
 ## Aufgabe 4
 ### Aufgabe 4.1

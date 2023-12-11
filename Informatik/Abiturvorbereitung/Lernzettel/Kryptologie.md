@@ -29,11 +29,17 @@ $$
 $$
 2 \cdot n
 $$
+
+<div style="page-break-after: always;"></div>
+
 #### Schlüsselaustauschproblem
 > Das Schlüsseltauschproblem in der Kryptologie bezieht sich darauf, wie zwei Parteien sicher einen gemeinsamen geheimen Schlüssel austauschen können. Dies ist entscheidend für sichere Kommunikation. In asymmetrischer Kryptografie müssen die Parteien ihre öffentlichen Schlüssel austauschen, während in symmetrischer Kryptografie der gemeinsame Schlüssel sicher geteilt werden muss. Beispiele für Lösungen sind das Diffie-Hellman-Schlüsselaustauschprotokoll und hybride Verfahren.
 
 #### Monoalphabetisch und Polyalphabetisch 
 > Monoalphabetische Verschlüsselungen sind Verfahren, bei denen dieselben Buchstaben gleich verschlüsselt werden. Zum Beispiel wird bei dem Caesar-Verfahren jeder Buchstabe um $n$ Schritte verschoben, wodurch Buchstaben immer gleich verschlüsselt werden. Bei einer polyalphabetischen Verschlüsselung ist dies nicht der Fall. Dort werden gleiche Buchstaben unterschiedlich verschlüsselt, wie zum Beispiel beim Vigenère-Verfahren.
+
+<div style="page-break-after: always;"></div>
+
 ### Diffie-Hellmann Verfahren
 - Waehlen zweier Zahlen $p,g$
 	- $p \rightarrow \mathbb{P}$
@@ -69,6 +75,9 @@ $$
 | $a = 25$                   | $b = 14$                  |
 | $A = 15^{25} \mod 31$ = 30 | $B = 15^{14} \mod 31 = 2$ |
 | $K = 2^{25} \mod 31 = 1$   | $K = 30^{14} \mod 31 = 1$ |
+
+<div style="page-break-after: always;"></div>
+
 #### Beweis
 Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a \mod p = (g^{a \cdot b}) \mod p = (g^a \mod p)^b \mod p = A^b \mod p$
 - Zuerst betrachtet man die Berechnung von $B$, dadurch das $B$ mit $g^b \mod p$ berechnet wird kann man für $B$ einsetzen. Somit erhält man $(g^b \mod p)^a$.
@@ -77,7 +86,10 @@ Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a
 - Somit ist Bewiesen das $B^a \mod p = A^b \mod p$
 #### Man in the middle Attack
 
-### Sqaure and Multiply 
+
+<div style="page-break-after: always;"></div>
+
+### Square and Multiply 
 $$
 x^{23} = 22 ~ \text{Multiplikationen}
 $$
@@ -105,6 +117,9 @@ $$
 ((x^4 \cdot x)^2 \cdot x)^2 \cdot x = (x^{10} \cdot x)^2 \cdot x = x^{22} \cdot x = x^{23}
 $$
 > 7 Multiplikationen statt 22!
+
+<div style="page-break-after: always;"></div>
+
 ### Caesar Verfahren
 > Bei dem Caesar Verfahren wird das Alphabet zum Verschluesseln um $n$ Schritte nach rechts verschoben und zum Entschluesseln nach $n$ Schritte nach links. 
 
@@ -114,8 +129,13 @@ $$
 | Klartext   | H   | A   | L   | L   | O   | n = 3 |
 | ---------- | --- | --- | --- | --- | --- |-------|
 | Ciphertext | K   | D   | O   | O   | R   | n = 3 |
+
+<div style="page-break-after: always;"></div>
+
 ### Vigenere Verfahren
 > Das Vigenere Verfahren verschlüsselt mithilfe eines Wortes als Schlüssel. Dazu gibt es eine Tabelle, die die alphabetische Verschiebung darstellt. Man geht in der oberen Zeile für den Buchstaben x des Klartextes und geht dann nach unten, solange bis rechts der Buchstabe x des Schlüssels steht.
+
+<div style="page-break-after: always;"></div>
 
 |   | A | B | C | D | E | F | G | $\textcolor{yellow}{H}$| I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -145,7 +165,6 @@ $$
 | X | X | Y | Z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W |
 | Y | Y | Z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X |
 | Z | Z | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y |
-
 
 | Klartext   | $\textcolor{yellow}{H}$   | $\textcolor{yellow}{A}$    | $\textcolor{yellow}{L}$    | $\textcolor{yellow}{L}$    | $\textcolor{yellow}{O}$   | n = IST |
 | ---------- | --- | --- | --- | --- | --- | ------- |

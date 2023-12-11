@@ -13,11 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+                "file": "Informatik/Kryptologie/13 Square und Multiply (Binaere Exponentation).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "80e245b4b7918aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "241675c79d0e43fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Themen Klausur 15.12.2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9eac3d28aaafedb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -64,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.50288009643555
+    "width": 210.5
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -107,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md"
+                "file": "READNE.md"
               }
             }
           },
@@ -129,24 +161,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13f7a12b1d98dc4e",
+  "active": "ccd60c32e25e528f",
   "lastOpenFiles": [
-    "Mathe/Mathematica/Abiturpruefung 2017.nb",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
-    "Spanisch/14 Decribe una imagen.md",
-    "Informatik/Themen Klausur 15.12.2023.md",
     "Informatik/Kryptologie/13 Square und Multiply (Binaere Exponentation).md",
+    "READNE.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+    "Informatik/Themen Klausur 15.12.2023.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
+    "Mathe/Mathematica/Abiturpruefung 2017.nb",
+    "Spanisch/14 Decribe una imagen.md",
     "Informatik/Abiturvorbereitung/Checkliste.md",
     "Informatik/SQL/23 Klausurvorbereitung Datenbanken.md",
     "Informatik/Bildungsgangs Praesentation.md",
@@ -155,17 +195,10 @@
     "Informatik/Kryptologie/10 Modulares Potenziere.md",
     "Informatik/Kryptologie/11 RSA Verfahren Beispiel.md",
     "Informatik/Kryptologie/12 RSA weiters Beispiel.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
     "README.md",
     "To do List.md",
     "Informatik/Kryptologie/5 RSA Verfahren.md",
     "Mathe/Zahlentheorie/5 Euklidischer Algorithmus + Erweiterter.md",
-    "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
-    "Mathe/Zahlentheorie/7 Uebungen.md",
-    "Mathe/Zahlentheorie/6 Lernzettel RSA verfahren.md",
     "PDF/Deutsch/Nietzsche.png",
     "PDF/Deutsch/Nietzsche.jpg",
     "PDF/Deutsch/Nietzsche.jpg.crdownload",
@@ -183,7 +216,6 @@
     "Informatik/Dia/1 Relationaledatenbanken/KundenDing.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
     "Informatik/Dia/1 Relationaledatenbanken/KundenDing.dia",
-    "Informatik/Dia/1 Relationaledatenbanken/Diagramm1.dia~",
     "Unbenannt.canvas",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
     "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png"

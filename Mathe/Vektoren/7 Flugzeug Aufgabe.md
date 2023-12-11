@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-10-31 12:43**
 
 ---
-**[Mathematica](Mathematica/Flugzeug%20Aufgabe.nb)**
+**[Mathematica](Flugzeug%20Aufgabe.nb)**
 ### Welche Frage soll beantwortet werden
 > Höhe Flugzeug zur Landebahn soll berechnet werden
 ### Was muss dazu konkret berechnet werden?

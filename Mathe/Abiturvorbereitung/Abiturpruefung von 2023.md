@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-11-12 00:07**
 
 ---
-[Mathematica](Mathematica/Abituraufgaben%202023.nb) 
+[Mathematica](Abituraufgaben%202023.nb) 
 ![Abitur](4%20Abiturprüfung%20Mathe%202023%20MHIMI.pdf)
 # Mit Hilfsmitteln
 ## Aufgabe 4

@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-11-06 09:17**
 
 ---
-**[Mathematica](Mathe/Mathematica/Aufgaben.nb)**
+**[Mathematica](Aufgaben.nb)**
 ![Arbeitsbaltt](3%20Geradengleichung%20spiegeln.pdf)
 ### Aufgabe 1
 $$E : \vec x = \begin{pmatrix} 4 \\ 3 \\ 0 \end{pmatrix} + r \cdot \begin{pmatrix} -2 \\ 0 \\ 1 \end{pmatrix} + v \cdot \begin{pmatrix} 2 \\ -3 \\ 1 \end{pmatrix}$$

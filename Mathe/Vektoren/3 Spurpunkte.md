@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-10-31 12:41**
 
 ---
-<span style="display:block;width:fit-content;margin:auto;">[[Mathe/Mathematica/Spurpunkte.nb]]</span> 
+<span style="display:block;width:fit-content;margin:auto;">[[Spurpunkte.nb]]</span> 
  $$\vec g: x \begin{pmatrix} x \\ y \\ z \end{pmatrix} + t \cdot \begin{pmatrix} x \\ y \\ z \end{pmatrix}$$
 
 ### Schnittpunkt mit Ebenen $(x,y,z)$ 

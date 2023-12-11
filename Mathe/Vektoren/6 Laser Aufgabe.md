@@ -5,7 +5,7 @@ tags:
 *Marvin Baeumer* **2023-10-31 12:42**
 
 ---
-**[Arbeitsblatt](2%20Lagebezeichnung%20Gerade%20und%20Ebene.pdf) - [Mathematica](Mathe/Mathematica/Laser%20Aufgabe.nb)** 
+**[Arbeitsblatt](2%20Lagebezeichnung%20Gerade%20und%20Ebene.pdf) - [Mathematica](Laser%20Aufgabe.nb)** 
 #### Welche Frage muss beantwortet werden?
 - Trifft die Waffe mit dem Laser die Ebene oder nicht, wenn ja wo?
 #### Wie kann man die Schussrichtung und die Position der Pistole modellieren? 
