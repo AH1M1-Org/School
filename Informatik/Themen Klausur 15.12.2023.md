@@ -22,10 +22,10 @@ tags:
 - [x] Diffie-Hellmann verfahren (Beispiel rechnen)
 - [x] Diffie-Hellmann Beweis 
 - [x] Diffie-Hellmann man in the middle
-- [x] RSA verfahren Berechnung (Privat Key, Public Key, ver- und entschluesselung)
+- [ ] RSA verfahren Berechnung (Privat Key, Public Key, ver- und entschluesselung)
 - [x] Square and Multiply
 - [x] Monoalphabetisch (Caesar) und Polyalphabetische (Vigenere) Verfahren 
-- [x] Caesar Verfahren
-- [x] Vigenere Verfahren
+- [ ] Caesar Verfahren
+- [ ] Vigenere Verfahren
 ### Hilfsmittel
 - [ ] Taschenrechner 
