@@ -33,7 +33,7 @@ $$
 <div style="page-break-after: always;"></div>
 
 #### Schlüsselaustauschproblem
-> Das Schlüsseltauschproblem in der Kryptologie bezieht sich darauf, wie zwei Parteien sicher einen gemeinsamen geheimen Schlüssel austauschen können. Dies ist entscheidend für sichere Kommunikation. In asymmetrischer Kryptografie müssen die Parteien ihre öffentlichen Schlüssel austauschen, während in symmetrischer Kryptografie der gemeinsame Schlüssel sicher geteilt werden muss. Beispiele für Lösungen sind das Diffie-Hellman-Schlüsselaustauschprotokoll und hybride Verfahren.
+> Das Schlüsseltauschproblem in der Kryptologie bezieht sich darauf, wie zwei Parteien sicher einen gemeinsamen geheimen Schlüssel austauschen können. Dies ist entscheidend für sichere Kommunikation. In asymmetrischer Kryptografie müssen die Parteien ihre öffentlichen Schlüssel austauschen, während in symmetrischer Kryptografie der gemeinsame Schlüssel sicher geteilt werden muss. Beispiele für Lösungen sind das Diffie-Hellman-Schlüsselaustauschprotokoll, ein hybrides Verfahren.
 
 #### Monoalphabetisch und Polyalphabetisch 
 > Monoalphabetische Verschlüsselungen sind Verfahren, bei denen dieselben Buchstaben gleich verschlüsselt werden. Zum Beispiel wird bei dem Caesar-Verfahren jeder Buchstabe um $n$ Schritte verschoben, wodurch Buchstaben immer gleich verschlüsselt werden. Bei einer polyalphabetischen Verschlüsselung ist dies nicht der Fall. Dort werden gleiche Buchstaben unterschiedlich verschlüsselt, wie zum Beispiel beim Vigenère-Verfahren.
@@ -85,8 +85,7 @@ Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a
 - Nun will man in die Form $A$, weil man beweisen will das $B^a \mod p = A^b \mod p$ ist. $A$ entspricht $g^a \mod p$ deswegen formt man um zu $(g^a \mod p)^b \mod p$ somit kann man dann $(g^a \mod p)^b \mod p$ vereinfachen zu $A^b \mod p$ rechnen.
 - Somit ist Bewiesen das $B^a \mod p = A^b \mod p$
 #### Man in the middle Attack
-
-
+> Bei der "Man-in-the-Middle-Attacke" setzt sich eine Person C zwischen die Kommunikation von Person A und Person B. Die Person C kann sich nun als Person B ausgeben, wenn Person A mit Person B kommunizieren möchte. Es werden insgesamt zwei Diffie-Hellman-Verfahren durchgeführt: einmal zwischen Person A und Person C und einmal zwischen Person B und Person C.
 <div style="page-break-after: always;"></div>
 
 ### Square and Multiply 

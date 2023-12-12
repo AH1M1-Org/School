@@ -5,7 +5,8 @@ tags:
 *Marvin Baeumer* **2023-12-09 14:38**
 
 ---
-[Mathematica](Mathe/Mathematica/Abiturpruefung%202017.nb)
+[Mathematica](Mathe/Mathematica/Abiturpruefung%202017.nb) 
+![PDF](8%20Abiturpruefung%20Mathe%202017%20mHIMI.pdf)
 ### Aufgabe 2.1
 $$
 fa,b(t) = a \cdot t \cdot e ^{b \cdot t}
@@ -38,4 +39,15 @@ $$
 Ha, b(t) = - \frac{a}{- \frac{1}{b} \cdot e}
 $$
 ### Aufgabe 2.4
-
+# Stochastik
+### Aufgabe 3.1.1
+|               | Vertrauen | N Vertrauen | Summe |
+| ------------- | --------- | ----------- | ----- |
+| Informieren   |  $0,65 \cdot 0,90 = 58,5\%$ |  $6,5\%$           | $65\%$   |
+| N Informieren |   $10,5\%$        | $24,5\%$           | $35\%$      |
+| Summe         |  $69\%$         |    $31\%$      |$100\%$   |
+### Aufgabe 3.1.2
+$$
+10.5 \div 69 \cdot 100 = 15,21
+$$
+### Aufgabe 3.2.1

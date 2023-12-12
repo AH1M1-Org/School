@@ -21,7 +21,7 @@ tags:
 - [ ] Neues verfahren verstehen & Sicherheit beurteilen (Brut force, Haeufigkeitsanalyse)
 - [x] Diffie-Hellmann verfahren (Beispiel rechnen)
 - [x] Diffie-Hellmann Beweis 
-- [ ] Diffie-Hellmann man in the middle
+- [x] Diffie-Hellmann man in the middle
 - [x] RSA verfahren Berechnung (Privat Key, Public Key, ver- und entschluesselung)
 - [x] Square and Multiply
 - [x] Monoalphabetisch (Caesar) und Polyalphabetische (Vigenere) Verfahren 
