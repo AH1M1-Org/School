@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md"
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.5
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -128,23 +128,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "580e87276de3102f",
   "lastOpenFiles": [
-    "Informatik/SQL/17 Normalisierung von Datenbanken.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
-    "Informatik/Themen Klausur 15.12.2023.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
+    "Informatik/Dia/Relationaledatenbanken/F.png",
+    "Informatik/Relationale.md",
+    "Informatik/Dia/Relationaledatenbanken/F.dia",
+    "Informatik/Dia/1 Relationaledatenbanken/__diaYYYMF2",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
+    "PDF/Informatik/3 Abiturpruefung 2021.pdf",
+    "PDF/Informatik/2 Abiturpruefung 2019 Grundkurs.pdf",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Abitrupruefung von 2021.md",
+    "Templates/Zeilenumbruch.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+    "Informatik/SQL/17 Normalisierung von Datenbanken.md",
+    "Informatik/Themen Klausur 15.12.2023.md",
     "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md",
     "Religion/1 Einstieg Ethik.md",
     "Informatik/Bildungsgangs Praesentation.md",
@@ -157,34 +172,19 @@
     "Englisch/9Stylistic devices.md",
     "Deutsch/4 Mein Koerper.md",
     "Deutsch/3 Das Fräulein stand am Meere.md",
-    "Deutsch/1 Die 10 Thesen.md",
-    "Mathe/Abiturvorbereitung/Checklist.md",
-    "Betriebwirtschaftslehere/4 Fonds.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
     "PDF/Betriebwirtschaftslehre/Jahresabschluss.pdf",
     "PDF/Betriebwirtschaftslehre/Jahresabschluss.pdf.crdownload",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2023.md",
-    "Mathe/Abiturpruefung 2021.nb.md",
     "Mathe/Mathematica/Abiturpruefung 2021.nb",
     "Mathe/Mathematica/Abiturpruefung 2022.nb",
-    "Mathe/Mathematica/Abiturpruefung 2023.nb",
-    "Mathe/Mathematica/Abiturpruefung 2017.nb",
-    "Mathe/Mathematica/Abiturpruefung 2017 (2).nb",
-    "Mathe/Mathematica/2017_Analysis.nb",
-    "Betriebwirtschaftslehere/1 Investitionsberechnung.md",
     "PDF/Deutsch/Nietzsche.png",
     "PDF/Deutsch/Nietzsche.jpg",
-    "Informatik/Dia/1 Relationaledatenbanken/Politik Aufgabe.png",
-    "Informatik/Dia/1 Relationaledatenbanken/Kunden Aufgabe.png",
+    "Informatik/Dia/Relationaledatenbanken/Politik Aufgabe.png",
+    "Informatik/Dia/Relationaledatenbanken/Kunden Aufgabe.png",
     "Informatik/Dia/1 Relationaledatenbanken/PolitikAufgabe.png",
     "PDF/Biologie/1 Der Serum test.jpg",
     "Informatik/Dia/1 Relationaledatenbanken/KundenDing.png",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.4.png",
+    "Informatik/Dia/Relationaledatenbanken/Aufgabe 1.4.png",
     "Unbenannt.canvas",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png",
-    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.2.png"
+    "Informatik/Dia/1 Relationaledatenbanken/Aufgabe 1.png"
   ]
 }

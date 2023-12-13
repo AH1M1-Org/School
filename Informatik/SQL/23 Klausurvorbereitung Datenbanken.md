@@ -40,8 +40,8 @@ INNER JOIN Schauspieler ON Schauspieler.SID = Film.FID
 ORDER BY Jahr DESC
 ```
 ### B1.3
-![Bild](Informatik/Dia/1%20Relationaledatenbanken/Kunden%20Aufgabe.png)
-[Dia datei](Informatik/Dia/1%20Relationaledatenbanken/Kunden%20Aufgabe.dia) 
+![Bild](Kunden%20Aufgabe.png)
+[Dia datei](Kunden%20Aufgabe.dia) 
 
 
 ### B1.1
@@ -73,8 +73,8 @@ GROUP BY Land
 Die Attribute FID KID und Zeitpunkt setzen den Primaerschluessel zusammen, die KID und FID koennten den Datensatz eindeutig machen aber wenn ein Kunde den Film 2x am selben Tag zu einer unterschiedlichen Zeit kauft braucht man den Zeitpunkt mit Sekunden um diesen Datensatz eindeutig zu machen.
 ### B1.2
 
-![Bild](Informatik/Dia/1%20Relationaledatenbanken/Politik%20Aufgabe.png)
-[Dia datei](Informatik/Dia/1%20Relationaledatenbanken/Politik%20Aufgabe.dia)
+![Bild](Politik%20Aufgabe.png)
+[Dia datei](Politik%20Aufgabe.dia)
 #### teil 2
 Der Mitarbeiter braucht Lese und Schreibrechte, in der Tabelle Wahlergebniss muss er Werte ein Tragen und aus der Partei daten auslesen.
 #### teil 3

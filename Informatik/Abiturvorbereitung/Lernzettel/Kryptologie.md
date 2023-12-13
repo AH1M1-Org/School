@@ -60,7 +60,7 @@ Formel
 $$
 $$
 \begin{matrix}
-K = B^a \mod p && B = A^b \mod p
+K_1 = B^a \mod p && K_2 = A^b \mod p
 \end{matrix}
 $$
 > Das Diffie-Hellman-Verfahren dient dem sicheren Schlüsselaustausch zwischen zwei Parteien. $K$ ist dann der gemeinsame geheime Schlüssel und löst somit das [[Kryptologie#Schlüsselaustauschproblem|Schlüsselaustauschproblem]]. Das Diffie-Hellman-Verfahren wird bei symmetrischen Verschlüsselungsverfahren benötigt.
@@ -119,6 +119,10 @@ $$
 
 <div style="page-break-after: always;"></div>
 
+### Die drei Schutzziele der Kryptologie
+- Vertraulichkeit: Der Inhalt einer Nachricht ist nur für einen bestimmten Empfängerkreis verfügbar.
+- Integrität: Der Inhalt einer Nachricht kann nicht unbemerkt verändert werden. 
+- Verbindlichkeit: Der Sender einer Nachricht kann nicht abstreiten, diese versendet zu haben
 ### Caesar Verfahren
 > Bei dem Caesar Verfahren wird das Alphabet zum Verschluesseln um $n$ Schritte nach rechts verschoben und zum Entschluesseln nach $n$ Schritte nach links. 
 
