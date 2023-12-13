@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Themen Klausur 15.12.2023.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Themen Klausur 15.12.2023.md"
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Themen Klausur 15.12.2023.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Themen Klausur 15.12.2023.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,13 +106,30 @@
   "right": {
     "id": "63f522fcde2903a5",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "8a91f64aa1ca6bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56afadb93432256e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -122,14 +139,16 @@
   },
   "active": "580e87276de3102f",
   "lastOpenFiles": [
-    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+    "Informatik/SQL/17 Normalisierung von Datenbanken.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
+    "Informatik/Themen Klausur 15.12.2023.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
     "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md",
     "Religion/1 Einstieg Ethik.md",
     "Informatik/Bildungsgangs Praesentation.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
     "Informatik/Kryptologie/3 Vigenère.md",
-    "Informatik/Themen Klausur 15.12.2023.md",
     "Gesellschaftslehre/6 Politischer Wochenbercht.md",
     "Gesellschaftslehre/~$1 Gesellschaftlehre Wochenbericht.pptx",
     "Excalidraw/Die Zwie Reiche Lehre.excalidraw.md",
@@ -156,8 +175,6 @@
     "Mathe/Mathematica/Abiturpruefung 2017 (2).nb",
     "Mathe/Mathematica/2017_Analysis.nb",
     "Betriebwirtschaftslehere/1 Investitionsberechnung.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
-    "Informatik/Kryptologie/13 Square und Multiply (Binaere Exponentation).md",
     "PDF/Deutsch/Nietzsche.png",
     "PDF/Deutsch/Nietzsche.jpg",
     "Informatik/Dia/1 Relationaledatenbanken/Politik Aufgabe.png",
