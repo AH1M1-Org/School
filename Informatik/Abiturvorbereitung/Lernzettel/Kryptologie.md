@@ -80,7 +80,7 @@ $$
 
 #### Beweis
 Unter Anwendung der Potenzgesetze erhält man $K_1 = B^a \mod p = (g^b \mod p)^a \mod p = (g^{a \cdot b}) \mod p = (g^a \mod p)^b \mod p = A^b \mod p$
-- Zuerst betrachtet man die Berechnung von $B$, dadurch das $B$ mit $g^b \mod p$ berechnet wird kann man für $B$ einsetzen. Somit erhält man $(g^b \mod p)^a$.
+- Zuerst betrachtet man die Berechnung von $B$, dadurch das $B$ mit $g^b \mod p$ berechnet wird kann man für $B$ einsetzen. Somit erhält man $(g^b \mod p)^a \mod p$.
 - Daraus folgt nach den Potenzgesetzen $(g^{a \cdot b}) \mod p$, zudem faellt das Innere $\mod p$ weg, weil wir immernoch in der selben Restklasse sind.
 - Nun will man in die Form $A$, weil man beweisen will das $B^a \mod p = A^b \mod p$ ist. $A$ entspricht $g^a \mod p$ deswegen formt man um zu $(g^a \mod p)^b \mod p$ somit kann man dann $(g^a \mod p)^b \mod p$ vereinfachen zu $A^b \mod p$ rechnen.
 - Somit ist Bewiesen das $B^a \mod p = A^b \mod p$
