@@ -7,7 +7,7 @@ tags:
 ---
 ![PDF](PDF/Informatik/3%20Abiturpruefung%202021.pdf)
 ### Aufgabe 1.1
-![DIA](F.png)
+![DIA](Frage.png)
 ### Aufgabe 1.2
 atomar: Atomar bedeutet das ein Wert nicht mehr geteilt werden kann zum Beispiel waere Name nicht Atomar, weil man ihn in Nachname, Vorname aufteilen koennte. Diese beiden Attribute waeren dann aber Atomar
 
