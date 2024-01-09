@@ -11,31 +11,27 @@ tags:
 ### Aufgabe 1.1.1
 ### Aufgabe 1.1.2
 $$
-f't(t)= -30 \cdot t^2 + 180 \cdot t + 100
-$$
-$$
-f''(t)= -60 \cdot t + 180
-$$
-$$
-f'''(t) = -60
-$$
-$$
-f''(t) = 0
-$$
-$$
 \begin{matrix}
--60 \cdot t + 180 & = & 0 & | -180 \\
--60 \cdot t & = & 180 & | \div (-60) \\
-t & = & 3
+f'(t) & = & -30 \cdot t^2 + 180 \cdot t + 100 \\
+f''(t) & = & -60 \cdot t + 180 \\
+f'''(t) & = & -60
 \end{matrix}
 $$
+Ansatz
+> Die 2 Ableitung gleich 0 stellen da man die staertkste Aenderungsrate moechte.
 $$
-t \rightarrow 3
+\begin{matrix}
+-60 & \cdot &  t & + & 180 & = & 0 & & | &-180 \\
+-60 & \cdot & t &&&= & 180 & | &\div (-60) \\
+t &&&&& = & 3 \\
+&&&&t &\rightarrow & 3
+\end{matrix}
 $$
 ## Aufgabe 2
 ### Aufgabe 1.2.1
-- Bei 0.25 ist ein Hochpunkt, bei der ersten Ableitung g ist bei 0.25 eine nullstelle
-- Bei dem Extrempunt der ersten Ableitung ist bei 0.5 der Wendepunkt, dort koennte ein Wendepunkt liegen.
+- Bei 0.25 ist eine 0 Stelle in der Ableitung g das heisst bei der Funktion f muss ein Extrempunkt sein. Dies ist hier der Fall.
+- Der Extrempunkt der gerade g liegt bei 0.5 das heisst bei der Funktion f muesste dort der Wendepunkt liegen, dies koennte hinkommen.
+### Aufgabe 1.2.2
 # mHIMI
 [Mathematica](Mathematica/Abiturpruefung%202018.nb)  
 ![PDF](PDF/Mathe/9%20Abiturpruefung%20Mathe%202018%20mHIMI.pdf)

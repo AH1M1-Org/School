@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gesellschaftslehre/7 Rueckblick.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea5d540145af6346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "file": "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gesellschaftslehre/7 Rueckblick.md"
+                "file": "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md"
               }
             }
           },
@@ -87,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gesellschaftslehre/7 Rueckblick.md",
+                "file": "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gesellschaftslehre/7 Rueckblick.md",
+                "file": "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +139,10 @@
   },
   "active": "8eb33b17edf1f950",
   "lastOpenFiles": [
-    "Gesellschaftslehre/7 Rueckblick.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+    "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md",
+    "Betriebwirtschaftslehere/4 Fonds.md",
+    "Gesellschaftslehre/7 Rueckblick.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
     "PDF/Mathe/10 Abiturpruefung Mathe 2018 oHIMI.pdf",
@@ -188,8 +177,6 @@
     "PDF/Informatik/3 Abiturpruefung 2021.pdf",
     "Informatik/Bildungsgangs Praesentation.md",
     "Informatik/Themen Klausur 15.12.2023.md",
-    "Deutsch/8 Friedrich Nietzsche.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "PDF/Deutsch/Nietzsche.png",
     "PDF/Deutsch/Nietzsche.jpg",
     "Informatik/Dia/Relationaledatenbanken/Politik Aufgabe.png",
