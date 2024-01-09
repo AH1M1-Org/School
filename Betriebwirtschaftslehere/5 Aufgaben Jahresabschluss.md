@@ -2,7 +2,7 @@
 tags:
   - Betriebwirtschaftslehre
 ---
-*Marvin Baeumer* **2023-12-12 10:17**
+what*Marvin Baeumer* **2023-12-12 10:17**
 
 ---
 ![PDF](PDF/Betriebwirtschaftslehre/Jahresabschluss.pdf)
