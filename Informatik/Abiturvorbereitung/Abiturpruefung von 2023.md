@@ -21,7 +21,10 @@ Ein Stack funktioniert mit dem LIFO Prinzip (Last in first out) und eine Queue n
 | ---------- | -------------------------- | ------ |
 | 3.1.1      | erläutert das LIFO Prinzip | 2      |
 | 3.1.2      | erläutert das FIFO Prinzip | 2      |
-
+> Erklaerung:
+> Eventuell erklaeren was ein Stack/ Queue ist wenn nicht allen klar ist was es war.
+> Sack = Tellerstapel
+> Queue = Warteschlange an einer Kasse
 ---
 
 ### Sie erinnern sich, dass zum Aufbau einer einfach verketteten Liste Containerobjekte verwendet werden können, die jeweils neben dem zu speichernden Objekt auch einen Verweis auf das nächste Containerobjekt enthalten.
@@ -58,7 +61,9 @@ public class Container {
 | 3.2.1           | gibt die beiden Notwendigen Attribute an        | 2       |
 | 3.2.2           | gibt den Konstruktor an         | 1       |
 | 3.2.3                | programmiert get- und set Methoden        | 4       |
-
+> Erklaerung: 
+> Auf die Knotenklasse eingehen, was diese ist, ihre funktionen. 
+> Get und set Methoden erklaeren, wie sie funktionieren.
 ---
 
 ### 3.3 Beschreiben Sie, welche Änderungen in der Containerklasse zur Realisierung einer doppelt verketteten Liste vorgenommen werden müssen (4 Punkte).
@@ -73,7 +78,7 @@ Dieses Element müsste man dann noch im Konstruktor initialisieren also der vari
 | 3.3.1           | erkennt die Notwendigkeit für ein weiteres Datenfeld        | 2        |
 | 3.3.2           | erwähnt die Initialisierung im Konstuktor        | 1       |
 | 3.3.3                | nennt die get- und set Methoden für das Datenfeld        | 1       |
-
+> Doppelt verkettung erklaeren
 ---
 
 ### Sie entscheiden sich, Ereignisse mithilfe der dynamischen Datenstruktur Queue zu verarbeiten. Die von der Kugel während des Spiels ausgelösten Ereignisse werden von der Klasse $FlipperEvent$ (siehe Anlage 1) für die weitere Verarbeitung zur Verfügung gestellt, Wenn die Kugel ein Ereignis auslöst, wird die Methode $\text{private void ballEvent (FlipperEvent e)}$ der Klasse $Spiellogik$ (siehe Anlage 2) aufgerufen.
@@ -92,7 +97,7 @@ Die Methode ist *private* das heißt die Methode ist nur in der Klasse *Spielelo
 | 3.4.2           | beschreibt den Rückgabetyp *void*        | 1       |
 | 3.4.3           | nennt den Methodennamen *ballEvent*        | 1       |
 | 3.4.4                | beschreibt Name *e* und Typ des Parameters *FlipperEvent*         | 2       |
-
+> Bestandteile eines Methoden kopfes erklaeren
 ---
 
 ### Die Methode $ballEvent$ muss das $e$ nach verschiedenen Kriterien auswerten. Handelt es sich um ein Event mit einer ID von $1 ~ bis ~ 99$, so wird das $FlipperEvent e$ zu der bereits initialisierten Queue $eventQueue$ (siehe Anlage 3) hinzugefügt. Handelt es sich bei dem Event-Typ um einen Schalter („Switch"), so Wird die Methode $switchlight$ aufgerufen. Ist die Sensorgruppennummer $999$, so wird die Methode $baliOut$ aufgerufen. (7 Punkte)
@@ -103,6 +108,16 @@ private void ballEvent(FlipperEvent e) {
 	if(e.getID() >= 1 && e.getID <= 99) {
 		e.enque(e);
 	}
-	if(e)
+	else if(e.getEventType.equals("Switch")) {
+		switchLight(e);
+	}
+	else if(e.getID == 999) {
+		ballOut()
+	}
 }
 ```
+
+---
+### 3.6 Stellen Sie für alle relevanten Fälle der Methode insert graphisch den Zustand der Liste sowie die Positionen der Zeiger first, last und it jeweils vor und nach dem Aufruf der Methode dar. (10 Punkte)
+![Bild](Excalidraw/Aufgabe%203.6%20Informatik.excalidraw)
+
