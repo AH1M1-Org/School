@@ -119,5 +119,42 @@ private void ballEvent(FlipperEvent e) {
 
 ---
 ### 3.6 Stellen Sie für alle relevanten Fälle der Methode insert graphisch den Zustand der Liste sowie die Positionen der Zeiger first, last und it jeweils vor und nach dem Aufruf der Methode dar. (10 Punkte)
-![Bild](Excalidraw/Aufgabe%203.6%20Informatik.excalidraw)
 
+**Fall 1: leere Liste**
+![PDF](PDF/Informatik/Fall1.png)
+
+**Fall 2: nicht leere Liste ohne aktuelles Objekt**
+![PDF](PDF/Informatik/Fall2.png)
+
+**Fall 3: Einfuegen vor dem ersten Element**
+![PDF](PDF/Informatik/Fall3.png)
+
+**Fall 4: Allgemeiner Fall - es gibt ein aktuelle Element, welches nicht das erste Element ist**
+![PDF](PDF/Informatik/Fall4.png)
+### 3.7 Implementieren Sie die Methode remove der Klasse List gemäß der Beschreibung in Anlage 4. Sie können alle anderen Methoden der Klasse List und die oben beschriebenen Zeiger first, last und it als gegeben voraussetzen.
+```java
+public void remove() {
+	if(hasAccess()) { 
+//Schauen ob Elemente in der Liste sind
+		if(first == last) { 
+//Schauen ob nur ein Element in der Liste ist
+			first = null;
+			last = null;
+			it = null;
+//Wenn nur ein Element vorhanden dann wird alles null da wir es entfernen wollen
+		} else {
+			if(first = it) { //Loeschen des ersten Elements
+				it = first.getNext(); 
+				first = it;
+//Wenn nun das erste Element auch unser aktuelles Element ist so kann it das nachfolgende Element sein und first ebenso da wir so kein Pointer mehr auf dem vorherigen Element haben und es so geloscht wird
+			}
+			else {
+				Container current = first;
+				while(current != it) {
+					current = current.getNext();
+				}
+			}
+		}
+	}
+}
+```
