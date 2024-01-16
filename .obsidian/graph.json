@@ -11,7 +11,7 @@
       "query": "tag:#Abitur",
       "color": {
         "a": 1,
-        "rgb": 9274828
+        "rgb": 7233986
       }
     },
     {
@@ -102,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.13873223932666204,
+  "scale": 0.09895430218637252,
   "close": false
 }

@@ -11,8 +11,13 @@
             "id": "b6585f8e0ff29721",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "To do List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Abitur",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "To do List.md"
+              }
             }
           },
           {
@@ -67,6 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "To do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,13 +91,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "To do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,10 +140,10 @@
   },
   "active": "b6585f8e0ff29721",
   "lastOpenFiles": [
+    "README.md",
+    "To do List.md",
     "Mathe/Abiturvorbereitung/Checklist.md",
     "Informatik/Abiturvorbereitung/Checklist.md",
-    "To do List.md",
-    "README.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Mathe/Abiturvorbereitung/Unbenannt.md",
     "PDF/Lernzettel/Theoretische Informatik.pdf",
