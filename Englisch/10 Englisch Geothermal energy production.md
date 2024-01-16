@@ -1,3 +1,10 @@
+---
+tags:
+  - Englisch
+---
+*Marvin Baeumer* **2024-01-16 11:43**
+
+---
 ### Themen
 ### Was ist Geothermie und wie funktioniert Geothermie?
 Geothermie nutzt die vorhandene Wärme, die in der Erdkruste gespeichert ist, um sie in Strom umzuwandeln oder um Gebäude zu heizen und zu Kühlen. Durch die Hitze wird Dampf erzeugt und durch diesen Dampf wird eine Turbine gedreht. 

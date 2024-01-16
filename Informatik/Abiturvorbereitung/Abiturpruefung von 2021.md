@@ -58,4 +58,24 @@ ORDER BY SummeProLand DESC
 ```
 ### Aufgabe 1.9
 Die SQL Anweisung gib die Kategorie das Land, und die Summe des CO2 ausstoesses an und speicher die Summe unter total. Dannach werden alle Tabellen miteinandern Verknuepft und es werden Kategorien und Laender gruppiert. Die SQL Anweisung gibt die Summer alle Laender pro Kategorie pro Jahr aus. Die Kategorien werden aufsteigend sortiert und dannach die Totale Summer Absteigend sortiert
+### Aufgabe 2.1 
+Bubble Sort $\rightarrow$ Ein bubble Sort ist stabil, weil einzelene Schritte gemacht werden und nur wenn groesser ist wird getauscht.
+Selection Sort $\rightarrow$ Ein Selection Sort ist nicht stabil, weil mehrere stellen uebersprugen werden
+Insertionsort $\rightarrow$ Ein Inserstion Sort ist stabil, weil keine Position uebersprungen wird
+### Aufgabe 2.2
+a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+Bubble Sort
+Marie, Martha, Mohammed, Ava, Denys, Peter
+Marie, Martha, Ava, Denys, Mohammed, Peter
+Marie, Ava, Denys, Martha, Mohammed, Peter 
+
+Insertionsort
+Marie, Peter, Martha, Mohammed, Ava, Denys
+Marie, Martha, Peter, Mohammed, Ava, Denys
+Marie, Martha, Mohammed, Peter, Ava, Denys
+### Aufgabe 2.3
+Die Methode Quicksort erwartet ein int Array der unter feld gespeichert wird, einen Integer dieser wird unter u gespeichert und noch einen Integer der unter o gespeichert wird. Sobald die Methode ausgefuehrt wird schaut man mit der if Bedingung ob u kleiner o ist wenn dies der fall ist wird ein neuer Integer festgelegt, dieser ist das pivot element, der wird berechnet aus u+o / 2 somit ergibt sich die Mitte eines teil Arrays. Die Variable pn ist dann das neue pivot Element und wird mit der Methode zerlege berechnet. Die Methode ist rekursiv und dient dazu ein Pivot Element zu erzeugen. Durch das u, pn-1 oder pn+1, o wird somit links und rechts weiter gegangen um so die Pivots machen. 
+
+
+
 

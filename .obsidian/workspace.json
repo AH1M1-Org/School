@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f436702f075dbc76",
+        "id": "e7fe16425be05949",
         "type": "tabs",
         "children": [
           {
-            "id": "7ecc4d52f999fb13",
+            "id": "e9b56050e86702da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -63,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -74,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,19 +119,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7ecc4d52f999fb13",
+  "active": "e9b56050e86702da",
   "lastOpenFiles": [
+    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
+    "Betriebwirtschaftslehere/6 Jahresabschluss International.md",
+    "Englisch/10 Englisch Geothermal energy production.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung voñ2021.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
     "Informatik/Abiturvorbereitung/Praesentation/Informatik Dynamischedatenstrukturen.md",
     "Informatik/Abiturvorbereitung/Praesentation",
@@ -157,28 +157,20 @@
     "Excalidraw/Die Zwie Reiche Lehre.excalidraw.md",
     "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
     "Betriebwirtschaftslehere/5 Aufgaben Jahresabschluss.md",
-    "Englisch/Englisch Geothermal energy production.md",
     "Englisch/9 Stylistic devices.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
     "Excalidraw/Aufgabe.md",
     "PDF/Informatik/5 Abiturpruefung 2023.pdf",
     "Informatik/Bildungsgangs Praesentation.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2019 (Grundkurs).md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2022.md",
     "Informatik/Abiturvorbereitung/Checkliste.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
     "Gesellschaftslehre/7 Rueckblick.md",
     "PDF/Informatik/4 Abiturpruefung 2022.pdf",
     "PDF/Informatik/Informatik Abiturpruefung 2023.pdf",
     "Excalidraw/Drawing 2024-01-09 20.24.54.excalidraw.md",
     "Excalidraw/Drawing 2024-01-09 20.35.53.excalidraw.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
-    "Betriebwirtschaftslehere/4 Fonds.md",
     "PDF/Mathe/10 Abiturpruefung Mathe 2018 oHIMI.pdf",
     "PDF/Mathe/mathe_wlk_inf_abitur2018_HT_ohimi_S.pdf",
-    "Templates/New Site.md",
-    "Templates/Zeilenumbruch.md",
     "Informatik/Dia/Relationaledatenbanken/Frage.png",
     "Informatik/Dia/Relationaledatenbanken/Aufgabe 1.4.png",
     "Mathe/Mathematica/Abiturpruefung 2018.nb",
