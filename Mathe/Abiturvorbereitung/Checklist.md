@@ -1,13 +1,10 @@
 ---
 tags:
+  - Abitur
   - Mathe
 ---
 *Marvin Baeumer* **2023-12-06 10:32**
 
 ---
-- [ ] Analysis
-	- [ ] Ableitung
-	- [ ] Integrale
-- [ ] Lineare Algebra
-- [ ] Stochastik
-- [ ] Zahlentheorie
+### Analytische Geometrie
+![[Analytische Geometrie.pdf]]
