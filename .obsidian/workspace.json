@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeitplan.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeitplan.md"
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeitplan.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeitplan.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,13 +152,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11661c6a4f80baa7",
+  "active": "ccd60c32e25e528f",
   "lastOpenFiles": [
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
-    "Zeitplan.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
-    "Spanisch/15.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
+    "Zeitplan.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+    "Spanisch/15.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
