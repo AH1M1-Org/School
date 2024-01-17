@@ -7,7 +7,7 @@ tags:
 ---
 ### Begrifflichkeiten
 #### Alphabet
-> Ein Alphabet ist eine endlich, nicht leere Menge $\sum$ von Zeichen. Zum Beispiel für die Sprache Schulnoten: $\{1, 2, 3, 4, 5, 6, +, -\}$ 
+> Ein Alphabet ist eine endliche, nicht leere Menge $\sum$ von Zeichen. Zum Beispiel für die Sprache Schulnoten: $\{1, 2, 3, 4, 5, 6, +, -\}$ 
 #### Wort
 > Ein Wort ist eine endliche Menge an Zeichen aus $\sum$. Zum Beispiel für die Sprache Schulnoten wären $\{123, 2+ , 454-\}$ dies wären zulässige Worte der Sprache Schulnote.
 #### Leeres Wort $\Huge \epsilon$ 
@@ -99,7 +99,7 @@ Ein deterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_{0}, F\}$ be
 ```
 
 **Hier gilt**
-- $Q = \{S,A,B\}$ 
+- $Q = \{q1,q2,q3\}$ 
 - $q_0 = q1$
 - $\sum = \{0,1\}$
 - $F = {q3}$
@@ -139,12 +139,12 @@ Ein nichtdeterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_0, F\}$
 	\draw[line width=1.5pt, fill=white] (A) -- (B) -- (C) -- cycle;
 	
 	\draw[line width=1.5pt, fill=white] (0,0) circle [radius = 0.5];
-	\node at (0,0) {Q1};
+	\node at (0,0) {q1};
 	\draw[->, line width=1.5pt, fill=white] (0.5,0) -- (2,0);
 	\node at (1.25,0.25) {0};
 	
 	\draw[line width=1.5pt, fill=white] (2.5,0) circle [radius = 0.5];
-	\node at (2.5,0) {Q2};
+	\node at (2.5,0) {q2};
 	\draw[->, line width=1.5pt, fill=white] (2.75,0.5) to [out=45, in=135, loop, distance=2cm] (2.25, 0.5);
 	\node at (2.5,2) {0,1};
 	\draw[->, line width=1.5pt, fill=white] (3,0) -- (4.5,0);
@@ -152,7 +152,7 @@ Ein nichtdeterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_0, F\}$
 	
 	\draw[line width=1.5pt, fill=white] (5,0) circle [radius = 0.5];
 	\draw[line width=1.5pt, fill=white] (5,0) circle [radius = 0.4];
-	\node at (5,0) {Q3};
+	\node at (5,0) {q3};
 	
 \end{tikzpicture}
 \end{document} 
@@ -160,7 +160,7 @@ Ein nichtdeterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_0, F\}$
 **Hier gilt**
 - $Q = \{q1, q2, q3\}$
 - $\sum = \{1,0\}$
-- $S = q1$
+- $q0 = q1$
 - $F = q3$
 
 <div style="page-break-after: always;"></div>
