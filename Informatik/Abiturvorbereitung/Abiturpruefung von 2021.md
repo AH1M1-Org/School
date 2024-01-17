@@ -7,7 +7,6 @@ tags:
 ---
 ![PDF](PDF/Informatik/3%20Abiturpruefung%202021.pdf)
 ### Aufgabe 1.1
-![DIA](Frage.png)
 ### Aufgabe 1.2
 atomar: Atomar bedeutet das ein Wert nicht mehr geteilt werden kann zum Beispiel waere Name nicht Atomar, weil man ihn in Nachname, Vorname aufteilen koennte. Diese beiden Attribute waeren dann aber Atomar
 
@@ -75,7 +74,61 @@ Marie, Martha, Peter, Mohammed, Ava, Denys
 Marie, Martha, Mohammed, Peter, Ava, Denys
 ### Aufgabe 2.3
 Die Methode Quicksort erwartet ein int Array der unter feld gespeichert wird, einen Integer dieser wird unter u gespeichert und noch einen Integer der unter o gespeichert wird. Sobald die Methode ausgefuehrt wird schaut man mit der if Bedingung ob u kleiner o ist wenn dies der fall ist wird ein neuer Integer festgelegt, dieser ist das pivot element, der wird berechnet aus u+o / 2 somit ergibt sich die Mitte eines teil Arrays. Die Variable pn ist dann das neue pivot Element und wird mit der Methode zerlege berechnet. Die Methode ist rekursiv und dient dazu ein Pivot Element zu erzeugen. Durch das u, pn-1 oder pn+1, o wird somit links und rechts weiter gegangen um so die Pivots machen. 
+### Aufgabe 2.4
+| feld0 | feld1 | feld2 | feld3 | feld4 | feld5 | feld6 | feld7   | pn  | j   |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------- | --- | --- |
+| 5     | 9     | 2     | 7     | 8     | 4     | 2     | 1       |     |     |
+| 5     | 9     | 2     | 1     | 8     | 4     | 2     | 7 Pivot | 0   | /   |
+| 5     | 9     | 2     | 1     | 8     | 4     | 2     | 7 Pivot | 1   | 0   |
+| 5     | 9     | 2     | 1     | 8     | 4     | 2     | 7 Pivot | 1   | 1   |
+| 5     | 2     | 9     | 1     | 8     | 4     | 2     | 7 Pivot | 2   | 2   |
+| 5     | 2     | 1     | 9     | 8     | 4     | 2     | 7 Pivot | 3   | 3   |
+| 5     | 2     | 1     | 9     | 8     | 4     | 2     | 7 Pivot | 3   | 4   |
+| 5     | 2     | 1     | 4     | 8     | 9     | 2     | 7 Pivot | 4   | 5   |
+| 5     | 2     | 1     | 4     | 2     | 9     | 8     | 7 Pivot | 5   | 6   |
+| 5      | 2      | 1      | 4      | 2      | 7 Pivot      | 8      | 9        | 5    | /    |
+### Aufgabe 2.5
+Pn liegt im Bereich von u bis o, weil pn mit u initialisiert wird und die Rekursion nur u-o mal ausgeführt wird (pn kann maximal o sein). Der Bereich wird nach jeder Rekursion kleiner. Jeden Durchlauf wird ein Element (Pivot Element) nicht weiter beachtet.
+Irgendwann gibt es ein Ende, wenn nur noch ein Element da ist (u = o). Falls das Pivot Element am Rand liegt, ist die Länge von links oder rechts 0 weshalb o< u und deswegen wird abgebrochen
 
+> Tipp: Nicht schauen wo terminiert wird sondern wir es erreicht wird das Terminiert wird. 
+### Aufgabe 2.6
+|  | worst-case | average-case | best-case |
+| ---- | ---- | ---- | ---- |
+| Bubble Sort | / | $O(n^2)$ | / |
+| Insertion Sort | $O(n^2)$ | / | $O(n)$ |
+| Selection Sort | / | $O(n^2)$ | $O(n^2)$ |
+| Quick Sort | $O(n^2)$ | $O(n ~ log ~ n)$ | $O(n ~ log ~ n)$ |
+> Binary search runtime = $O(log ~ n)$
+### Aufgabe 2.7
+|  | worst-case | best-case |
+| ---- | ---- | ---- |
+| 5-Elemente | $5 \cdot 2 = 10$ | $4$ |
+| n-Elemente |  | $n - 1$ |
+$$
+(n-1) + (n-2)...+3+2+1=\sum_{i = 1}^{n -1} 
+$$
+$$
+1+2+3+4+...+(n-1)+n=
+\frac{n}{2} \cdot (n + 1) = 
+\frac{n^2}{2} + \frac{n}{2} - n=
+\frac{n^2}{2} + \frac{n}{2}=
+\frac{n}{2} \cdot (n - 1)
+$$
+### Aufgabe 2.8
+### Aufgabe 2.9
+```java
+public class CO2Object {
+	public int compareTo(CO2Object object) {
+		if(object.getBeyeichnung.compareTo()) {
+		
+		} else if () {
 
+		return 0;
+		} else if () {
 
-
+		return 1;
+		}
+	}
+}	
+```

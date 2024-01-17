@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do List.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11661c6a4f80baa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zeitplan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To do List.md"
+                "file": "Zeitplan.md"
               }
             }
           },
@@ -74,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do List.md",
+                "file": "Zeitplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To do List.md",
+                "file": "Zeitplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,28 +142,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6585f8e0ff29721",
+  "active": "11661c6a4f80baa7",
   "lastOpenFiles": [
-    "README.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+    "Zeitplan.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
+    "Spanisch/15.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
     "To do List.md",
+    "README.md",
     "Mathe/Abiturvorbereitung/Checklist.md",
     "Informatik/Abiturvorbereitung/Checklist.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Mathe/Abiturvorbereitung/Unbenannt.md",
     "PDF/Lernzettel/Theoretische Informatik.pdf",
     "PDF/Lernzettel/Informatik/Theoretische Informatik.pdf",
-    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
     "PDF/Lernzettel/Mathe/Analytische Geometrie.pdf",
     "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
@@ -162,27 +182,21 @@
     "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "Theoretische Informatik.pdf",
     "PDF/Lernzettel",
-    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
     "Informatik/Abiturvorbereitung/Lernzettel/test.tex.md",
     "Informatik/Abiturvorbereitung/Lernzettel/test.tex",
     "Betriebwirtschaftslehere/6 Jahresabschluss International.md",
     "Englisch/10 Englisch Geothermal energy production.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung voñ2021.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
     "Informatik/Abiturvorbereitung/Praesentation/Informatik Dynamischedatenstrukturen.md",
     "Informatik/Abiturvorbereitung/Praesentation",
     "Pasted image 20240115182159.png",
-    "Excalidraw/Drawing 2024-01-15 18.10.26.excalidraw.md",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",
     "PDF/Informatik/Fall4.png",
     "PDF/Informatik/Fall3.png",
     "PDF/Informatik/Fall2.png",
     "PDF/Informatik/Fall1.png",
-    "Excalidraw/Aufgabe 3.6 Informatik.excalidraw.md",
     "Informatik/Dia/Relationaledatenbanken/Frage.png",
     "Informatik/Dia/Relationaledatenbanken/Aufgabe 1.4.png",
     "PDF/Deutsch/Nietzsche.png",

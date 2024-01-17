@@ -239,4 +239,77 @@ $$
 <div style="page-break-after: always;"></div>
 
 ### Syntaxdiagramme
-> Mit Syntaxdiagrammen kann man auch formale Sprachen beschreiben! Syntaxdiagramme bestehen aus Terminalsymbolen, Nichtterminalsymbolen und Verbindungspfeilen. Terminalsymbole sind Symbole des Alphabets der Sprache, die in Diagrammen durch abgerundete Rahmen zu erkennen sind. Nichtterminalsymbole sind Hilfssymbole, die in Diagrammen durch rechteckige Rahmen zu erkennen sind. Nichtterminalsymbole stehen jeweils für eigene Diagramme.
+> Mit Syntaxdiagrammen kann man auch formale Sprachen beschreiben! Syntaxdiagramme bestehen aus Terminalsymbolen, Nichtterminalsymbolen und Verbindungspfeilen. Terminalsymbole sind Symbole des Alphabets der Sprache, die in Diagrammen durch abgerundete Rahmen zu erkennen sind. Nichtterminalsymbole sind Hilfssymbole, die in Diagrammen durch rechteckige Rahmen zu erkennen sind. Nichtterminalsymbole stehen jeweils für eigene Diagramme. Somit kann man mit einem Syntaxdiagramm eine gültiges Wort bilden. 
+#### Beispiel Schulnoten
+```tikz 
+\begin{document} 
+\begin{tikzpicture} 
+	\draw[-, line width=1.5pt, fill=white] (-4,0) -- (-2,0);
+	\node at (-3,0.25) {Schulnote};
+
+	\draw[line width=1.5pt, fill=white] (0,0) circle [radius = 0.5];
+	\node at (0,0) {1};
+	\draw[->, line width=1.5pt, fill=white] (0,0.5) -- (0,1.5);
+	\draw[->, line width=1.5pt, fill=white] (0.5,0) -- (2,0);
+	\draw[->, line width=1.5pt, fill=white] (-2,0) -- (-0.5,0);
+	
+	\draw[line width=1.5pt, fill=white] (0,2) circle [radius = 0.5];
+	\node at (0,2) {2};
+	\draw[->, line width=1.5pt, fill=white] (0,2.5) -- (0,3.5);
+	\draw[->, line width=1.5pt, fill=white] (0.5,2) -- (2,2);
+	\draw[->, line width=1.5pt, fill=white] (-2,2) -- (-0.5,2);
+	
+	\draw[line width=1.5pt, fill=white] (0,4) circle [radius = 0.5];
+	\node at (0,4) {3};
+	\draw[->, line width=1.5pt, fill=white] (0,4.5) -- (0,5.5);
+	\draw[->, line width=1.5pt, fill=white] (0.5,4) -- (2,4);
+	\draw[->, line width=1.5pt, fill=white] (-2,4) -- (-0.5,4);
+	
+	\draw[line width=1.5pt, fill=white] (0,6) circle [radius = 0.5];
+	\node at (0,6) {4};
+	\draw[->, line width=1.5pt, fill=white] (0,6.5) -- (0,7.5);
+	\draw[->, line width=1.5pt, fill=white] (0.5,6) -- (2,6);
+	\draw[->, line width=1.5pt, fill=white] (-2,6) -- (-0.5,6);
+	
+	\draw[line width=1.5pt, fill=white] (0,8) circle [radius = 0.5];
+	\node at (0,8) {5};
+	\draw[->, line width=1.5pt, fill=white] (0,8.5) -- (0,9.5);
+	\draw[->, line width=1.5pt, fill=white] (0.5,8) -- (2,8);
+	\draw[->, line width=1.5pt, fill=white] (-2,8) -- (-0.5,8);
+
+	\draw[line width=1.5pt, fill=white] (0,10) circle [radius = 0.5];
+	\node at (0,10) {6};
+	\draw[->, line width=1.5pt, fill=white] (-2,10) -- (-0.5,10);
+	\draw[-, line width=1.5pt, fill=white] (0.5,10) -- (8,10);
+	\draw[-, line width=1.5pt, fill=white] (8,10) -- (8,4);
+
+	\draw[-, line width=1.5pt, fill=white] (-2,0) -- (-2,10);
+	\draw[->, line width=1.5pt, fill=white] (2,10) -- (2,0);
+	\draw[-, line width=1.5pt, fill=white] (2,0) -- (4,0);
+	\draw[-, line width=1.5pt, fill=white] (4,0) -- (4,2);
+
+	\draw[line width=1.5pt, fill=white] (6,0) circle [radius = 0.5];
+	\node at (6,0) {-};
+	\draw[->, line width=1.5pt, fill=white] (4,0) -- (5.5,0);
+	\draw[-, line width=1.5pt, fill=white] (6.5,0) -- (8,0);
+	
+	\draw[line width=1.5pt, fill=white] (6,2) circle [radius = 0.5];
+	\node at (6,2) {+};
+	\draw[->, line width=1.5pt, fill=white] (4,2) -- (5.5,2);
+	\draw[->, line width=1.5pt, fill=white] (6.5,2) -- (8,2);
+	\draw[->, line width=1.5pt, fill=white] (8,2) -- (8,0);
+
+	\draw[->, line width=1.5pt, fill=white] (4,2) -- (4,4);
+	\draw[->, line width=1.5pt, fill=white] (4,4) -- (8,4);
+	\draw[->, line width=1.5pt, fill=white] (8,4) -- (8,0);
+	\draw[->, line width=1.5pt, fill=white] (8,0) -- (10,0);
+
+	\node at (9,0.25) {Ende};
+\end{tikzpicture} 
+\end{document} 
+```
+
+
+
+
+
