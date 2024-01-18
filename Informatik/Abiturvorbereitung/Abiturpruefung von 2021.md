@@ -118,17 +118,23 @@ $$
 ### Aufgabe 2.8
 ### Aufgabe 2.9
 ```java
-public class CO2Object {
-	public int compareTo(CO2Object object) {
-		if(object.getBeyeichnung.compareTo()) {
-		
-		} else if () {
-
-		return 0;
-		} else if () {
-
-		return 1;
-		}
+public int compareTo (C020bj ekt obj2) {
+	int vergleich = this.getKategorie().compareTo(obj2.getKategorie());
+		if (vergleich==O) return this.getBezeichnung().compareTo(obj2.getBezeichnung())
+		else return vergleich;
+}
+```
+#### Aufgabe 2.10
+Das Sortierverfahren muss stabil sein. Ausserdem muss beim ersten Durchlauf nach der Bezeichnung sortiert  werden und dann nach der Kategorie.
+### Aufgabe 2.11
+```java
+public double berechneFussabdruck()
+	double abdruck_ges = C020bj ekt c02_obj ;
+	this.listeC020bjekte.toFirst();
+	while(this.listeC020bjekte.hasAccess() {
+		c02_obj = (C020bj ekt) this. listeC020bjekte.getObject();
+		abdruck_ges += c02_obj.getC02Wert() * c02_obj.getAnzah1();
+		this.listeC020bjekte.next();
 	}
-}	
+	return abdruck_ges;
 ```
