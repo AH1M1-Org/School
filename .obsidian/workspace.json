@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11661c6a4f80baa7",
+            "id": "ed1114bb29f9382d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md"
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,24 +138,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11661c6a4f80baa7",
+  "active": "ed1114bb29f9382d",
   "lastOpenFiles": [
+    "Deutsch/9 Schreibplan Facharbeit.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
+    "PDF/Informatik/6 Abiturpruefung 2013.pdf",
+    "PDF/Lernzettel/Informatik/Sortierverfahren.pdf",
+    "Zeitplan.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
+    "PDF/Informatik/6 Abiturpruefung 2023.pdf",
+    "PDF/Informatik/S-2013-Info.pdf",
     "Religion/11 Ethik der Organspende.md",
     "Deutsch/Facharbeit - Abwehrmöglichkeiten - Kryptologie.md",
     "Englisch/9 Stylistic devices.md",
     "Englisch/10 Englisch Geothermal energy production.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
-    "PDF/Lernzettel/Informatik/Sortierverfahren.pdf",
     "PDF/Lernzettel/Informatik/Datenbanken.pdf",
     "Excalidraw/Drawing 2024-01-17 21.08.25.excalidraw.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
-    "Zeitplan.md",
     "Spanisch/15.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
     "To do List.md",
     "README.md",
     "Mathe/Abiturvorbereitung/Checklist.md",
@@ -170,12 +175,7 @@
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
     "PDF/Lernzettel/Zahlentheorie.pdf",
     "PDF/Lernzettel/Informatik",
-    "PDF/Lernzettel/Mathe",
     "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
-    "Theoretische Informatik.pdf",
-    "PDF/Lernzettel",
-    "Informatik/Abiturvorbereitung/Lernzettel/test.tex.md",
     "Pasted image 20240115182159.png",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",
