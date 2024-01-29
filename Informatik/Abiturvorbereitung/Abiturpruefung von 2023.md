@@ -105,14 +105,14 @@ Die Methode ist *private* das heißt die Methode ist nur in der Klasse *Spielelo
 ### 3.5 Implementieren Sie die Methode bai Event mit den oben beschriebenen Anforderungen.
 ```java
 private void ballEvent(FlipperEvent e) {
-	if(e.getID() >= 1 && e.getID <= 99) {
+	if(e.getID() >= 1 && e.getID() <= 99) {
 		e.enque(e);
 	}
 	else if(e.getEventType.equals("Switch")) {
 		switchLight(e);
 	}
-	else if(e.getID == 999) {
-		ballOut()
+	else if(e.getID() == 999) {
+		ballOut();
 	}
 }
 ```
@@ -152,6 +152,12 @@ public void remove() {
 				Container current = first;
 				while(current != it) {
 					current = current.getNext();
+				}
+				current.setNext(it.getNext)
+				it = current.getNext();
+//Solnage durchgehen bis wir it erreichthaben
+				if(current.getNext() == null) {
+					last = current;
 				}
 			}
 		}

@@ -27,7 +27,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,0) rectangle (9,1);
 \node at (8.5,0.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -0.5) rectangle (9, -0.5);
+\draw[line width=2pt, fill=white] (0, -0.5) rectangle (9, -0.5);
 
 \draw[line width=1.5pt, fill=white] (0,-1) rectangle (1,-2);
 \node at (0.5,-1.5) {2};
@@ -40,7 +40,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-1) rectangle (9,-2);
 \node at (8.5,-1.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -2.5) rectangle (9, -2.5);
+\draw[line width=2pt, fill=white] (0, -2.5) rectangle (9, -2.5);
 
 \draw[line width=1.5pt, fill=white] (0,-3) rectangle (1,-4);
 \node at (0.5,-3.5) {2};
@@ -53,7 +53,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-3) rectangle (9,-4);
 \node at (8.5,-3.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -4.5) rectangle (9, -4.5);
+\draw[line width=2pt, fill=white] (0, -4.5) rectangle (9, -4.5);
 
 \draw[line width=1.5pt, fill=white] (0,-5) rectangle (1,-6);
 \node at (0.5,-5.5) {2};
@@ -66,7 +66,7 @@ tags:
 \draw[line width=1.5pt, fill=white, color=magenta] (8,-5) rectangle (9,-6);
 \node at (8.5,-5.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+\draw[line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
 
 \draw[line width=1.5pt, fill=white] (0,-7) rectangle (1,-8);
 \node at (0.5,-7.5) {2};
@@ -79,7 +79,7 @@ tags:
 \draw[line width=1.5pt, fill=white, color=gray] (8,-7) rectangle (9,-8);
 \node at (8.5,-7.5) {5};
 
-\draw[line width=1.5pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+\draw[line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
 
 \end{tikzpicture} 
 \end{document} 
@@ -109,7 +109,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,0) rectangle (9,1);
 \node at (8.5,0.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -0.5) rectangle (9, -0.5);
+\draw[line width=2pt, fill=white] (0, -0.5) rectangle (9, -0.5);
 
 \draw[line width=1.5pt, fill=white] (0,-1) rectangle (1,-2);
 \node at (0.5,-1.5) {2};
@@ -148,7 +148,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-5) rectangle (9,-6);
 \node at (8.5,-5.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+\draw[line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
 
 \draw[line width=1.5pt, fill=white] (0,-7) rectangle (1,-8);
 \node at (0.5,-7.5) {2};
@@ -190,7 +190,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,0) rectangle (9,1);
 \node at (8.5,0.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -0.5) rectangle (9, -0.5);
+\draw[line width=2pt, fill=white] (0, -0.5) rectangle (9, -0.5);
 
 \draw[line width=1.5pt, fill=white, color=gray] (0,-1) rectangle (1,-2);
 \node at (0.5,-1.5) {5};
@@ -229,7 +229,7 @@ tags:
 \draw[line width=1.5pt, fill=white, color=magenta] (8,-5) rectangle (9,-6);
 \node at (8.5,-5.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+\draw[line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
 
 \draw[line width=1.5pt, fill=white] (0,-7) rectangle (1,-8);
 \node at (0.5,-7.5) {1};
@@ -249,6 +249,121 @@ tags:
 <div style="page-break-after: always;"></div>
 
 #### Quick Sort
+> Quick Sort funktioniert folgendermaßen:
+> 1. **Teilen**: Zuerst wählen wir ein Pivot-Element aus der Liste, beispielsweise die Zahl 3. Alle Elemente kleiner als 3 werden nach links verschoben, und alle Elemente größer als 3 werden nach rechts verschoben. Nach diesem Schritt sieht die Liste möglicherweise wie folgt aus: 2, 1, 3, 5, 4.
+> 2. **Herrschen**: Nun wenden wir den Algorithmus rekursiv auf die beiden Teillisten an: {2, 1} und {5, 4}. Für jede Teilliste wählen wir ein neues Pivot-Element und wiederholen den Teilschritt "Teilen". Dieser Prozess wird fortgesetzt, bis alle Teillisten sortiert sind.
+>  
+> Durch die Wahl des Pivot-Elements und die effiziente Teilung der Liste wird die Sortierung erreicht. Die Visualisierung dieses Prozesses verdeutlicht, wie die Elemente schrittweise sortiert werden, wobei die Pivot-Elemente hervorgehoben sind und die Vergleiche zwischen den Elementen durch ein graues Kaestchen dargestellt wird.
+
+```tikz 
+\begin{document} 
+\begin{tikzpicture} 
+
+\draw[line width=1.5pt, fill=white, color=gray] (0,0) rectangle (1,1);
+\node at (0.5,0.5) {5};
+\draw[line width=1.5pt, fill=white] (2,0) rectangle (3,1);
+\node at (2.5,0.5) {2};
+\draw[line width=1.5pt, fill=white, color=gray, draw=lime] (4,0) rectangle (5,1);
+\node at (4.5,0.5) {3};
+\draw[line width=1.5pt, fill=white] (6,0) rectangle (7,1);
+\node at (6.5,0.5) {1};
+\draw[line width=1.5pt, fill=white] (8,0) rectangle (9,1);
+\node at (8.5,0.5) {4};
+
+\draw[line width=2pt, fill=white] (0, -0.5) rectangle (9, -0.5);
+
+\draw[line width=1.5pt, fill=white, draw=magenta] (0,-1) rectangle (1,-2);
+\node at (0.5,-1.5) {5};
+\draw[line width=1.5pt, fill=white] (2,-1) rectangle (3,-2);
+\node at (2.5,-1.5) {2};
+\draw[line width=1.5pt, fill=white, color=gray, draw=lime] (4,-1) rectangle (5,-2);
+\node at (4.5,-1.5) {3};
+\draw[line width=1.5pt, fill=white] (6,-1) rectangle (7,-2);
+\node at (6.5,-1.5) {1};
+\draw[line width=1.5pt, fill=white, color=gray] (8,-1) rectangle (9,-2);
+\node at (8.5,-1.5) {4};
+
+\draw[dotted, line width=2pt] (0, -2.5) -- (9, -2.5);
+
+\draw[line width=1.5pt, fill=white, draw=magenta] (0,-3) rectangle (1,-4);
+\node at (0.5,-3.5) {5};
+\draw[line width=1.5pt, fill=white] (2,-3) rectangle (3,-4);
+\node at (2.5,-3.5) {2};
+\draw[line width=1.5pt, fill=white, color=gray, draw=lime] (4,-3) rectangle (5,-4);
+\node at (4.5,-3.5) {3};
+\draw[line width=1.5pt, fill=white, color=gray] (6,-3) rectangle (7,-4);
+\node at (6.5,-3.5) {1};
+\draw[line width=1.5pt, fill=white] (8,-3) rectangle (9,-4);
+\node at (8.5,-3.5) {4};
+
+\draw[dotted, line width=2pt] (0, -4.5) -- (9, -4.5);
+
+\draw[line width=2pt, fill=white, draw=magenta] (0,-5) rectangle (1,-6);
+\node at (0.5,-5.5) {1};
+\draw[line width=1.5pt, fill=white] (2,-5) rectangle (3,-6);
+\node at (2.5,-5.5) {2};
+\draw[line width=1.5pt, fill=white, draw=lime] (4,-5) rectangle (5,-6);
+\node at (4.5,-5.5) {3};
+\draw[line width=1.5pt, fill=white, draw=magenta] (6,-5) rectangle (7,-6);
+\node at (6.5,-5.5) {5};
+\draw[line width=1.5pt, fill=white] (8,-5) rectangle (9,-6);
+\node at (8.5,-5.5) {4};
+
+\draw[dotted, line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+
+\draw[line width=1.5pt, fill=white] (0,-7) rectangle (1,-8);
+\node at (0.5,-7.5) {1};
+\draw[line width=1.5pt, fill=white, draw=lime] (2,-7) rectangle (3,-8);
+\node at (2.5,-7.5) {2};
+\draw[line width=1.5pt, fill=white] (4,-7) rectangle (5,-8);
+\node at (4.5,-7.5) {3};
+\draw[line width=1.5pt, fill=white] (6,-7) rectangle (7,-8);
+\node at (6.5,-7.5) {5};
+\draw[line width=1.5pt, fill=white, draw=lime] (8,-7) rectangle (9,-8);
+\node at (8.5,-7.5) {4};
+
+\draw[dotted, line width=1.5pt, fill=white] (0, -8.5) rectangle (9, -8.5);
+
+\draw[line width=2pt, fill=white, color=gray] (0,-9) rectangle (1,-10);
+\node at (0.5,-9.5) {1};
+\draw[line width=1.5pt, fill=white, color=gray, draw=lime] (2,-9) rectangle (3,-10);
+\node at (2.5,-9.5) {2};
+\draw[line width=1.5pt, fill=white] (4,-9) rectangle (5,-10);
+\node at (4.5,-9.5) {3};
+\draw[line width=1.5pt, fill=white] (6,-9) rectangle (7,-10);
+\node at (6.5,-9.5) {5};
+\draw[line width=1.5pt, fill=white, draw=lime] (8,-9) rectangle (9,-10);
+\node at (8.5,-9.5) {4};
+
+\draw[dotted, line width=1.5pt, fill=white] (0, -10.5) rectangle (9, -10.5);
+
+\draw[line width=2pt, fill=white] (0,-11) rectangle (1,-12);
+\node at (0.5,-11.5) {1};
+\draw[line width=1.5pt, fill=white] (2,-11) rectangle (3,-12);
+\node at (2.5,-11.5) {2};
+\draw[line width=1.5pt, fill=white] (4,-11) rectangle (5,-12);
+\node at (4.5,-11.5) {3};
+\draw[line width=1.5pt, fill=white, color=gray] (6,-11) rectangle (7,-12);
+\node at (6.5,-11.5) {5};
+\draw[line width=1.5pt, fill=white, color=gray, draw=lime] (8,-11) rectangle (9,-12);
+\node at (8.5,-11.5) {4};
+
+\draw[dotted, line width=2pt, fill=white] (0, -12.5) rectangle (9, -12.5);
+
+\draw[line width=1.5pt, fill=white] (0,-13) rectangle (1,-14);
+\node at (0.5,-13.5) {1};
+\draw[line width=1.5pt, fill=white] (2,-13) rectangle (3,-14);
+\node at (2.5,-13.5) {2};
+\draw[line width=1.5pt, fill=white] (4,-13) rectangle (5,-14);
+\node at (4.5,-13.5) {3};
+\draw[line width=1.5pt, fill=white, draw=magenta] (6,-13) rectangle (7,-14);
+\node at (6.5,-13.5) {4};
+\draw[line width=1.5pt, fill=white, draw=magenta] (8,-13) rectangle (9,-14);
+\node at (8.5,-13.5) {5};
+
+\end{tikzpicture} 
+\end{document} 
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -283,7 +398,7 @@ tags:
 \draw[line width=1.5pt, fill=white, color=magenta] (8,-1) rectangle (9,-2);
 \node at (8.5,-1.5) {5};
 
-\draw[dotted, line width=2pt] (0, -2.5) -- (9, -2.5);
+\draw[line width=2pt] (0, -2.5) -- (9, -2.5);
 
 \draw[line width=1.5pt, fill=white] (0,-3) rectangle (1,-4);
 \node at (0.5,-3.5) {2};
@@ -296,7 +411,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-3) rectangle (9,-4);
 \node at (8.5,-3.5) {5};
 
-\draw[dotted, line width=2pt] (0, -4.5) -- (9, -4.5);
+\draw[line width=2pt] (0, -4.5) -- (9, -4.5);
 
 \draw[line width=1.5pt, fill=white] (0,-5) rectangle (1,-6);
 \node at (0.5,-5.5) {2};
@@ -309,7 +424,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-5) rectangle (9,-6);
 \node at (8.5,-5.5) {5};
 
-\draw[dotted, line width=1.5pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+\draw[line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
 
 \draw[line width=1.5pt, fill=white] (0,-7) rectangle (1,-8);
 \node at (0.5,-7.5) {1};
@@ -356,7 +471,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-1) rectangle (9,-2);
 \node at (8.5,-1.5) {4};
 
-\draw[dotted, line width=2pt] (0, -2.5) -- (9, -2.5);
+\draw[line width=2pt] (0, -2.5) -- (9, -2.5);
 
 \draw[line width=1.5pt, fill=white] (0,-3) rectangle (1,-4);
 \node at (0.5,-3.5) {2};
@@ -369,7 +484,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-3) rectangle (9,-4);
 \node at (8.5,-3.5) {4};
 
-\draw[dotted, line width=2pt] (0, -4.5) -- (9, -4.5);
+\draw[line width=2pt] (0, -4.5) -- (9, -4.5);
 
 \draw[line width=1.5pt, fill=white, color=magenta] (0,-5) rectangle (1,-6);
 \node at (0.5,-5.5) {1};
@@ -382,7 +497,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-5) rectangle (9,-6);
 \node at (8.5,-5.5) {4};
 
-\draw[dotted, line width=1.5pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+\draw[line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
 
 \draw[line width=1.5pt, fill=white] (0,-7) rectangle (1,-8);
 \node at (0.5,-7.5) {1};
@@ -417,7 +532,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,0) rectangle (9,1);
 \node at (8.5,0.5) {4};
 
-\draw[line width=1.5pt, fill=white] (0, -0.5) rectangle (9, -0.5);
+\draw[line width=2pt, fill=white] (0, -0.5) rectangle (9, -0.5);
 
 \draw[line width=1.5pt, fill=white, color=magenta] (0,-1) rectangle (1,-2);
 \node at (0.5,-1.5) {1};
@@ -430,7 +545,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-1) rectangle (9,-2);
 \node at (8.5,-1.5) {4};
 
-\draw[dotted, line width=2pt] (0, -2.5) -- (9, -2.5);
+\draw[line width=2pt] (0, -2.5) -- (9, -2.5);
 
 \draw[line width=1.5pt, fill=white] (0,-3) rectangle (1,-4);
 \node at (0.5,-3.5) {1};
@@ -443,7 +558,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-3) rectangle (9,-4);
 \node at (8.5,-3.5) {4};
 
-\draw[dotted, line width=2pt] (0, -4.5) -- (9, -4.5);
+\draw[line width=2pt] (0, -4.5) -- (9, -4.5);
 
 \draw[line width=1.5pt, fill=white] (0,-5) rectangle (1,-6);
 \node at (0.5,-5.5) {1};
@@ -456,7 +571,7 @@ tags:
 \draw[line width=1.5pt, fill=white] (8,-5) rectangle (9,-6);
 \node at (8.5,-5.5) {4};
 
-\draw[dotted, line width=1.5pt, fill=white] (0, -6.5) rectangle (9, -6.5);
+\draw[line width=2pt, fill=white] (0, -6.5) rectangle (9, -6.5);
 
 \draw[line width=1.5pt, fill=white] (0,-7) rectangle (1,-8);
 \node at (0.5,-7.5) {1};
@@ -474,6 +589,63 @@ tags:
 ```
 
 #### Quick Sort
+```tikz 
+\begin{document} 
+\begin{tikzpicture} 
+
+\draw[line width=1.5pt, fill=white] (0,0) rectangle (1,1);
+\node at (0.5,0.5) {5};
+\draw[line width=1.5pt, fill=white] (2,0) rectangle (3,1);
+\node at (2.5,0.5) {2};
+\draw[line width=1.5pt, fill=white] (4,0) rectangle (5,1);
+\node at (4.5,0.5) {3};
+\draw[line width=1.5pt, fill=white] (6,0) rectangle (7,1);
+\node at (6.5,0.5) {1};
+\draw[line width=1.5pt, fill=white] (8,0) rectangle (9,1);
+\node at (8.5,0.5) {4};
+
+\draw[line width=2pt, fill=white] (0, -0.5) rectangle (9, -0.5);
+
+\draw[line width=1.5pt, fill=white, color=gray] (0,-1) rectangle (1,-2);
+\node at (0.5,-1.5) {1};
+\draw[line width=1.5pt, fill=white] (2,-1) rectangle (3,-2);
+\node at (2.5,-1.5) {2};
+\draw[line width=1.5pt, fill=white, draw=lime] (4,-1) rectangle (5,-2);
+\node at (4.5,-1.5) {3};
+\draw[line width=1.5pt, fill=white, color=magenta] (6,-1) rectangle (7,-2);
+\node at (6.5,-1.5) {5};
+\draw[line width=1.5pt, fill=white] (8,-1) rectangle (9,-2);
+\node at (8.5,-1.5) {4};
+
+\draw[line width=2pt] (0, -2.5) -- (9, -2.5);
+
+\draw[line width=1.5pt, fill=white] (0,-3) rectangle (1,-4);
+\node at (0.5,-3.5) {1};
+\draw[line width=1.5pt, fill=white, draw=lime] (2,-3) rectangle (3,-4);
+\node at (2.5,-3.5) {2};
+\draw[line width=1.5pt, fill=white] (4,-3) rectangle (5,-4);
+\node at (4.5,-3.5) {3};
+\draw[line width=1.5pt, fill=white] (6,-3) rectangle (7,-4);
+\node at (6.5,-3.5) {5};
+\draw[line width=1.5pt, fill=white, draw=lime] (8,-3) rectangle (9,-4);
+\node at (8.5,-3.5) {4};
+
+\draw[line width=2pt] (0, -4.5) -- (9, -4.5);
+
+\draw[line width=1.5pt, fill=white] (0,-5) rectangle (1,-6);
+\node at (0.5,-5.5) {1};
+\draw[line width=1.5pt, fill=white] (2,-5) rectangle (3,-6);
+\node at (2.5,-5.5) {2};
+\draw[line width=1.5pt, fill=white] (4,-5) rectangle (5,-6);
+\node at (4.5,-5.5) {3};
+\draw[line width=1.5pt, fill=white, color=gray] (6,-5) rectangle (7,-6);
+\node at (6.5,-5.5) {4};
+\draw[line width=1.5pt, fill=white, color=magenta] (8,-5) rectangle (9,-6);
+\node at (8.5,-5.5) {5};
+
+\end{tikzpicture} 
+\end{document} 
+```
 
 <div style="page-break-after: always;"></div>
 
@@ -495,6 +667,9 @@ tags:
 | Insertion Sort | Ja | Insertion Sort ist im Allgemeinen stabil, da bei gleichem Schlüsselwert das neu eingefügte Element nach den bereits vorhandenen mit dem gleichen Schlüsselwert platziert wird. |
 | Selection Sort | Nein | Selection Sort ist im Allgemeinen nicht stabil, da bei gleichen Schlüsselwerten keine Garantie besteht, dass die Reihenfolge beibehalten wird. |
 | Quick Sort | Nein | Quick Sort ist im Allgemeinen nicht stabil, da während des Aufteilungsgesetz die Reihenfolge von Elementen mit gleichem Schlüsselwert nicht beibehalten wird. |
+
+<div style="page-break-after: always;"></div>
+
 #### Beispiel - stabile Sortierung
 ```tikz 
 \begin{document} 

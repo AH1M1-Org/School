@@ -1,3 +1,10 @@
+---
+tags:
+  - Religion
+---
+*Marvin Baeumer* **2024-01-28 21:55**
+
+---
 ### Nutzenethik (Jeremy Bentham)
 *~Diejenige Handlung ist die Beste, welche das höchste Maß an Glück für die größte Anzahl von Menschen erreicht~*
 

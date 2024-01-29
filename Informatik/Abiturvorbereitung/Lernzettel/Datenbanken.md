@@ -1,6 +1,7 @@
 ---
 tags:
   - Informatik
+  - Templates
 ---
 *Marvin Baeumer* **2023-12-06 10:20**
 
@@ -60,12 +61,15 @@ PRIMARY KEY ([Spalte1]),
 FOREIGN KEY (Spalte2) REFRENCES [Tabelle]([Spalte]),
 );
 ```
+
 8. **INSERT:**
 ```SQL
 INSERT INTO [Tabelle] ([Spalte1], [Spalte2]) 
 VALUES (Wert1, Wert2);
 ```
 > Der `INSERT`-Befehl wird verwendet, um neue Datensätze in eine Tabelle einzufügen. Man gibt dabei die Werte für jede Spalte an, die mit den definierten Spalten der Tabelle übereinstimmen. Diese Operation ermöglicht das Hinzufügen von Daten in die Datenbank.
+
+<div style="page-break-after: always;"></div>
 
 9. **UPDATE:**
 ```SQL
@@ -74,8 +78,6 @@ UPDATE [Tabelle] SET
 [Spalte2] = Wert2 WHERE [Bedingung];
 ```
 > Mit dem `UPDATE`-Befehl werden bestehende Datensätze in einer Tabelle aktualisiert. Man gibt die zu aktualisierenden Spalten und die entsprechenden Werte an. Die `WHERE`-Klausel dient dazu, den Bereich der zu aktualisierenden Datensätze zu beschränken, um sicherzustellen, dass nur bestimmte Datensätze modifiziert werden.
-
-<div style="page-break-after: always;"></div>
 
 10. **DELETE:**
 ```SQL

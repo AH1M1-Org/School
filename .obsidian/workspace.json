@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1dcbe1c93645636",
+        "id": "b000d14653be34fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ed1114bb29f9382d",
+            "id": "f980b3f49ba84dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md"
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "file": "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,54 +128,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed1114bb29f9382d",
+  "active": "f980b3f49ba84dff",
   "lastOpenFiles": [
-    "Deutsch/9 Schreibplan Facharbeit.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
-    "PDF/Informatik/6 Abiturpruefung 2013.pdf",
-    "PDF/Lernzettel/Informatik/Sortierverfahren.pdf",
-    "Zeitplan.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2021.md",
-    "PDF/Informatik/6 Abiturpruefung 2023.pdf",
-    "PDF/Informatik/S-2013-Info.pdf",
-    "Religion/11 Ethik der Organspende.md",
-    "Deutsch/Facharbeit - Abwehrmöglichkeiten - Kryptologie.md",
-    "Englisch/9 Stylistic devices.md",
-    "Englisch/10 Englisch Geothermal energy production.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
-    "PDF/Lernzettel/Informatik/Datenbanken.pdf",
-    "Excalidraw/Drawing 2024-01-17 21.08.25.excalidraw.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
-    "Spanisch/15.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
-    "To do List.md",
-    "README.md",
-    "Mathe/Abiturvorbereitung/Checklist.md",
-    "Informatik/Abiturvorbereitung/Checklist.md",
-    "Mathe/Abiturvorbereitung/Unbenannt.md",
-    "PDF/Lernzettel/Theoretische Informatik.pdf",
-    "PDF/Lernzettel/Informatik/Theoretische Informatik.pdf",
-    "PDF/Lernzettel/Mathe/Analytische Geometrie.pdf",
+    "PDF/Lernzettel/Mathe/Dynamische Datenstrukturen.pdf",
     "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+    "PDF/Lernzettel/Informatik/Kryptologie.pdf",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
-    "PDF/Lernzettel/Zahlentheorie.pdf",
-    "PDF/Lernzettel/Informatik",
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+    "README.md",
+    "Test.md",
+    "To do List.md",
+    "Zeitplan.md",
+    "Informatik/Abiturvorbereitung/Checklist Informatik.md",
+    "Informatik/~$Dynamische Datenstrukturen.pptx",
+    "Deutsch/9 Schreibplan Facharbeit.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
+    "Deutsch/~$ckblatt Facharbeit.docx",
+    "Excalidraw/Drawing 2024-01-17 21.08.25.excalidraw.md",
+    "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
+    "Mathe/Abiturvorbereitung/Checklist Mathe.md",
+    "Englisch/10 Englisch Geothermal energy production.md",
+    "Englisch/~$Geothermal Energy.pptx",
+    "Religion/11 Ethik der Organspende.md",
+    "Spanisch/15.md",
+    "Templates/New Site.md",
+    "Templates/TikzSkizzen/Tikz - Vectorgraphic.md",
+    "Templates/TikzSkizzen/Tikz - Koordinaten System.md",
+    "Templates/TikzSkizzen/Tikz - document.md",
+    "PDF/Lernzettel/Informatik/Dynamische Datenstrukturen.pdf",
+    "Informatik/ppt7E5D.tmp",
+    "Informatik/ppt58C3.tmp",
+    "Informatik/ppt2A35.tmp",
+    "Informatik/pptDE4B.tmp",
     "Pasted image 20240115182159.png",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",

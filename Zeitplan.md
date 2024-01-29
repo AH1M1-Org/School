@@ -1,3 +1,11 @@
+---
+tags:
+  - general
+---
+*Marvin Baeumer* **2024-01-28 21:54**
+
+---
+
 | Stunde | Thema |
 | ---- | ---- |
 | 10.00 | Begrüßung, worum es geht, Fragerunde |

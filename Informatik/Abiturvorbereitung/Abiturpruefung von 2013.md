@@ -1,3 +1,11 @@
+---
+tags:
+  - Informatik
+---
+*Marvin Baeumer* **2024-01-28 22:01**
+
+---
+
 ![PDF](PDF/Informatik/6%20Abiturpruefung%202013.pdf)
 ### Aufgabe 3.1
 | 1. Durchlauf | A | M | T | H | E | I | N | F | O | L | K |

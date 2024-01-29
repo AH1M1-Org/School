@@ -121,7 +121,7 @@ $$
 | $q1$ | $q1$ | $q2$ |
 | $q2$ | $q1$ | $q3$ |
 | $q3$ | $q3$ | $q3$ |
-> Bei der Übergangsfunktion ist es wichtig, jeden Zustand zu beachten und zu prüfen, von welchem Zustand es wohin geht.
+> Bei der Übergangsfunktion ist es wichtig, jeden Zustand zu beachten und zu prüfen, von welchem Zustand es wohin geht. Ein Automat dient dazu um Worte zu erkennen. Es muss ein moeglicher Weg gefunden Werden der im Endzustand landet.
 #### Nichtdeterministischer endlicher Automat (NEA)
 Ein nichtdeterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_0, F\}$ besteht aus:
 - einer endlichen Menge an $Q$ von Zuständen
@@ -166,7 +166,7 @@ Ein nichtdeterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_0, F\}$
 <div style="page-break-after: always;"></div>
 
 **Übergangsfunktion/Umwandeln**
-> Man kann einen NEA in einen DEA umwandeln mithilfe der Potenzmengenkonstruktion, dafür benötigt man das Verständnis der Übergangsfunktion.
+> Man kann einen NEA in einen DEA umwandeln mithilfe der Potenzmengenkonstruktion, dafür benötigt man das Verständnis der Übergangsfunktion. Ein Automat dient dazu um Worte zu erkennen. Es muss ein moeglicher Weg gefunden Werden der im Endzustand landet.
 
 | NEA $\rightarrow$ DEA | 0 | 1 |
 | ---- | ---- | ---- |
@@ -213,6 +213,10 @@ Ein nichtdeterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_0, F\}$
 \end{tikzpicture}
 \end{document} 
 ```
+
+<div style="page-break-after: always;"></div>
+
+#### Kellerautomaten
 
 <div style="page-break-after: always;"></div>
 

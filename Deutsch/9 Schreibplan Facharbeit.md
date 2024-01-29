@@ -1,3 +1,11 @@
+---
+tags:
+  - Deutsch
+---
+*Marvin Baeumer* **2024-01-28 21:54**
+
+---
+
 #### Leitfrage: Kann Kryptographie wirklich vor Cybercrime schützen?
 
 1. **Deckblatt**
@@ -14,3 +22,4 @@
 	> Antwort auf die Leitfrage
 8. **Quellen**
 9. **Literaturverzeichnis**
+[Facharbeit](Deckblatt%20Facharbeit.docx)
