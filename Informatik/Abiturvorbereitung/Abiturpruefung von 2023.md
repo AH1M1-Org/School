@@ -31,12 +31,12 @@ Ein Stack funktioniert mit dem LIFO Prinzip (Last in first out) und eine Queue n
 
 ### 3.2 Geben Sie den Programmcode einer Containerklasse mit den beschriebenen Eigenschaften an. Dabei sollen neben den Attributen ein Konstruktor sowie get- und set-Methoden realisiert werden. (7 Punkte)
 ```java
-public class Container {
+public class Knoten {
 	//Attribute
 	Object item;
-	Container next;
+	Knoten next;
 	// Konstuktor
-	public Container(Object object) {
+	public Knoten(Object object) {
 		this.object = object;
 		this.next = null;
 	}
@@ -44,13 +44,13 @@ public class Container {
 	public Object getObject() {
 		return this.object;
 	}
-	public Container getNext() {
+	public Knoten getNext() {
 		return this.next;
 	}
 	public void setObject(Object object) {
 		this.object = object;
 	}
-	public void setNext(Container next) {
+	public void setNext(Knoten next) {
 		this.next = next;
 	}
 }
@@ -143,24 +143,62 @@ public void remove() {
 			it = null;
 //Wenn nur ein Element vorhanden dann wird alles null da wir es entfernen wollen
 		} else {
-			if(first = it) { //Loeschen des ersten Elements
+			if(first == it) { //Loeschen des ersten Elements
 				it = first.getNext(); 
 				first = it;
 //Wenn nun das erste Element auch unser aktuelles Element ist so kann it das nachfolgende Element sein und first ebenso da wir so kein Pointer mehr auf dem vorherigen Element haben und es so geloscht wird
 			}
 			else {
-				Container current = first;
-				while(current != it) {
+				Knoten current = first;
+//Current auf das erste Element setzen
+				while(current.getNext() != it) {
 					current = current.getNext();
 				}
-				current.setNext(it.getNext)
+//Solange durchgehen bis der Nachfolger von current = dem it Element ist. 
+				current.setNext(it.getNext());
 				it = current.getNext();
-//Solnage durchgehen bis wir it erreichthaben
+//Nun setzen wir von current den Nachfolger auf den Nachfolger von it, it wird dann auf dessen Nachfolger gesetzt wodruch wir keinen Pointer mehr auf dem alten it Element haben.
 				if(current.getNext() == null) {
 					last = current;
 				}
+// Dies dient dazu um zu checken ob wir am Ende sind und last somit neu setzen muessen, it waere in diesem fall dann aber null. 
 			}
 		}
 	}
+}
+```
+
+### Aufgabe 3.8
+```java
+public class Spiellogik {
+
+    private Queue eventQueue;
+    private List eventList;
+    private int score;
+
+    private void ballOut() {
+        while (!eventQueue.isEmpty()) {
+
+            boolean eingefuegt = false;
+            eventList.toFirst();
+            FlipperEvent aktQueueEvent = (FlipperEvent) eventQueue.front();
+
+            while (eventList.hasAccess() && !eingefuegt) {
+                FlipperEvent aktListEvent = (FlipperEvent) eventList.getObject();
+
+                if (aktListEvent.getSensorGroupNumber() <= aktQueueEvent.getSensorGroupNumber()) {
+                    eventList.next();
+                } else {
+                    eventList.insert(aktQueueEvent);
+                    eventQueue.dequeue();
+                    eingefuegt = true;
+                }
+            }
+            if (!eventList.hasAccess()) {
+                eventList.append(aktQueueEvent);
+                eventQueue.dequeue();
+            }
+        }
+    }
 }
 ```
