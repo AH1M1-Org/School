@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Betriebwirtschaftslehere/Stukturbilanz.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Betriebwirtschaftslehere/Stukturbilanz.md"
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Betriebwirtschaftslehere/Stukturbilanz.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Betriebwirtschaftslehere/Stukturbilanz.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -141,11 +140,12 @@
   },
   "active": "f980b3f49ba84dff",
   "lastOpenFiles": [
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "Betriebwirtschaftslehere/Stukturbilanz.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
     "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
@@ -153,7 +153,6 @@
     "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "PDF/Lernzettel/Mathe/Dynamische Datenstrukturen.pdf",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "PDF/Lernzettel/Informatik/Kryptologie.pdf",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
     "README.md",
