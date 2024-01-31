@@ -1,3 +1,10 @@
+---
+tags:
+  - Betriebwirtschaftslehre
+---
+*Marvin Baeumer* **2024-01-31 10:57**
+
+---
 Strukturbilanz Geschäftsjahr:
     • Anlagevermögen
         ○ Immaterielles Vermögen: - €

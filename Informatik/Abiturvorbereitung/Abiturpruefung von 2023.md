@@ -186,7 +186,7 @@ public class Spiellogik {
             while (eventList.hasAccess() && !eingefuegt) {
                 FlipperEvent aktListEvent = (FlipperEvent) eventList.getObject();
 
-                if (aktListEvent.getSensorGroupNumber() <= aktQueueEvent.getSensorGroupNumber()) {
+                if (aktListEvent.getSensorGroupNumber() <=  aktQueueEvent.getSensorGroupNumber()) {
                     eventList.next();
                 } else {
                     eventList.insert(aktQueueEvent);
