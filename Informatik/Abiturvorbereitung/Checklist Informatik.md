@@ -14,3 +14,5 @@ tags:
 ![[Datenbanken.pdf]]
 ### Sortierverfahren
 ![[Sortierverfahren.pdf]]
+### Kryptologie (nicht relevant)
+![[Kryptologie.pdf]]

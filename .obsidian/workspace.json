@@ -11,8 +11,13 @@
             "id": "873d35b1b9c81538",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -58,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md"
+              }
             }
           },
           {
@@ -67,6 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,11 +140,11 @@
   },
   "active": "873d35b1b9c81538",
   "lastOpenFiles": [
+    "Informatik/Abiturvorbereitung/Checklist Informatik.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2016.md",
     "Spanisch/16 Describe la estadísticas.md",
-    "Informatik/Abiturvorbereitung/Checklist Informatik.md",
     "Betriebwirtschaftslehere/7 Stukturbilanz.md",
     "Informatik/ppt274B.tmp",
     "Spanisch/15 Objectivo.md",
