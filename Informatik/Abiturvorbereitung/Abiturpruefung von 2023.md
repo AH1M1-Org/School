@@ -178,27 +178,97 @@ public class Spiellogik {
 
     private void ballOut() {
         while (!eventQueue.isEmpty()) {
+// Diese while dient dazu solange den Prozess zu wiederholen bis die Queue leer ist
 
             boolean eingefuegt = false;
+// Eingefuegt dient als abbruch bedingung nach dem man ein kleineres Element vor einem groesseren eingefuegt hat.
+
             eventList.toFirst();
+// Dient dazu immer wieder bei einem neuem inneren durchlauf von voren zu starten
+
             FlipperEvent aktQueueEvent = (FlipperEvent) eventQueue.front();
+// aktQueueEvent ist immer das erste Element das neu in die List eingefuegt werden soll
 
             while (eventList.hasAccess() && !eingefuegt) {
+// Diese while wiederholt die durch gaenge der Elemente um diese zu vergleichen
+
                 FlipperEvent aktListEvent = (FlipperEvent) eventList.getObject();
+// Hier wird immer das aktuelle Element der Liste drin gespeichert
 
                 if (aktListEvent.getSensorGroupNumber() <=  aktQueueEvent.getSensorGroupNumber()) {
                     eventList.next();
+// Wenn unser aktuelles Element in der Liste eine kleinere Sensor Nummer hat als das front Element der Queue, wird in der Liste das aktuelle Element einen weiter nach links verschoben, dies dient dazu um alle Elemente, der Liste von der front bis zum Ende zu vergleichen mit dem front Queue Element. Mit next kann man somit am Ende das aktuelle Element vernichten um so eine abbruchbedinung fuer die Schleife zu haben, was dann durch die if das Element der Queue hinten an die Liste anfuegt, dies wird dann immer eine groessere Sensor nummer haben und ist somit sortiert.
                 } else {
                     eventList.insert(aktQueueEvent);
                     eventQueue.dequeue();
                     eingefuegt = true;
+// Dies dient dem Fall falls man ein kleineres Element zwischen drin einfuegen muss
                 }
             }
             if (!eventList.hasAccess()) {
                 eventList.append(aktQueueEvent);
                 eventQueue.dequeue();
+// Dient dazu um das front Element der Queue hinten dran zu haengen und dann das front Queue Element zu entfernen
             }
         }
     }
 }
 ```
+
+| Nummer | Text                                                                                                                  | Punkte  |
+| ------ | --------------------------------------------------------------------------------------------------------------------- | ------- |
+| 3.8.1  | implementiert eine Schleife über alle Elemente der Queue.                                                             | 2 (II)  |
+| 3.8.2  | durchläuft die Liste, um die Einfügestelle zu finden.                                                                 | 3 (III) |
+| 3.8.3  | implementiert das Entfernen der Elemente aus der Queue.                                                               | 2 (II)  |
+| 3.8.4  | realisiert das Einfügen in die leere Liste, am Anfang und im Inneren der Liste, sowie das Anhängen am Ende der Liste. | 5 (III) |
+### Aufgabe 3.9
+```java
+private void bonusScore() {
+	eventList.toFirst();
+// Setzen auf das erste Element der Liste
+	
+	 int bonus = 0;
+	 int zaehler = 1;
+	 int cmpGroupNumber = 0;
+// Noetige variablen zum Berechnen des Scores
+	 
+	 FlipperEvent aktEvent = (FlipperEvent) eventList.getObject();
+// Object damit wir auf die Sensorgruppe Nummer zugreifen koennen
+
+	 cmpGroupNumber = aktEvent.getSensorGroupNumber();
+	 eventList.next();
+// cmpGroup speichert unsere aktuelle Sensor Gruppe dir wir zaehlen um so pro Einheit durchzaehlen zu koennen. Dadurch das wir das erste Element einer SensorGruppen einheit nutzen, koennen wir beim Nachfolger anfangen da der Zaehler schon auf 1 ist deswegen.next().
+	 
+	 while (eventList.hasAccess()) {
+// While um die Liste durchzugehen um somit die alle Einheiten mitzunehemen fuer die korrekte Berechnung
+
+		 aktEvent = (FlipperEvent) eventList.getObject();
+// Speicherung des neuen Elements das man im Verlaufe mit .next() erhaelt um so wieder auf die Sensor Gruppen nummer zuzugreifen
+
+		 if (cmpGroupNumber == aktEvent.getSensorGroupNumber()) {
+			 zaehler++;
+			 eventList.next();
+		 }
+// Berechnet den Zaehler pro Sensor Gruppe da wir immer checken ob wir noch in der gleichen SensirGruppe sind mithilfe der Group nummer und wenn das so ist zaehlen wir +1 und verschieben unser it Element eins weiter. Somit durch geht man jede Sensor gruppe
+
+		 else {
+			 bonus = bonus + ((zaehler / 10)+1)*1000*zaehler;
+			 zaehler = 1;
+			 cmpGroupNumber = aktEvent.getSensorGroupNumber();
+			 eventList.next();
+		 }
+// Berechnet mithilfe des Zaehler den Bonus und sorgt dann dafuer das wir zur naechsten Sensor Gruppe gehen. Der Zaehler wird wieder auf 1 gesetzt, weil wir fuer jede Sensorgruppe neu durchzaehlen
+	 }
+	 
+	 bonus += 1000;
+	 score += bonus;
+}
+```
+
+| Nummer | Text                                                                                                   | Punkte |
+|--------|--------------------------------------------------------------------------------------------------------|--------|
+| 3.9.1  | setzt das aktuelle Element auf den Anfang der Liste und deklariert benötigte Variablen.               | 2(II)  |
+| 3.9.2  | berücksichtigt die Behandlung des ersten Elements der Liste.                                           | 3 (II) |
+| 3.9.3  | implementiert die Ermittlung der Anzahl der Elemente pro Gruppe.                                       | 5 (III) |
+| 3.9.4  | implementiert die Ermittlung des Faktors je nach Anzahl der Elemente pro Gruppe.                      | 3 (III) |
+| 3.9.5  | implementiert die Ermittlung der Bonuspunkte und deren Addition zum vorhandenen Score.                 | 3 (II) |
