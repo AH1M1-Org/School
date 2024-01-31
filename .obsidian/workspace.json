@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd0b769f316b0de",
+        "id": "0d686ed2ca6e7be4",
         "type": "tabs",
         "children": [
           {
-            "id": "773d574809ca95cc",
+            "id": "4a5d6098ac586850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -63,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -74,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +129,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "773d574809ca95cc",
+  "active": "4a5d6098ac586850",
   "lastOpenFiles": [
+    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+    "Mathe/Abiturvorbereitung/Checklist Mathe.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
     "Informatik/ppt8265.tmp",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
@@ -153,7 +147,6 @@
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2016.md",
     "Excalidraw/Drawing 2024-01-31 16.56.07.excalidraw.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "Informatik/Abiturvorbereitung/Checklist Informatik.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
@@ -168,7 +161,6 @@
     "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "PDF/Lernzettel/Mathe/Dynamische Datenstrukturen.pdf",
     "PDF/Lernzettel/Informatik/Kryptologie.pdf",
     "README.md",

@@ -5,5 +5,7 @@ tags:
 *Marvin Baeumer* **2023-12-06 10:32**
 
 ---
+### Analysis
+![[Analysis.pdf]]
 ### Analytische Geometrie
 ![[Analytische Geometrie.pdf]]
