@@ -1,6 +1,7 @@
 ---
 tags:
   - Mathe
+  - Templates
 ---
 *Marvin Baeumer* **2023-12-06 10:23**
 
@@ -56,8 +57,50 @@ f''(x) & = & 6a \cdot x + 2b
 \end{matrix}
 $$
 
-#### Ableitungen von $e$ Funktionen
+<div style="page-break-after: always;"></div>
 
+#### Ableitungen von $e$ Funktionen
+> Eine Ableitung von $e^x$ ist immer $e^x$ selbst. Meistens steht die Ableitung von $e$ Funktionen in Verbindung mit der Produkt- und Kettenregel.
+
+**Beispiel**
+$$
+f_a(x)=x \cdot e^{(-a \cdot x)}
+$$
+> Um die Funktion $f_a(t)$ abzuleiten benoetigen wir die Produkt regel, weil wir $x \cdot e$ haben.
+
+$$
+\begin{matrix}
+\text{Produktregel} \\\\
+u' & = & 1 \\
+u & = & x \\
+v' & = & ? \\
+v & = &e^{(-a \cdot x)} \\
+\end{matrix} \\
+$$
+> Um nun die Ableitung von $v$ zu bekommen benötigen wir die Kettenregel, weil wir eine verkettet Funktion $e^{(-a \cdot x)}$
+
+$$
+\begin{matrix}
+\text{Kettenregel} \\\\
+I_a(x) & = & e^{(-a \cdot x)} \\\\
+g & = & e^x \\
+g' & = & e^x \\
+h & = & (-a \cdot x) \\
+h' & = & -a\\\\
+I_a'(x) & = & e^{(-a \cdot x)} \cdot -a
+\end{matrix}
+$$
+> Nun kennen wir also die Ableitung von der $e$ Funktion somit haben wir das fehlende $v'= e^{(-a \cdot x)}$ das uns in der Produktregel fehlte. Somit können wir jetzt alles in die Produktregel einsetzen.
+
+$$
+\begin{matrix}
+\Leftrightarrow \text{Produktregel} \\\\
+u' \cdot v + u \cdot v' \\
+f_a'(x) = 1 \cdot e^{(-a \cdot x)} + x \cdot (-a) \cdot e^{(-a \cdot x)} \\\\
+\text{Zusammenfassen} \\\\
+f_a'(x) = (1 - a \cdot x) \cdot e^{-a \cdot x} 
+\end{matrix}
+$$
 <div style="page-break-after: always;"></div>
 
 ### Extremstellen
@@ -119,6 +162,13 @@ f'''[...]
 %Ergebnis muss < 0 sein% 
 f[...]
 ```
+
+<div style="page-break-after: always;"></div>
+
 ### Funktion aus Bedingungen aufstellen
+> Eine Bedingung beschreibt meistens die Funktion die man aufstellen soll. Eine Bedingung kann zum Beispiel sein dass man weiß wo sich der Hochpunkt befindet. wir nehmen mal an der Hochpunkt waere bei $(5|40)$ somit haette man zwei Bedinungen. 
+> 1. $f'(5) = 0$
+> 2. $f(5) = 40$ 
+> 
 ### Integrale
 
