@@ -11,8 +11,13 @@
             "id": "4a5d6098ac586850",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Religion/12 Reli test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -58,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Religion/12 Reli test.md"
+              }
             }
           },
           {
@@ -67,6 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion/12 Reli test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Religion/12 Reli test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,11 +128,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
@@ -131,16 +140,23 @@
   },
   "active": "4a5d6098ac586850",
   "lastOpenFiles": [
-    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
+    "Religion/11 Ethik der Organspende.md",
+    "Religion/12 Reli test.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2023.md",
+    "Zeitplan.md",
+    "To do List.md",
+    "README.md",
+    "Test.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Datenbanken.md",
     "Mathe/Abiturvorbereitung/Checklist Mathe.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
     "Informatik/ppt8265.tmp",
-    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
     "Excalidraw/Informatik Code darstellung.excalidraw.md",
     "Informatik/~$Dynamische Datenstrukturen.pptx",
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
     "PDF/Lernzettel/Mathe/Analysis.pdf",
     "Informatik/ppt2223.tmp",
     "Informatik/ppt1196.tmp",
@@ -158,15 +174,8 @@
     "Informatik/ppt97D0.tmp",
     "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Dynamische Datenstrukturen.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Kryptologie.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Sortierverfahren.md",
     "PDF/Lernzettel/Mathe/Dynamische Datenstrukturen.pdf",
     "PDF/Lernzettel/Informatik/Kryptologie.pdf",
-    "README.md",
-    "Test.md",
-    "To do List.md",
-    "Zeitplan.md",
     "Pasted image 20240115182159.png",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",
