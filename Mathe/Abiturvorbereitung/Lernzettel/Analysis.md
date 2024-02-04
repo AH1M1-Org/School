@@ -169,6 +169,5 @@ f[...]
 > Eine Bedingung beschreibt meistens die Funktion die man aufstellen soll. Eine Bedingung kann zum Beispiel sein dass man weiß wo sich der Hochpunkt befindet. wir nehmen mal an der Hochpunkt waere bei $(5|40)$ somit haette man zwei Bedinungen. 
 > 1. $f'(5) = 0$
 > 2. $f(5) = 40$ 
-> 
 ### Integrale
 
