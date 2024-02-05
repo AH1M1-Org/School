@@ -1,3 +1,10 @@
+---
+tags:
+  - "#Religion"
+---
+*Marvin Baeumer* **2024-02-05 11:41**
+
+---
 Eine Situation, in der eine ärztlich durchgeführte Sterbehilfe strafbar wäre, könnte folgendermaßen aussehen: Ein Arzt verabreicht einem Patienten, der unter unerträglichen Schmerzen leidet, auf dessen ausdrücklichen Wunsch hin ein tödliches Medikament. Dies würde in Deutschland als aktive Sterbehilfe eingestuft und ist strafbar, da es als Tötung auf Verlangen gewertet wird. 
 
 **Drei rechtliche Vorschriften zur Sterbehilfe in Deutschland sind:** 

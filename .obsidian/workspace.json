@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md"
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,11 +128,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
@@ -140,8 +140,14 @@
   },
   "active": "4a5d6098ac586850",
   "lastOpenFiles": [
-    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
+    "PDF/Lernzettel/Mathe/Stochastik.pdf",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2016.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
+    "Religion/12 Reli test.md",
+    "Gesellschaftslehre/8 Neuer Imperialismus.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
@@ -151,7 +157,6 @@
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2023.md",
-    "Religion/12 Reli test.md",
     "Religion/11 Ethik der Organspende.md",
     "Zeitplan.md",
     "To do List.md",
@@ -166,11 +171,6 @@
     "PDF/Lernzettel/Mathe/Analysis.pdf",
     "Informatik/ppt2223.tmp",
     "Informatik/ppt1196.tmp",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2016.md",
-    "Excalidraw/Drawing 2024-01-31 16.56.07.excalidraw.md",
-    "Informatik/Abiturvorbereitung/Checklist Informatik.md",
-    "Spanisch/16 Describe la estadísticas.md",
     "Informatik/ppt274B.tmp",
     "Informatik/ppt9F92.tmp",
     "Informatik/ppt97D0.tmp",
