@@ -1,6 +1,7 @@
 ---
 tags:
   - Mathe
+  - Templates
 ---
 *Marvin Baeumer* **2023-12-06 10:23**
 
@@ -126,6 +127,9 @@ f''(...)
 %Ergebnis muss < 0 sein% 
 f[...]
 ```
+
+<div style="page-break-after: always;"></div>
+
 #### Tiefpunkt
 1. $f'(x)$ aufstellen
 2. $f''(x)$ aufstellen
@@ -180,7 +184,22 @@ Solve[f[5] == 40 && f'[5] == 0 && f[0] == -5]
 ### Integrale 
 > Das bestimmte Integral einer Funktion $f(x)$ auf dem Intervall $[a, b]$ steht für die Fläche unterhalb der Kurve $f(x)$ zwischen den Grenzen $a$ und $b$. Es wird symbolisch durch $\large \int_{a}^{b} f(x) \, dx$ dargestellt. Die grundlegenden Regeln für die Integration umfassen die lineare Eigenschaft, die Potenzregel und die Summenregel. 
 > Das unbestimmte Integral $\large \int f(x) \, dx$ repräsentiert eine Familie von Funktionen, deren Ableitung $f(x)$ ist. Das bestimmte Integral $\large \int_{a}^{b} f(x) \, dx$ berechnet den Flächeninhalt zwischen der Kurve $f(x)$ und der $x$-Achse über dem Intervall $[a, b]$.
+
+```Mathematica
+f[x_] := a*x^3 + b*x^2 + c*x + d
+
+Integrate[f[x], {x, a, b}]
+```
+
+<div style="page-break-after: always;"></div>
+
 #### Aufleiten
-> Aufleiten bedeutet von einer abgeleiteten Funktion $f'(x)$ die Stammfunktion $F(x)$ zu bilden. Dazu braucht man die Potenzgesetze und und das Verstaendnis zur Ableitung. 
+> Aufleiten ist ein Prozess, bei dem man die Stammfunktion $F(x)$ einer abgeleiteten Funktion $f'(x)$ bildet. Hierbei werden die Potenzgesetze und ein Verständnis für Ableitungen angewendet. Man berechnet die Zahl vor $x$ geteilt durch $n + 1$. Dies beschreibt den neuen Exponenten.
 
 **Beispiel**
+$$
+\begin{matrix}
+f'(x) & = & 3x^2 + 6x + 5 \\
+F(x) & = & \frac{3}{3}x^3 + \frac{6}{2}x^2 + 5x + c
+\end{matrix}
+$$
