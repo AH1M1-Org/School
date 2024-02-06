@@ -2,7 +2,7 @@
 tags:
   - Biologie
 ---
-<div style="page-break-after: always;"></div>*Marvin Baeumer* **2024-02-05 21:53**
+*Marvin Baeumer* **2024-02-05 21:53**
 
 ---
 Aufgabe 2

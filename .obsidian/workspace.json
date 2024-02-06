@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+                "file": "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md"
+                "file": "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+                "file": "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+                "file": "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,10 +140,13 @@
   },
   "active": "4a5d6098ac586850",
   "lastOpenFiles": [
+    "Biologie/6 Ablauf in einer Synapse.md",
+    "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
+    "Mathe/Mathematica/Abiturpruefung 2019.nb",
+    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
     "PDF/Lernzettel/Mathe/Stochastik.pdf",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2016.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
     "Religion/12 Reli test.md",
@@ -166,7 +169,6 @@
     "Mathe/Abiturvorbereitung/Checklist Mathe.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
     "Informatik/ppt8265.tmp",
-    "Excalidraw/Informatik Code darstellung.excalidraw.md",
     "Informatik/~$Dynamische Datenstrukturen.pptx",
     "PDF/Lernzettel/Mathe/Analysis.pdf",
     "Informatik/ppt2223.tmp",
@@ -174,8 +176,6 @@
     "Informatik/ppt274B.tmp",
     "Informatik/ppt9F92.tmp",
     "Informatik/ppt97D0.tmp",
-    "PDF/Lernzettel/Mathe/Dynamische Datenstrukturen.pdf",
-    "PDF/Lernzettel/Informatik/Kryptologie.pdf",
     "Pasted image 20240115182159.png",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",
