@@ -1,7 +1,6 @@
 ---
 tags:
   - Mathe
-  - Templates
 ---
 *Marvin Baeumer* **2023-12-06 10:23**
 
@@ -50,7 +49,7 @@ $$
 #### Ableitungen bilden
 > Eine Ableitung beschreibt die Steigung einer Funktion, also ist die Ableitung die Steigungsfunktion der Stammfunktion. Die zweite Ableitung beschreibt die Änderungsrate der Stammfunktion. Eine Ableitung stellt man mit $f'(x)$ dar, vorausgesetzt unsere ursprüngliche Funktion war $f(x)$. Die zweite Ableitung stellt man dann mit $f''(x)$ dar.
 
-**Berechnung - Formel**
+**Berechnung - Beispiel**
 > Die Berechnung erfolgt mit dem Wert vor dem $x$ mal dem Exponenten, dann zieht man $-1$ vom Exponenten ab. Konstanten fallen somit weg.
 $$
 \begin{matrix}
@@ -59,6 +58,10 @@ f'(x) & = & 3a \cdot x^2  + 2b \cdot x + c \\
 f''(x) & = & 6a \cdot x + 2b
 \end{matrix}
 $$
+1. Der Term $a \cdot x^3$ wird zu \ ($3 \cdot a \cdot x^{3-1} = 3a \cdot x^2$.
+2. Der Term $b \cdot x^2$ wird zu $2 \cdot b \cdot x^{2-1} = 2b \cdot x$.
+3. Der Term $c \cdot x$ wird zu $c$.
+4. Der Term $d$ wird zu $0$, da die Ableitung einer Konstanten $0$ ist.
 
 <div style="page-break-after: always;"></div>
 
@@ -179,7 +182,7 @@ f[...]
 
 ```Mathematica
 f[x_] := a*x^2 + b*x + c
-Solve[f[5] == 40 && f'[5] == 0 && f[0] == -5]
+Solve[f[5] == 40 && f'[5] == 0 && f[-5] == 0]
 ```
 ### Integrale 
 > Das bestimmte Integral einer Funktion $f(x)$ auf dem Intervall $[a, b]$ steht für die Fläche unterhalb der Kurve $f(x)$ zwischen den Grenzen $a$ und $b$. Es wird symbolisch durch $\large \int_{a}^{b} f(x) \, dx$ dargestellt. Die grundlegenden Regeln für die Integration umfassen die lineare Eigenschaft, die Potenzregel und die Summenregel. 
@@ -199,7 +202,7 @@ Integrate[f[x], {x, a, b}]
 **Beispiel**
 $$
 \begin{matrix}
-f'(x) & = & 3x^2 + 6x + 5 \\
+f(x) & = & 3x^2 + 6x + 5 \\
 F(x) & = & \frac{3}{3}x^3 + \frac{6}{2}x^2 + 5x + c
 \end{matrix}
 $$

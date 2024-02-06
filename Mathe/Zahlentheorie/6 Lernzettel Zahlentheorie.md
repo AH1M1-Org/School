@@ -6,45 +6,26 @@ tags:
 
 ---
 ### **Rechenregeln**
-$a_1 \equiv b_1 \mod m$
-
-$a_2 \equiv b_2 \mod m$
-
-$\Longrightarrow a_1 + a_2 \equiv a_2 + b_2 \mod m$
-
-$a_1 = 120 ~ a_2 = 80 ~ b_1 = 248 ~ b_2 = 116$
-
-$120 \equiv 248 \mod 4 ~ Rest = 0$
-
-$80 \equiv 116 \mod 4 ~ Rest = 0$
-
-$\Leftrightarrow 120 + 80 \equiv 248 + 116 \mod 4 ~ Rest = 0$
-#### *"Wir duerfen zwei Kongruenzen modulo m addieren"*
----
-$a \equiv b \mod m \Longrightarrow a \cdot c \equiv b \cdot c \mod m$
-
-$a = 6 ~ b = 9 ~ c = 2 \mod 3$
-
-$6 \equiv 9 \mod 3 ~ Rest = 0$
-
-$\Leftrightarrow 6 \cdot 2 \equiv 9 \cdot 2 \mod 3 ~ Rest = 0$
-#### *"Wir duerfen beide Seiten einer Kongruenz mit der gleichen ganzen Zahl multiplizieren"* 
----
-$a_1 \equiv b_1 \mod m$
-
-$a_2 \equiv b_2 \mod m$
-
-$\Longrightarrow a_1 \cdot a_2 \equiv a_2 \cdot b_2 \mod m$
-
-$a_1 = 3 ~ a_2 = 9 ~ b_1 = 6 ~ b_2 = 12$
-
-$3 \equiv 6 \mod 3 ~ Rest = 0$
-
-$9 \equiv 12 \mod 3 ~ Rest = 0$
-
-$\Leftrightarrow 3 \cdot 9 \equiv 6 \cdot 12 \mod 3 ~ Rest = 0$
-#### *"Wir duerfen zwei Kongruenzen Modulo m multiplizieren"*
----
+$$
+\begin{matrix}
+a_1 & \equiv &b_1 \mod m \\
+a_2 & \equiv & b_2 \mod m \\
+\Longrightarrow a_1 + a_2 & \equiv & b_1 + b_2 \mod m
+\end{matrix}
+$$*"Wir duerfen zwei Kongruenzen modulo m addieren"*
+ $$
+\begin{matrix}
+a_1 & \equiv & b_1 \mod m \\
+\Longrightarrow a_1 \cdot c & \equiv &b_2 \cdot c \mod m \\
+\end{matrix}
+$$*"Wir duerfen beide Seiten einer Kongruenz mit der gleichen ganzen Zahl multiplizieren"* 
+$$
+\begin{matrix}
+a_1 & \equiv &b_1 \mod m \\
+a_2 & \equiv & b_2 \mod m \\
+\Longrightarrow a_1 \cdot a_2 & \equiv & b_1 \cdot b_2 \mod m
+\end{matrix}
+$$*"Wir duerfen zwei Kongruenzen Modulo m multiplizieren"*
 #### *Modulo teilen*
 $8 \cdot x \equiv 0 \mod 20 ~ | \div 8$ 
 > durch 8 teilen
@@ -56,7 +37,7 @@ $ggt(8,20) = 4$
 
 $x \equiv 0 \mod 5$ 
 > Neuer Modulo gleich 5
----
+
 ### **Teilbarkeitsregeln**
 $2 \rightarrow$ wenn die Zahl auf ${0,2,4,6,8}$ endet.
 

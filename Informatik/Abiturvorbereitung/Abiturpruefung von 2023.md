@@ -106,12 +106,12 @@ Die Methode ist *private* das heißt die Methode ist nur in der Klasse *Spielelo
 ```java
 private void ballEvent(FlipperEvent e) {
 	if(e.getID() >= 1 && e.getID() <= 99) {
-		e.enque(e);
+		eventQueue.enque(e);
 	}
 	else if(e.getEventType.equals("Switch")) {
 		switchLight(e);
 	}
-	else if(e.getID() == 999) {
+	else if(e.getSensorGroupNumber() == 999) {
 		ballOut();
 	}
 }

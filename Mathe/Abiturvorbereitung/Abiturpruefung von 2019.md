@@ -68,3 +68,4 @@ P(A \cup B) = P(A) \cdot P(B) - P(A\cap B) = 0,8 \cdot \\
 P(B) = 
 \end{matrix}
 $$
+[Mathematica](Mathe/Mathematica/Abiturpruefung%202019.nb)

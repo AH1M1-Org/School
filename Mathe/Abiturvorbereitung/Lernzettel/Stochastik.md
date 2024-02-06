@@ -79,13 +79,18 @@ $$
 ### Standardabweichung
 >   Die Standardabweichung ist ein Maß dafür, wie stark die Werte einer Datenmenge um den Durchschnitt streuen. Sie gibt an, wie weit die einzelnen Datenpunkte im Durchschnitt vom Mittelwert entfernt sind. Je größer die Standardabweichung, desto größer ist die Streuung der Daten um den Mittelwert.
 
+**Formel**
+$$
+\sigma(X) = \sqrt{n \cdot p \cdot (1 - p) }
+$$
+
 ```Mathematica
-StandardDeviation[{100, 0.5}]
+StandardDeviation[BinomialDistribution[n, p]]
 ```
 ### Erwartungswert
 > Er repräsentiert den Durchschnitt oder die mittlere Wertung eines Zufallsprozesses oder einer Zufallsvariablen über eine große Anzahl von Experimenten oder Ereignissen.
 
-$$Erwartungswert = n \cdot p$$
+$$\mu = n \cdot p$$
 ### Fakultät
 > Die Fakultät ist eine mathematische Funktion, die in der Kombinatorik oft verwendet wird. Sie wird oft verwendet, um die Anzahl der Möglichkeiten zu berechnen, wie eine bestimmte Anzahl von Objekten in einer bestimmten Reihenfolge angeordnet werden kann. Die Fakultät einer Zahl $n$, geschrieben als $n!$, ist das Produkt aller positiven ganzen Zahlen von $1$ bis $n$. Mathematisch ausgedrückt:
 
@@ -114,16 +119,16 @@ $$\Huge \binom{n}{k} = \frac{n!}{k! \cdot (n - k)!}$$
 > Hier können wir den Binomialkoeffizienten verwenden, um die Anzahl der Möglichkeiten zu berechnen, die Kombination auszuwählen. Jedes Zahlenrad hat $10$ mögliche Zahlen, und da die Reihenfolge der Zahlen wichtig ist, verwenden wir die Permutation.
 > Die Anzahl der Möglichkeiten, $k$ Zahlen aus $n$ möglichen Optionen ohne Wiederholung auszuwählen, beträgt:
 
-$$\Huge \binom{n}{k} = \frac{n!}{(n - k)!}$$
+$$\Huge \binom{n}{k} = \frac{n!}{k! \cdot(n - k)!}$$
 
 <div style="page-break-after: always;"></div>
 
 > Für unser Beispiel ist $n = 10$ (Anzahl der möglichen Zahlen auf jedem Rad) und $k = 4$ (Anzahl der Räder). Also setzen wir die Werte in die Formel ein:
 
-$$\binom{10}{4} = \frac{10!}{(10 - 4)!} = \frac{10!}{6!} = 5040$$
-> Das bedeutet, es gibt $5040$ verschiedene Kombinationen von Zahlen, die du für das Fahrradschloss wählen kannst. 
+$$\binom{10}{4} = \frac{10!}{4! \cdot(10 - 4)!} = \frac{10!}{4! \cdot 6!} = 210$$
+> Das bedeutet, es gibt $210$ verschiedene Kombinationen von Zahlen, die du für das Fahrradschloss wählen kannst. 
 ```Mathematica
-Binomial[n,p]
+Binomial[n,k]
 ```
 <div style="page-break-after: always;"></div>
 
@@ -160,26 +165,23 @@ Reduce[Probability[X >= Bedingung, X \[Distributed] BinomialDistribution[n, p]]>
 $$
 \begin{matrix}
 X \sim B & & (n, p)& \\
-P(X = k) & \\
 P(X = k) & = & p \\
 \end{matrix}
 $$
 
 <div style="page-break-after: always;"></div>
 
-### Hypothesentest 2. Seitig
-#### Signifikanzniveau
-> 1. **Definition**: Das Signifikanzniveau mit $a$ dargestellt ist die maximale Wahrscheinlichkeit, die wir akzeptieren, um einen Fehler 1. Art zu machen, also die Wahrscheinlichkeit, die Nullhypothese zu fälschlicherweise ablehnen, wenn sie tatsächlich wahr ist. 
-> 
-> 2. **Auswahl:** Das Signifikanzniveau wird im Voraus festgelegt, bevor der Hypothesentest durchgeführt wird. Es wird oft auf einem bestimmten Wert festgelegt, wie zum Beispiel 0,05 oder 0,01. Ein Signifikanzniveau von 0,05 bedeutet beispielsweise, dass wir bereit sind, eine Wahrscheinlichkeit von 5% zu akzeptieren, einen Fehler 1. Art zu machen.
->  
-> 3. **Interpretation**: Wenn der zuvor berechnete Wert nicht mehr in unserem Annahmebereich zwischen $[a,b]$ liegt, lehnen wir die Nullhypothese ab, andernfalls akzeptieren wir die Nullhypothese. Die Grenzen $[a,b]$ werden durch $\frac{a}{2}$ bestimmt.
-#### Fehler 1. Art
-> Ein Fehler 1. Art tritt auf, wenn die Nullhypothese fälschlicherweise abgelehnt wird, obwohl sie tatsächlich wahr ist. Die Wahrscheinlichkeit, einen Fehler 1. Art zu begehen, wird als Signifikanzniveau (α) festgelegt. Ein typischer Wert für das Signifikanzniveau ist 0,05, was bedeutet, dass wir bereit sind, eine 5% Wahrscheinlichkeit zu akzeptieren, einen Fehler 1. Art zu machen.
-#### Fehler 2. Art
+### Signifikanzniveau
+> Das Signifikanzniveau beschreibt die Wahrscheinlichkeit, die wir bereit sind einzugehen, um einen Fehler 1. Art zu machen, also die Nullhypothese zu verwerfen, obwohl sie stimmt. Das Signifikanzniveau wird mit $\alpha$ dargestellt und bei einem zweiseitigen Test auf beide Seiten aufgeteilt, das heißt, pro Seite gilt $\frac{\alpha}{2}$. Oft ist das Signifikanzniveau $0,05$ oder $0,01$.
+### Fehler 1. Art
+> Ein Fehler 1. Art tritt auf, wenn die Nullhypothese fälschlicherweise abgelehnt wird, obwohl sie tatsächlich wahr ist. Die Wahrscheinlichkeit, einen Fehler 1. Art zu begehen, wird als Signifikanzniveau $\alpha$ festgelegt. Ein typischer Wert für das Signifikanzniveau ist $0,05$, was bedeutet, dass wir bereit sind, eine $5\%$ Wahrscheinlichkeit zu akzeptieren, einen Fehler 1. Art zu machen.
+### Fehler 2. Art
 > Ein Fehler 2. Art tritt auf, wenn die Nullhypothese nicht abgelehnt wird, obwohl sie tatsächlich falsch ist (d. h., die Alternativhypothese wahr ist).
 
 <div style="page-break-after: always;"></div>
+
+### Hypothesentest 2 Seitig
+> Ein zweiseitiger Hypothesentest wird verwendet, um zu prüfen, ob ein Parameter signifikant von einem bestimmten Wert abweicht, ohne eine Richtung anzugeben. Mit anderen Worten, er untersucht, ob es einen Unterschied gibt, aber nicht, ob der Parameter größer oder kleiner ist als der festgelegte Wert.
 
 **Beispiel**
 > Ein Restaurant möchte herausfinden, ob sich die Vorlieben seiner Kunden hinsichtlich der gewählten Speisen geändert haben. In der Vergangenheit bestellte etwa ein Drittel der Kunden vegetarische Gerichte. Nach Einführung einer neuen Speisekarte mit dem Schwerpunkt auf veganen Gerichten wird eine Umfrage unter 150 Kunden durchgeführt. Das Restaurant möchte herausfinden, ob sich der Anteil der Kunden, die vegetarische Gerichte bevorzugen, signifikant verändert hat.
@@ -197,10 +199,12 @@ $n \rightarrow 150$
 
 $p \rightarrow \frac{1}{3}$
 
-**1. Formulierung der Hypothesen:**
-Nullhypothese $(H_0)$: Die Wahrscheinlichkeit bleibt bei $\frac{1}{3}$, der Anteil der Kunden, die vegetarische Gerichte bevorzugen, hat sich nicht verändert.
+**Formulierung der Hypothesen:**
+> Nullhypothese $(H_0)$: Die Wahrscheinlichkeit bleibt bei $\frac{1}{3}$, der Anteil der Kunden, die vegetarische Gerichte bevorzugen, hat sich nicht verändert.
+> 
+> Alternativhypothese $(H_1)$: Die Wahrscheinlichkeit ist ungleich $\frac{1}{3}$, der Anteil der Kunden, die vegetarische Gerichte bevorzugen, hat sich verändert.
 
-Alternativhypothese $(H_1)$: Die Wahrscheinlichkeit ist ungleich $\frac{1}{3}$, der Anteil der Kunden, die vegetarische Gerichte bevorzugen, hat sich verändert.
+<div style="page-break-after: always;"></div>
 
 **Rechnung**
 $$
@@ -212,8 +216,6 @@ b \rightarrow 62
 \end{matrix}
 $$
 > Die $\frac{5}{2}$ ergeben sich durch das Signifikanzniveau $\div$ 2
-<div style="page-break-after: always;"></div>
-
 ```Mathematica
 (* fuer a *)
 TableForm[
@@ -231,3 +233,52 @@ TableForm[
 > In unserem Beispiel ergäben sich die Grenzen $a \rightarrow 38$ und $b \rightarrow 62$. 
 > Die Antwort auf unsere Nullhypothese wäre nun: Wenn die Anzahl der Kunden vorher zwischen $38$ und $62$ lag, hat sich nichts geändert an der Wahrscheinlichkeit $\frac{1}{3}$. Aber sagt uns der Restaurantbesitzer, es seien jetzt $100$ Leute, können wir die Nullhypothese ablehnen und sagen, die Wahrscheinlichkeit hat sich verändert.
 
+<div style="page-break-after: always;"></div>
+
+### Hypothesentest 1 Seitig
+> Ein einseitiger Hypothesentest lässt sich in einen linksseitigen und einen rechtsseitigen Test unterteilen. Bei einem rechtsseitigen Test möchte man prüfen, ob die Wahrscheinlichkeit der Nullhypothese größer geworden ist, also $H_0: p < p_0$ oder $H_1: p > p_0$. Bei einem linksseitigen Test möchte man prüfen, ob die Wahrscheinlichkeit der Nullhypothese kleiner geworden ist, also $H_0: p > p_0$ oder $H_1: p < p_0$. 
+> Um die Berechnung durchzuführen, für die obere und untere Grenze benötigen wir die Sigma-Regeln. Also gilt für $[a,b] = \mu \pm 2 \cdot \sigma$.
+> 
+> **Wichtig**
+> Das Signifikanzniveau bleibt auf einer Seite.
+##### $2 \cdot \sigma$-Regel
+
+> Die Zwei-Sigma-Regel umfasst einen Verteilungsbereich um den Erwartungswert herum. Bei einem Signifikanzniveau von $5\%$ kann man die $2 \cdot \sigma$-Regel anwenden, da diese einen Bereich von $95\%$ umfasst. Sie wird berechnet, indem man die Standardabweichung mit $2$ multipliziert.
+
+**Beispiel**
+> Angenommen, ein Schraubenhersteller behauptet, dass 90% seiner hergestellten Schrauben den Qualitätsstandard erfüllen. Um dies zu überprüfen, führen wir einen Hypothesentest durch. Wir untersuchen 100 Schrauben und bekommen 88 Heile schrauben geliefert.
+
+**Vorgehen**
+1. Null- und Alternativhypothese formulieren.
+2. Erwartungswert berechnen
+3. Standardabweichung berechnen
+4. Berechnung der Ober- und Untergrenze 
+5. Entscheidung treffen ob $p > p_0$ oder $p < p_0$ 
+
+<div style="page-break-after: always;"></div>
+
+**Hypothesen**
+> Nullhypothese $(H_0):$ Die Garantie ist über $90\% \rightarrow p < p_0$
+> 
+> Alternativhypothese $(H_1):$ Die Garantie ist unter $90\% \rightarrow p > p_0$
+
+**Rechnung**
+$$
+\begin{matrix}
+\mu & = & n \cdot p \\
+\Leftrightarrow 100 \cdot 0.9 & = &90 \\
+\mu & = & 90 \\\\
+
+\sigma & = & \sqrt{n \cdot p \cdot(1 - 0.9)} \\
+\Leftrightarrow & = & \sqrt{100 \cdot 0,9 \cdot (1 - 0.9)} \\
+\sigma & = & 3 \\\\
+
+&& 2 \cdot \sigma ~ \text{Regel}  \\\\
+a & = & 90 - 6 \\ 
+a & = & 84 \\
+b & = & 90 + 6 \\
+b & = & 96 
+\end{matrix}
+$$
+**Entscheidung**
+> Wir lehnen die Nullhypothese ab, da wir $90$ heile Schrauben erwarten, aber nur 88 haben. Somit befinden wir uns im Bereich, um die Nullhypothese ablehnen zu können. Außerdem wissen wir, dass die Garantie weniger als $90\%$ beträgt.
