@@ -11,35 +11,16 @@
             "id": "4a5d6098ac586850",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "903e279e3fc944d7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
+                "file": "Religion/12 Reli test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "71fd68374b02d296",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 11.46.46.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md"
+                "file": "Religion/12 Reli test.md"
               }
             }
           },
@@ -93,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
+                "file": "Religion/12 Reli test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
+                "file": "Religion/12 Reli test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "63f522fcde2903a5",
@@ -148,23 +128,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "903e279e3fc944d7",
+  "active": "4a5d6098ac586850",
   "lastOpenFiles": [
+    "PDF/Reli test/12 Reli test.pdf",
+    "PDF/Reli test",
+    "PDF/New folder",
+    "Religion/Unbenannt.md",
+    "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
     "Pasted image 20240207115606.png",
-    "Excalidraw/Drawing 2024-02-07 11.46.46.excalidraw.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
-    "Spanisch/17 Stotomentos.md",
     "Pasted image 20240207102559.png",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
+    "Excalidraw/Drawing 2024-02-07 11.46.46.excalidraw.md",
+    "Spanisch/17 Stotomentos.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
     "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
     "Mathe/Mathematica/Abiturpruefung von 2019.nb.md",
@@ -189,14 +174,10 @@
     "Mathe/Mathematica/Abiturpruefung 2019.nb",
     "PDF/Lernzettel/Mathe/Stochastik.pdf",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2016.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2013.md",
-    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Informatik/ppt8265.tmp",
     "Informatik/~$Dynamische Datenstrukturen.pptx",
     "PDF/Lernzettel/Mathe/Analysis.pdf",
     "Informatik/ppt2223.tmp",
-    "Informatik/ppt1196.tmp",
-    "Informatik/ppt274B.tmp",
     "Pasted image 20240115182159.png",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",
@@ -205,7 +186,6 @@
     "PDF/Informatik/Fall2.png",
     "PDF/Informatik/Fall1.png",
     "Informatik/Dia/Relationaledatenbanken/Frage.png",
-    "Informatik/Dia/Relationaledatenbanken/Aufgabe 1.4.png",
     "Unbenannt.canvas"
   ]
 }
