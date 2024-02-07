@@ -69,3 +69,4 @@ P(B) =
 \end{matrix}
 $$
 [Mathematica](Mathe/Mathematica/Abiturpruefung%202019.nb)
+![[Pasted image 20240207115606.png]]
