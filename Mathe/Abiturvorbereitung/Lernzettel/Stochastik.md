@@ -103,6 +103,8 @@ $$n! = n \cdot (n-1) \cdot (n-2) \cdot \ldots \cdot 2 \cdot 1$$
 
 $$4! = 4 \cdot 3 \cdot 2 \cdot 1 = 24$$
 > Das bedeutet, es gibt $24$ verschiedene Arten, wie du die Bücher auf das Regal stellen kannst, da für das erste Buch $4$ Möglichkeiten existieren, für das zweite Buch $3$ Möglichkeiten, für das dritte Buch $2$ Möglichkeiten und für das vierte Buch $1$ Möglichkeit vorhanden ist.
+### Stochastische unabhaengigkeit
+> Stochastische Unabhängigkeit bedeutet, dass das Eintreten eines Ereignisses keinen Einfluss auf das Eintreten eines anderen hat. Wenn zwei Ereignisse $A$ und $B$ stochastisch unabhängig sind, ist die Wahrscheinlichkeit ihres gemeinsamen Eintretens gleich dem Produkt ihrer Einzelwahrscheinlichkeiten: $P(A \cap B) = P(A) \cdot P(B)$.
 
 <div style="page-break-after: always;"></div>
 
@@ -115,9 +117,9 @@ $$\Huge \binom{n}{k} = \frac{n!}{k! \cdot (n - k)!}$$
 > Der Binomialkoeffizient wird oft verwendet, um die Anzahl der Kombinationen zu berechnen, die aus $k$ Elementen aus einer Menge von $n$ Elementen ohne Wiederholung ausgewählt werden können. Er wird auch in der Wahrscheinlichkeitstheorie verwendet, insbesondere in der Binomialverteilung, um die Anzahl der Erfolge in einer bestimmten Anzahl von unabhängigen Versuchen zu berechnen.
 
 **Beispiel**
-> Angenommen, du hast ein Fahrradschloss mit $4$ Zahlenrädern, und jedes Rad hat $10$ mögliche Zahlen (von $0$ bis $9$). Du möchtest die Kombination aus Zahlen wählen, um das Fahrradschloss zu öffnen. Wie viele verschiedene Kombinationen gibt es? 
-> Hier können wir den Binomialkoeffizienten verwenden, um die Anzahl der Möglichkeiten zu berechnen, die Kombination auszuwählen. Jedes Zahlenrad hat $10$ mögliche Zahlen, und da die Reihenfolge der Zahlen wichtig ist, verwenden wir die Permutation.
-> Die Anzahl der Möglichkeiten, $k$ Zahlen aus $n$ möglichen Optionen ohne Wiederholung auszuwählen, beträgt:
+> Angenommen, du hast ein Fahrradschloss mit 4 Zahlenrädern, und jedes Rad hat 10 mögliche Zahlen (von 0 bis 9). Du möchtest die Kombination aus Zahlen wählen, um das Fahrradschloss zu öffnen. Wie viele verschiedene Kombinationen gibt es, sodass jede Zahl in der Kombination nur einmal vorkommt? 
+> 
+> Hier können wir den Binomialkoeffizienten verwenden, um die Anzahl der Möglichkeiten zu berechnen. Jedes Zahlenrad hat 10 mögliche Zahlen, und da die Reihenfolge der Zahlen nicht wichtig ist, verwenden wir den Binomialkoeffizienten. Die Anzahl der Möglichkeiten, k Zahlen aus n möglichen Optionen ohne Wiederholung auszuwählen, beträgt:
 
 $$\Huge \binom{n}{k} = \frac{n!}{k! \cdot(n - k)!}$$
 
@@ -126,7 +128,7 @@ $$\Huge \binom{n}{k} = \frac{n!}{k! \cdot(n - k)!}$$
 > Für unser Beispiel ist $n = 10$ (Anzahl der möglichen Zahlen auf jedem Rad) und $k = 4$ (Anzahl der Räder). Also setzen wir die Werte in die Formel ein:
 
 $$\binom{10}{4} = \frac{10!}{4! \cdot(10 - 4)!} = \frac{10!}{4! \cdot 6!} = 210$$
-> Das bedeutet, es gibt $210$ verschiedene Kombinationen von Zahlen, die du für das Fahrradschloss wählen kannst. 
+> Das bedeutet, es gibt $210$ verschiedene Kombinationen von Zahlen, die du für das Fahrradschloss wählen kannst, so dass jede Zahl nur einmal vorkommt.
 ```Mathematica
 Binomial[n,k]
 ```
