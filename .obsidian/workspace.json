@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d686ed2ca6e7be4",
+        "id": "b6f03c937925acd3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5d6098ac586850",
+            "id": "445b8418116cb9db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
+                "file": "Spanisch/17 Stotomentos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md"
+                "file": "Spanisch/17 Stotomentos.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
+                "file": "Spanisch/17 Stotomentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
+                "file": "Spanisch/17 Stotomentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,36 +128,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a5d6098ac586850",
+  "active": "445b8418116cb9db",
   "lastOpenFiles": [
-    "Informatik/~$Dynamische Datenstrukturen.pptx",
-    "Informatik/Abiturvorbereitung/Checklist Informatik.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
-    "Informatik/Bildungsgangs Praesentation.md",
-    "Informatik/Themen Klausur 15.12.2023.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
-    "PDF/Reli test/Stochastik.pdf",
+    "Spanisch/17 Stotomentos.md",
     "Religion/12 Reli test.md",
-    "Religion/Unbenannt.md",
+    "Informatik/Themen Klausur 15.12.2023.md",
+    "PDF/Reli test/Stochastik.pdf",
     "PDF/Reli test/12 Reli test.pdf",
     "PDF/Reli test",
     "PDF/New folder",
+    "Religion/Unbenannt.md",
     "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
     "Pasted image 20240207115606.png",
     "Pasted image 20240207102559.png",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
     "Excalidraw/Drawing 2024-02-07 11.46.46.excalidraw.md",
-    "Spanisch/17 Stotomentos.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
     "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
     "Mathe/Mathematica/Abiturpruefung von 2019.nb.md",
@@ -169,14 +164,19 @@
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
     "Mathe/Abiturvorbereitung/Checklist Mathe.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
     "PDF/Lernzettel/Mathe/Zahlentheorie.pdf",
     "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
+    "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
     "Informatik/pptE46F.tmp",
+    "Informatik/Abiturvorbereitung/Checklist Informatik.md",
+    "Informatik/Bildungsgangs Praesentation.md",
     "Biologie/6 Ablauf in einer Synapse.md",
     "Mathe/Mathematica/Abiturpruefung 2019.nb",
     "PDF/Lernzettel/Mathe/Stochastik.pdf",
     "Informatik/ppt8265.tmp",
+    "Informatik/~$Dynamische Datenstrukturen.pptx",
     "Pasted image 20240115182159.png",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",

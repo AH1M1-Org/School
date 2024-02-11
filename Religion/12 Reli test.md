@@ -53,3 +53,4 @@ tags:
 1. **Wert des Lebens:** Die Förderung oder Durchführung von Sterbehilfe könnte den Eindruck erwecken, dass das Leben weniger wertvoll ist und dass der Tod eine akzeptable Lösung für Probleme darstellt.
 2. **Missbrauchspotenzial:** Ein weiteres Argument gegen Sterbehilfe ist das Potenzial für Missbrauch und Ausbeutung. Die Legalisierung von Sterbehilfe könnte dazu führen, dass verletzlich Personen, wie ältere Menschen oder solche mit psychischen Erkrankungen, unter Druck gesetzt werden, ihr Leben zu beenden, sei es aus finanziellen Gründen oder aufgrund von familiärem oder gesellschaftlichem Druck.
 3. **Gott:** Wenn man Sterbehilfe durchführt oder anbietet, tötet man automatisch einen Teil von Gott, da der Mensch ein Ebenbild Gottes ist und in jedem Menschen ein Teil von Gott steckt.
+![[12 Reli test.pdf]]
