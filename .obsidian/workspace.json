@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "445b8418116cb9db",
+            "id": "1bb7e8d510914913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md"
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "445b8418116cb9db",
+  "active": "1bb7e8d510914913",
   "lastOpenFiles": [
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
+    "PDF/Mathe/8 Abiturpruefung Mathe 2017 mHIMI.pdf",
+    "PDF/Mathe/4 Abiturprüfung Mathe 2023 MHIMI.pdf",
+    "PDF/Mathe/5 Abiturpruefung Mathe 2022 mHIMI.pdf",
+    "PDF/Mathe/6 Abiturpruefung Mathe 2022 oHIMI.pdf",
+    "PDF/Mathe/7 Abiturpruefung Mathe 2021 mHIMI.pdf",
+    "PDF/Mathe/2 Lagebezeichnung Gerade und Ebene.pdf",
+    "PDF/Mathe/1 Infomaterial Vektoren.pdf",
     "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
     "Biologie/ppt5777.tmp",
     "Biologie/pptB0C6.tmp",
@@ -147,10 +155,6 @@
     "Spanisch/17 Stotomentos.md",
     "Religion/12 Reli test.md",
     "Informatik/Themen Klausur 15.12.2023.md",
-    "PDF/Reli test/Stochastik.pdf",
-    "PDF/Reli test/12 Reli test.pdf",
-    "PDF/Reli test",
-    "PDF/New folder",
     "Religion/Unbenannt.md",
     "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
     "Pasted image 20240207115606.png",
@@ -164,19 +168,15 @@
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
     "Mathe/Abiturvorbereitung/Checklist Mathe.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
-    "PDF/Lernzettel/Mathe/Zahlentheorie.pdf",
     "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
     "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
-    "Informatik/pptE46F.tmp",
     "Informatik/Abiturvorbereitung/Checklist Informatik.md",
     "Informatik/Bildungsgangs Praesentation.md",
     "Biologie/6 Ablauf in einer Synapse.md",
-    "Mathe/Mathematica/Abiturpruefung 2019.nb",
     "Pasted image 20240115182159.png",
     "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
     "Informatik/Abiturvorbereitung/Praesentation/stack.gif",
