@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md"
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +140,9 @@
   },
   "active": "1bb7e8d510914913",
   "lastOpenFiles": [
+    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
     "PDF/Mathe/8 Abiturpruefung Mathe 2017 mHIMI.pdf",
     "PDF/Mathe/4 Abiturprüfung Mathe 2023 MHIMI.pdf",
@@ -159,15 +162,12 @@
     "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
     "Pasted image 20240207115606.png",
     "Pasted image 20240207102559.png",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
     "Excalidraw/Drawing 2024-02-07 11.46.46.excalidraw.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
     "Mathe/Mathematica/Abiturpruefung von 2019.nb.md",
     "Mathe/Mathematica/Abiturpruefung von 2019.md",
     "Abiturpruefung von 2019@.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
     "Mathe/Abiturvorbereitung/Checklist Mathe.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
