@@ -11,8 +11,18 @@
             "id": "a23de6e30bc6cbf6",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "empty",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/9 Stylistic devices.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -58,7 +68,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {}
+=======
+              "state": {
+                "file": "Englisch/9 Stylistic devices.md"
+              }
+>>>>>>> Stashed changes
             }
           },
           {
@@ -67,6 +83,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Englisch/9 Stylistic devices.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +103,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Englisch/9 Stylistic devices.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +155,14 @@
   },
   "active": "a23de6e30bc6cbf6",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2023.md",
+=======
+    "Englisch/10 Englisch Geothermal energy production.md",
+    "Englisch/9 Stylistic devices.md",
+>>>>>>> Stashed changes
     "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
