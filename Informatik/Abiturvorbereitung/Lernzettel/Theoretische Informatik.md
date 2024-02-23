@@ -61,7 +61,7 @@ $$
 Ein deterministischer endlicher Automat $A = \{Q, \Sigma, \delta, q_{0}, F\}$ besteht aus:
 - einer endlichen Menge an $Q$ von Zuständen
 - einem endlichen Eingabealphabet $\Sigma$
-- einer Übergangsfunktion $\delta$, die jedem Paar $(q, \sigma)$ bestehend aus einem Zustand $q \in Q$ und einem Zeichen $\sigma \in \Sigma$ einen eindeutigen Folgezustand $\delta(q, \sigma) = q'$ zuordnet
+- einer Übergangsfunktion $\delta : Q \times \sum \rightarrow Q$  
 - einem Startzustand $q_0 \in Q$
 - einer Menge an $F \subseteq Q$ von Endzuständen
 ##### Beispiel
