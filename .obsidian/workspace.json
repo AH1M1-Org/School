@@ -1,28 +1,23 @@
 {
   "main": {
-    "id": "c36246e98622b7a8",
+    "id": "8065bb26f835e797",
     "type": "split",
     "children": [
       {
-        "id": "b6f03c937925acd3",
+        "id": "004efe56b415b206",
         "type": "tabs",
         "children": [
           {
-            "id": "a23de6e30bc6cbf6",
+            "id": "94729dc96585e8d1",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
-              "type": "empty",
-              "state": {}
-=======
               "type": "markdown",
               "state": {
-                "file": "Englisch/9 Stylistic devices.md",
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
->>>>>>> Stashed changes
             }
           }
         ]
@@ -31,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b091bebbc44713de",
+    "id": "5ec679dd69514e67",
     "type": "split",
     "children": [
       {
-        "id": "b711305d5d450691",
+        "id": "24f3f8c0a081b6ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd60c32e25e528f",
+            "id": "4e2dbaa0717e7800",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,44 +44,41 @@
             }
           },
           {
-            "id": "390688a661decdaa",
+            "id": "b781219cc044c67c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b484efc885a950ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "84512c38287bace4",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0444d71227d97f75",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
-              "state": {
-                "file": "Englisch/9 Stylistic devices.md"
-              }
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "5bd9257ba6167706",
+            "id": "d64a921787b1f9d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "Englisch/9 Stylistic devices.md",
->>>>>>> Stashed changes
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +90,24 @@
             }
           },
           {
-            "id": "0a47033df7422ef6",
+            "id": "74ced63c1e495007",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "Englisch/9 Stylistic devices.md",
->>>>>>> Stashed changes
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a36078c18ce8ac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md"
               }
             }
           }
@@ -116,96 +115,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
-  },
-  "right": {
-    "id": "63f522fcde2903a5",
-    "type": "split",
-    "children": [
-      {
-        "id": "8a91f64aa1ca6bfd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56afadb93432256e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "a23de6e30bc6cbf6",
+  "active": "94729dc96585e8d1",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Informatik/Abiturvorbereitung/Lernzettel/Theoretische Informatik.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2023.md",
-=======
-    "Englisch/10 Englisch Geothermal energy production.md",
-    "Englisch/9 Stylistic devices.md",
->>>>>>> Stashed changes
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2018.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2017.md",
-    "PDF/Mathe/8 Abiturpruefung Mathe 2017 mHIMI.pdf",
-    "PDF/Mathe/4 Abiturprüfung Mathe 2023 MHIMI.pdf",
-    "PDF/Mathe/5 Abiturpruefung Mathe 2022 mHIMI.pdf",
-    "PDF/Mathe/6 Abiturpruefung Mathe 2022 oHIMI.pdf",
-    "PDF/Mathe/7 Abiturpruefung Mathe 2021 mHIMI.pdf",
-    "PDF/Mathe/2 Lagebezeichnung Gerade und Ebene.pdf",
-    "PDF/Mathe/1 Infomaterial Vektoren.pdf",
-    "Biologie/7 Wirkstoffe Sznapsengift - Tetrodoxin.md",
-    "Biologie/ppt5777.tmp",
-    "Biologie/pptB0C6.tmp",
-    "Biologie/~$Tetrodotoxin.pptx",
-    "Spanisch/17 Stotomentos.md",
-    "Religion/12 Reli test.md",
-    "Informatik/Themen Klausur 15.12.2023.md",
-    "Religion/Unbenannt.md",
-    "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
-    "Pasted image 20240207115606.png",
-    "Pasted image 20240207102559.png",
-    "Excalidraw/Drawing 2024-02-07 11.46.46.excalidraw.md",
-    "Mathe/Mathematica/Abiturpruefung von 2019.nb.md",
-    "Mathe/Mathematica/Abiturpruefung von 2019.md",
-    "Abiturpruefung von 2019@.md",
     "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2022.md",
-    "Mathe/Abiturvorbereitung/Checklist Mathe.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
-    "Mathe/Zahlentheorie/6 Lernzettel Zahlentheorie.md",
-    "Informatik/Abiturvorbereitung/Abiturpruefung von 2023.md",
-    "Informatik/Abiturvorbereitung/Checklist Informatik.md",
-    "Informatik/Bildungsgangs Praesentation.md",
-    "Pasted image 20240115182159.png",
-    "Informatik/Abiturvorbereitung/Praesentation/Queue.gif",
-    "Informatik/Abiturvorbereitung/Praesentation/stack.gif",
-    "PDF/Informatik/Fall4.png",
-    "PDF/Informatik/Fall3.png",
-    "PDF/Informatik/Fall2.png",
-    "PDF/Informatik/Fall1.png",
-    "Informatik/Dia/Relationaledatenbanken/Frage.png",
-    "Unbenannt.canvas"
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2020.pdf",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md",
+    "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md"
   ]
 }
