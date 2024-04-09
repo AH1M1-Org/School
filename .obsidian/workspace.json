@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "004efe56b415b206",
+        "id": "38d62c26236c03d0",
         "type": "tabs",
         "children": [
           {
-            "id": "05527daa735a8b0d",
+            "id": "695045cc6d6a7bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Checklist Informatik.md",
+                "file": "Religion/Abiturvorbereitung/Lernzettel/Jesus gestern und heute (Christologiekurs).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8b6e48552def2b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gesellschaftslehre/9 Verschiebung der Machtachsen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Checklist Informatik.md",
+                "file": "Religion/Abiturvorbereitung/Lernzettel/Jesus gestern und heute (Christologiekurs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Checklist Informatik.md",
+                "file": "Religion/Abiturvorbereitung/Lernzettel/Jesus gestern und heute (Christologiekurs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Abiturvorbereitung/Checklist Informatik.md"
+                "file": "Religion/Abiturvorbereitung/Lernzettel/Jesus gestern und heute (Christologiekurs).md"
               }
             }
           }
@@ -120,27 +133,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05527daa735a8b0d",
+  "active": "695045cc6d6a7bea",
   "lastOpenFiles": [
-    "Spanisch/18 Presentation.md",
+    "Religion/Abiturvorbereitung/Lernzettel/Gott in den Wissenschaften Theologie, Philosophie und Psychologie.md",
+    "PDF/Lernzettel/Religion/Gott in den Wissenschaften Theologie, Philosophie und Psychologie.pdf",
+    "Religion/Abiturvorbereitung/Lernzettel/Christliche Anthropologie 2 Das Menschenbild der Medizin und der christl. Glaube.md",
+    "PDF/Lernzettel/Religion/Christliche Anthropologie 2 Das Menschenbild der Medizin und der christl. Glaube.pdf",
+    "Religion/Abiturvorbereitung/Lernzettel/Christliche Anthropologie 1 Christ und Staat, Beispiel Krieg.md",
+    "PDF/Lernzettel/Religion/Christliche Anthropologie 1 Christ und Staat, Beispiel Krieg.pdf",
+    "PDF/Lernzettel/Religion",
+    "Pasted Images/Pasted image 20240405170922.png",
+    "Religion/10 Hirntodkriterium.md",
+    "Religion/11 Ethik der Organspende.md",
     "Gesellschaftslehre/9 Verschiebung der Machtachsen.md",
-    "Gesellschaftslehre/8 Neuer Imperialismus.md",
+    "Religion/9 Die drei Elemente des Hirntods.md",
+    "Religion/8 Menschen & Krankheiten & Tod.md",
+    "Religion/12 Reli test.md",
+    "Religion/7 Heiliger Krieg (Djihad im Islam).md",
+    "Excalidraw/Christi.excalidraw.md",
+    "Excalidraw/Umstellen Abituraufgabe 2023.excalidraw.md",
+    "Religion/5 Die fuenf Verteidigungskonzepte.md",
+    "Excalidraw/Zwei Reiche Lehre.excalidraw.md",
+    "Excalidraw/Informatik Code darstellung.excalidraw.md",
+    "Excalidraw/Die Zwie Reiche Lehre.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-07 11.46.46.excalidraw.md",
+    "Religion/1 Einstieg Ethik.md",
+    "Religion/Abiturvorbereitung/Lernzettel/Jesus gestern und heute (Christologiekurs).md",
+    "Religion/4 Gerechter Krieg.md",
+    "Religion/2 Wurzel des Krieges.md",
+    "Religion/3 Christen pazifistisch.md",
+    "6 Zwei Reiche Lehre.excalidraw.md",
+    "Religion/6 Die Zwei Reiche Lehre.md",
     "Mathe/Abiturvorbereitung/Lernzettel/Analysis.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Zahlentheorie.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2021.md",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2020.pdf",
-    "Mathe/Abiturvorbereitung/Abiturpruefung von 2019.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Stochastik.md",
-    "Mathe/Abiturvorbereitung/Lernzettel/Analytische Geometrie.md"
+    "Religion/Abiturvorbereitung/Lernzettel",
+    "Religion/Abiturvorbereitung",
+    "Mathe/Abiturvorbereitung/Abiturpruefung von 2020.pdf"
   ]
 }
